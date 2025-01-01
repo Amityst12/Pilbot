@@ -1,7 +1,6 @@
 import discord
 import requests
-import asyncio
-import aiohttp
+import json
 from discord.ext import commands
 import os
 from dotenv import load_dotenv
@@ -14,6 +13,7 @@ BASE_URL = "https://europe.api.riotgames.com"
 BOT_PICTURE = "https://media.discordapp.net/attachments/374662463926566914/1323692905713635398/file-Pjkb249pb3APyfoq8ZER2s.png?ex=67757095&is=67741f15&hm=883e522e8150e98b842395e247c20359a583163e7f9ad21b966e52e4bd6aa592&=&format=webp&quality=lossless&width=676&height=676"
 print("DISCORD_BOT_TOKEN:", TOKEN)
 print("RIOT_API_KEY:", RIOT_API_KEY)
+
 
 # Create an instance of the bot with required intents
 intents = discord.Intents.all()  # Use default intents
@@ -32,6 +32,92 @@ tft_game_type = {
     "RANKED_TFT_TURBO" : "Hyper Roll",
     "pve" : "PVE"
 }
+
+
+
+
+## USE JSON FUNCTIONS FOR INFO SECTION ##
+
+# Reading json
+def readJSON(PATH):
+    try:
+        with open(f"Cache/{PATH}.json", 'r') as file:
+            data = json.load(file)
+            return data
+    except FileNotFoundError:
+        print(f"Error: File not found - Cache/{PATH}.json")  # Debug: Handle missing file
+        return None
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON in file Cache/{PATH}.json: {e}")  # Debug: Handle bad JSON
+        return None
+
+# Write to json
+def writeJSON(PATH, data):
+    try:
+        with open(f"Cache/{PATH}", 'w') as file:
+            json.dump(data, file, indent=4)
+    except Exception as e:
+        print(f"Error writing to file Cache/{PATH}: {e}")  # Debug: Catch and report any exceptions
+
+# Writing game analysis [ITEMS ON UNITS]
+def itemsForUnitsJSON(FileName, new_items, gameid, player_puuid):
+    file_path = f"Cache/Units/{FileName}.json"
+
+    # Check if file exists and load its data; otherwise, initialize a new dictionary
+    if os.path.exists(file_path):
+        with open(file_path, 'r') as file:
+            try:
+                data = json.load(file)
+            except json.JSONDecodeError:
+                data = {}  # If the file exists but is empty or invalid, initialize an empty dictionary
+    else:
+        data = {}
+        
+    if gameid not in data:
+        data[gameid] = {}
+
+    # Make new palyer_puuid dict
+    if player_puuid not in data[gameid]:
+        data[gameid][player_puuid] = {
+            "items": new_items
+        }
+    else:
+        # Update the list of items if needed or skip if already processed
+        if new_items not in data[gameid][player_puuid]["items"]:
+            data[gameid][player_puuid]["items"].extend(new_items)
+
+    # Save the updated data back to the file
+    with open(file_path, "w") as file:
+        json.dump(data, file, indent=4)
+
+# Writing game analysis [UNITS ON PLAYERS]  ---- FileName is PUUID
+def unitsOnPlayersJSON(FileName, new_data, gameid): pass
+    
+# Game analyzed +1
+def updateGamesAnalyzed():
+    data = readJSON("General/gamesAnalyzed")
+    amount = data["Games"]
+    amount += 1
+    new_data = {"Games" : amount}
+    writeJSON("General/gamesAnalyzed.json", new_data)
+
+# Analyze game items for units
+def AnalyzeGameUnits(GameData):
+    for player in GameData["info"]["participants"]:
+        units_list = ""
+        units_list = ", ".join(unit["character_id"] for unit in player["units"])
+        
+        for unit in player["units"]:
+            items = ""
+            items = ", ".join(unit["itemNames"])  # Join items dynamically
+            itemsForUnitsJSON(unit["character_id"], items, GameData["metadata"]["match_id"], player["puuid"])
+        
+        unitsOnPlayersJSON(player["puuid"], units_list, GameData["metadata"]["match_id"])
+
+
+
+
+## USE API FUNCTIONS FOR INFO SECTION ##
 
 # Returns player's PUUID
 def getPUUID(Summoner_name, Player_tag = "eune"):
@@ -59,6 +145,7 @@ def getTFTmatches(PUUID, count = 1):
 def getTFTmatchInfo(matchId):
     url = f"{BASE_URL}/tft/match/v1/matches/{matchId}?api_key={RIOT_API_KEY}"
     response = requests.get(url)
+    print(url)
     if response.status_code == 200:
         Match_data = response.json()
         return Match_data
@@ -107,7 +194,11 @@ def getSpectatorTFTFromPUUID(PUUID):
     print("Could not reach getSpectatorTFTFromPUUID")
     return False
 
-# @bot.event - Waiting for an event to happen then responds
+
+
+
+## APP EVENTS SECTION ##
+
 # Logged
 @bot.event
 async def on_ready():
@@ -139,7 +230,10 @@ async def on_message(message):
 
 
      
-# @bot.command() - Responding to prefix ( TFT ) command
+     
+## APP COMMANDS SECTION ##     
+     
+# Menu command for APP
 @bot.command()
 async def menu(ctx):
     embed = discord.Embed(
@@ -174,11 +268,11 @@ async def menu(ctx):
         value="• Don't use spacebar on playerID,\n• Don't use '#' on playerTAG",
         inline=False
     )
-    embed.set_footer(text="Bot created by: Amityst12")
+    embed.set_footer(text="App created by: Amityst12, using Riot's API")
     await ctx.send(embed=embed)
 
 
-# info command about player
+# Info command about player
 @bot.command()
 async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
     PUUID = getPUUID(summoner_name, summoner_tag)
@@ -201,16 +295,21 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
     ).set_author(name= "Pilbot", icon_url=BOT_PICTURE, url="" )
     
     found_game = False  # To track if we found any relevant game data
-
     for x in player_info:
         if x["queueType"] == "RANKED_TFT_DOUBLE_UP":                                  # Double up
             if (x["losses"] + x["wins"]) != 0:
                 doubleupWR = x["wins"] / (x["wins"] + x["losses"]) * 100
                 doubleupWR = round(doubleupWR, 2)
+                value=f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP\n Top 2 W/R: {doubleupWR}%"
+                if x["hotStreak"] == True:
+                    value +=f"\n **{summonerName} is on a winstreak!**🔥"
+                if x["freshBlood"] == True:
+                    value +=f"\n **{summonerName} just ranked up!**"
+                if x["inactive"] == True:
+                    value +=f"\n **{summonerName} is inactive😕.**"
                 embed.add_field(
-                    name="Double Up",
-                    value=f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP\n"
-                          f"Top 2 W/R: {doubleupWR}%",
+                    name="•Double Up",
+                    value=value,
                     inline=False
                 )
                 found_game = True
@@ -219,10 +318,16 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
             if (x["losses"] + x["wins"]) != 0:
                 rankedWR = x["wins"] / (x["wins"] + x["losses"]) * 100
                 rankedWR = round(rankedWR, 2)
+                value = f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP\n Top 4 W/R: {rankedWR}%"
+                if x["hotStreak"] == True:
+                    value +=f"\n **{summonerName} is on a winstreak!**🔥"
+                if x["freshBlood"] == True:
+                    value +=f"\n **{summonerName} just ranked up!**"
+                if x["inactive"] == True:
+                    value +=f"\n **{summonerName} is inactive😕.**"
                 embed.add_field(
-                    name="Ranked",
-                    value=f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP\n"
-                          f"Top 4 W/R: {rankedWR}%",
+                    name="•Ranked",
+                    value=value,
                     inline=False
                 )
                 found_game = True
@@ -231,14 +336,13 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
             if (x["losses"] + x["wins"]) != 0:
                 hrWR = x["wins"] / (x["wins"] + x["losses"]) * 100
                 hrWR = round(hrWR, 2)
+                value =f"{x['ratedTier']}, {x['ratedRating']} Rating\n Top 4 W/R: {hrWR}%"
                 embed.add_field(
-                    name="HyperRoll",
-                    value=f"{x['ratedTier']}, {x['ratedRating']} Rating\n"
-                          f"Top 4 W/R: {hrWR}%",
+                    name="•HyperRoll",
+                    value= value,
                     inline=False
                 )
-                found_game = True
-
+                found_game = True   
     if not found_game:
         embed.description = f"Sorry, {summoner_name} did not play any game recently."
     else:
@@ -361,7 +465,9 @@ async def history(ctx, summoner_name: str, summoner_tag: str = "eune", games: in
         gamecounter += 1
 
         await ctx.send(embed=embed)
-
+        AnalyzeGameUnits(Match_info)
+        updateGamesAnalyzed()
+    
     print(f"Sent info for {summoner_name}'s last {games} games.")
         
         
