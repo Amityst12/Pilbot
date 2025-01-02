@@ -1,0 +1,86 @@
+{
+    "EUN1_3720250501": {
+        "lHPW29OXLw8ZWZhfNaeHmLO5huwkkxeVMjhAA9RhsYP_qLlTg92f2LnqcGq9leVcN4O9pAp3Ml1xzg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_GuardianAngel, TFT_Item_InfinityEdge, TFT_Item_Deathblade"
+        }
+    },
+    "EUN1_3719793247": {
+        "XsAvBs93nl9oiefPE_DKYs1tA47IlMlCvDgkrnAW5jIA7M1ScHp4edWZaJefZXXf1QbuGxnU-lRnag": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3717989931": {
+        "xTBgV5Xu4CYF13sdxgJooeLlXoYzQs8dgK3mqI2ZYhcwkLJpeZXVKrMdyAhbAyu3xw9i4fSbEplQVA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3717248160": {
+        "FGgiOEkxNzbfuV03lSIPbZwHeBbD_Y5GgZnP5r_gDIvzgh8ijdayeAfxDcwefG8zNwuVbcIIFZiTuQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3717211322": {
+        "FGgiOEkxNzbfuV03lSIPbZwHeBbD_Y5GgZnP5r_gDIvzgh8ijdayeAfxDcwefG8zNwuVbcIIFZiTuQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3716090731": {
+        "Fq5v9KtApI9o7YeYY5sqsofjSVEIzOLjGa_aHlktTA0sudl-9ILaQ0XFvhTVQ009WavoniEyEDpy0A": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715141772": {
+        "p3UjIKLzAyVS6oAmhP814o210k55exJUkBduyC3j-zyYCl6C8OtoUgENfN7ozK7YfEPK4q3ihPkQcQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3714871624": {
+        "9vcPJS7bHty2sEATQW4BFBYvdSB8O_KKo6HpSYNzziquMCWpaMZ9QAP540NqMq5LPp1JL8prFuvcwQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_TitansResolve, TFT_Item_UnstableConcoction, TFT4_Item_OrnnInfinityForce"
+        }
+    },
+    "EUN1_3714780715": {
+        "FGgiOEkxNzbfuV03lSIPbZwHeBbD_Y5GgZnP5r_gDIvzgh8ijdayeAfxDcwefG8zNwuVbcIIFZiTuQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_UnstableConcoction, TFT_Item_UnstableConcoction, TFT_Item_Artifact_SilvermereDawn"
+        }
+    },
+    "EUN1_3714630707": {
+        "pZTxB-oYnz7ZmV9fML63oV2RzVoVgwOoPMQULxLeNA4DL85Wgjyd74t1bQWMqD6qTCYQjjybp3rGHg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3714443433": {
+        "FGgiOEkxNzbfuV03lSIPbZwHeBbD_Y5GgZnP5r_gDIvzgh8ijdayeAfxDcwefG8zNwuVbcIIFZiTuQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_GuardianAngel, TFT_Item_Artifact_ProwlersClaw, TFT_Item_Bloodthirster"
+        }
+    },
+    "EUN1_3714420787": {
+        "pZTxB-oYnz7ZmV9fML63oV2RzVoVgwOoPMQULxLeNA4DL85Wgjyd74t1bQWMqD6qTCYQjjybp3rGHg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SupportKnightsVow"
+        }
+    }
+}

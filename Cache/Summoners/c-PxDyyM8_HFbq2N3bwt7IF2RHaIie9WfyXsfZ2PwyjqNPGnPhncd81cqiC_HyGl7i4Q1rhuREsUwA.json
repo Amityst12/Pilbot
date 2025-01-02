@@ -1,0 +1,12 @@
+{
+    "EUN1_3715244804": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Vladimir, TFT13_Tristana, tft13_swain, TFT13_Nami, tft13_elise, TFT13_Ambessa, TFT13_Garen, TFT13_Sion"
+    },
+    "EUN1_3714998616": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Vladimir, TFT13_Prime, TFT13_MissMage"
+    }
+}

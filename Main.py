@@ -4,6 +4,7 @@ import json
 from discord.ext import commands
 import os
 from dotenv import load_dotenv
+from tft13Dicts import Champions_dict_tft13
 
 # Load the .env file
 load_dotenv()
@@ -11,8 +12,7 @@ TOKEN = os.getenv('DISCORD_BOT_TOKEN')
 RIOT_API_KEY = os.getenv('RIOT_API_KEY')
 BASE_URL = "https://europe.api.riotgames.com"
 BOT_PICTURE = "https://media.discordapp.net/attachments/374662463926566914/1323692905713635398/file-Pjkb249pb3APyfoq8ZER2s.png?ex=67757095&is=67741f15&hm=883e522e8150e98b842395e247c20359a583163e7f9ad21b966e52e4bd6aa592&=&format=webp&quality=lossless&width=676&height=676"
-print("DISCORD_BOT_TOKEN:", TOKEN)
-print("RIOT_API_KEY:", RIOT_API_KEY)
+
 
 
 # Create an instance of the bot with required intents
@@ -20,6 +20,7 @@ intents = discord.Intents.all()  # Use default intents
 intents.message_content = True
 intents.presences = True 
 bot = commands.Bot(command_prefix='TFT ', intents=intents, case_insensitive=True)
+bot.remove_command("help")
 
 # Types of TFT mode
 tft_game_type = {
@@ -59,8 +60,8 @@ def writeJSON(PATH, data):
     except Exception as e:
         print(f"Error writing to file Cache/{PATH}: {e}")  # Debug: Catch and report any exceptions
 
-# Writing game analysis [ITEMS ON UNITS]
-def itemsForUnitsJSON(FileName, new_items, gameid, player_puuid):
+# Writing game analysis [ITEMS ON UNITS WINRATE]
+def itemsForUnitsJSON(FileName, new_items, gameid, player_puuid, placement):
     file_path = f"Cache/Units/{FileName}.json"
 
     # Check if file exists and load its data; otherwise, initialize a new dictionary
@@ -77,12 +78,23 @@ def itemsForUnitsJSON(FileName, new_items, gameid, player_puuid):
         data[gameid] = {}
 
     # Make new palyer_puuid dict
+    top4 = False
+    top1 = False
+    if placement <= 4 : top4= True 
+    if placement == 1 : top1 = True
+    
+    
     if player_puuid not in data[gameid]:
         data[gameid][player_puuid] = {
+            "top4" : top4,
+            "top1" : top1,
             "items": new_items
         }
     else:
-        # Update the list of items if needed or skip if already processed
+        # Convert the string to a list if it's not already a list
+        if isinstance(data[gameid][player_puuid]["items"], str):
+            data[gameid][player_puuid]["items"] = data[gameid][player_puuid]["items"].split(", ")
+        
         if new_items not in data[gameid][player_puuid]["items"]:
             data[gameid][player_puuid]["items"].extend(new_items)
 
@@ -90,16 +102,56 @@ def itemsForUnitsJSON(FileName, new_items, gameid, player_puuid):
     with open(file_path, "w") as file:
         json.dump(data, file, indent=4)
 
-# Writing game analysis [UNITS ON PLAYERS]  ---- FileName is PUUID
-def unitsOnPlayersJSON(FileName, new_data, gameid): pass
+# Writing game analysis [UNITS ON PLAYERS WINRATE]  ---- FileName is PUUID
+def unitsOnPlayersJSON(FileName, new_data, gameid, placement): 
+    file_path = f"Cache/Summoners/{FileName}.json"
+    
+    # Check if file exists and load its data; otherwise, initialize a new dictionary
+    if os.path.exists(file_path):
+        with open(file_path, 'r') as file:
+            try:
+                data = json.load(file)
+            except json.JSONDecodeError:
+                data = {}  # If the file exists but is empty or invalid, initialize an empty dictionary
+    else:
+        data = {}
+    if gameid not in data:
+        data[gameid] = {}
+    # Make new palyer_puuid dict
+    top4 = False
+    top1 = False
+    if placement <= 4 : top4= True 
+    if placement == 1 : top1 = True
+    if gameid not in data[gameid]:
+        data[gameid] = {
+            "top4" : top4,
+            "top1" : top1,
+            "units": new_data, 
+        }
+    else:
+        # Update the list of items if needed or skip if already processed
+        if new_data not in data[gameid]:
+            data[gameid].extend(new_data)
+
+    # Save the updated data back to the file
+    with open(file_path, "w") as file:
+        json.dump(data, file, indent=4)
     
 # Game analyzed +1
-def updateGamesAnalyzed():
+def updateGamesAnalyzed(game_id):
     data = readJSON("General/gamesAnalyzed")
+    ids = data["ids"]
     amount = data["Games"]
-    amount += 1
-    new_data = {"Games" : amount}
-    writeJSON("General/gamesAnalyzed.json", new_data)
+    
+    if game_id not in data["ids"]:
+        amount += 1
+        ids.append(game_id)
+        new_data = {"Games" : amount,
+                     "ids" : ids}
+        writeJSON("General/gamesAnalyzed.json", new_data)
+        return True
+    
+    return False
 
 # Analyze game items for units
 def AnalyzeGameUnits(GameData):
@@ -110,9 +162,9 @@ def AnalyzeGameUnits(GameData):
         for unit in player["units"]:
             items = ""
             items = ", ".join(unit["itemNames"])  # Join items dynamically
-            itemsForUnitsJSON(unit["character_id"], items, GameData["metadata"]["match_id"], player["puuid"])
+            itemsForUnitsJSON(unit["character_id"], items, GameData["metadata"]["match_id"], player["puuid"], player["placement"])
         
-        unitsOnPlayersJSON(player["puuid"], units_list, GameData["metadata"]["match_id"])
+        unitsOnPlayersJSON(player["puuid"], units_list, GameData["metadata"]["match_id"], player["placement"])
 
 
 
@@ -131,7 +183,7 @@ def getPUUID(Summoner_name, Player_tag = "eune"):
     print(f"Coudlnt reach {Summoner_name}'s PUUID")
     return False
 
-# Returns [ID's] of matches 
+# Returns [ID's] of matches
 def getTFTmatches(PUUID, count = 1):
     url = f"{BASE_URL}/tft/match/v1/matches/by-puuid/{PUUID}/ids?start=0&count={count}&api_key={RIOT_API_KEY}"
     response = requests.get(url)
@@ -194,7 +246,25 @@ def getSpectatorTFTFromPUUID(PUUID):
     print("Could not reach getSpectatorTFTFromPUUID")
     return False
 
-
+# Returns accurate rank for player (Masters+)
+def getAccurateRank(summonerID, queue):
+    #RANKED_TFT_DOUBLE_UP , RANKED_TFT
+    position = 1
+    options = ["challenger" , "grandmaster", "master"]
+    for i in range(0,3):
+        url = f"https://eun1.api.riotgames.com/tft/league/v1/{options[i]}?queue={queue}&api_key={RIOT_API_KEY}"
+        response = requests.get(url)
+        if response.status_code != 200:
+            print(f"Could not reach {options[i]} ladder")
+            return ""
+        Ladder = response.json()
+        for player in Ladder["entries"]:
+            if player["summonerId"] == summonerID: return f" **#{position}**🎖"
+            position+= 1
+    print("Could not find player in ladder")
+    return ""
+    
+    
 
 
 ## APP EVENTS SECTION ##
@@ -235,7 +305,7 @@ async def on_message(message):
      
 # Menu command for APP
 @bot.command()
-async def menu(ctx):
+async def help(ctx):
     embed = discord.Embed(
         title=f"Hi, I am Pilbot",
         description="•Get started with Pilbot by using the commands below.\n• Currently featuring EU only.",
@@ -300,7 +370,7 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
             if (x["losses"] + x["wins"]) != 0:
                 doubleupWR = x["wins"] / (x["wins"] + x["losses"]) * 100
                 doubleupWR = round(doubleupWR, 2)
-                value=f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP\n Top 2 W/R: {doubleupWR}%"
+                value=f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP {getAccurateRank(summonerID,"RANKED_TFT_DOUBLE_UP")} \n Top 2 W/R: {doubleupWR}%"
                 if x["hotStreak"] == True:
                     value +=f"\n **{summonerName} is on a winstreak!**🔥"
                 if x["freshBlood"] == True:
@@ -318,7 +388,7 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
             if (x["losses"] + x["wins"]) != 0:
                 rankedWR = x["wins"] / (x["wins"] + x["losses"]) * 100
                 rankedWR = round(rankedWR, 2)
-                value = f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP\n Top 4 W/R: {rankedWR}%"
+                value = f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP {getAccurateRank(summonerID,"RANKED_TFT")}\n Top 4 W/R: {rankedWR}%"
                 if x["hotStreak"] == True:
                     value +=f"\n **{summonerName} is on a winstreak!**🔥"
                 if x["freshBlood"] == True:
@@ -464,9 +534,11 @@ async def history(ctx, summoner_name: str, summoner_tag: str = "eune", games: in
         embed.set_footer(text=f"Match ID: {matches}")
         gamecounter += 1
 
+
         await ctx.send(embed=embed)
-        AnalyzeGameUnits(Match_info)
-        updateGamesAnalyzed()
+        if tft_game_type[Match_info["info"]["tft_game_type"]] != "Hyper Roll" and tft_game_type[Match_info["info"]["tft_game_type"]] != "PVE":
+            if updateGamesAnalyzed(matches):
+                AnalyzeGameUnits(Match_info)
     
     print(f"Sent info for {summoner_name}'s last {games} games.")
         

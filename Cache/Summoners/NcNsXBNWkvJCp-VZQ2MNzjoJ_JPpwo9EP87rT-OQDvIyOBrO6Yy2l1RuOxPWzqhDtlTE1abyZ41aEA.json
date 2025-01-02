@@ -1,0 +1,12 @@
+{
+    "EUN1_3715891008": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_Beardy, TFT13_Heimerdinger, TFT13_Illaoi, TFT13_Corki"
+    },
+    "EUN1_3714838259": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Irelia, TFT13_Akali, TFT13_Sett, TFT13_Ezreal, TFT13_Ekko, TFT13_Illaoi, TFT13_Zoe, TFT13_Lieutenant, tft13_jinx"
+    }
+}

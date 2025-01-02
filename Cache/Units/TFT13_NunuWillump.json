@@ -1,0 +1,415 @@
+{
+    "EUN1_3719862362": {
+        "a9qB2Bx65uJT30HnFea_us-pGSxRy3neQynrWcOF9FXeaO-sut1wpsBCv0Y8aA67MZMc0mRZKQYkcg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_GargoyleStoneplate, TFT_Item_RedBuff, TFT_Item_NegatronCloak"
+        },
+        "wq0hvSMVdkqilgj7Q5-bfH4gOR-Cs624L1ovVWIYaDLOocguS7pYV5LMoLsb-Di1BJZlluIRbPSnHg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_WarmogsArmor, TFT_Item_IonicSpark, TFT_Item_Redemption"
+        }
+    },
+    "EUN1_3719802720": {
+        "YSDoStE0wtO4w_XVKraIZ_MCgeLGA-tjxEi15DFtI7mm1kRSkwtuPtHNIcAKbI-O_RIZNL3aInyeTA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Crownguard, TFT_Item_AdaptiveHelm, TFT_Item_WarmogsArmor"
+        }
+    },
+    "EUN1_3719793247": {
+        "G3rIfG__1W50i9qk2lPVjBnWpsVsKNAWr3phmrFluRf9Vd0siPKnEowaO7jHrFxSajzlxXbArF0Iyg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_UnstableConcoction, TFT_Item_SpectralGauntlet"
+        },
+        "omoFg-IzPm4uhg9RMIagt2n8hMqbsqGXk6roZoApnWT9bbuvUkc7lpizSKdkGuXBFtzQhZQKFSmQBA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_GargoyleStoneplate, TFT7_Item_ShimmerscaleMogulsMail, TFT_Item_DragonsClaw"
+        },
+        "E76LB13svm0sW4YkgCeZ4MWu05zc7i9OFlmm60NSpD-mSjIlsOrR3niHn4zVidkNAjBwutsBuZ87VQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720289671": {
+        "9lxWld8Ay-JSRZgmDb9v49pbRymcAPKgqAYdJNqjIlIuQmZD2s1IMhpAGTY6Cuqim_BHBoWzNLpNYA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_TearOfTheGoddess, TFT_Item_Crownguard"
+        },
+        "UHW99NvR0WfBTrj5BsQI5u9u3L7mEtGjbE_I98VRm-t7UzWTli5Oj1Tj8PmAnxS-C6-AYII9ZjG3rQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_TitansResolve, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3720429501": {
+        "bSSvFu18fZwZAVrpk5suiTg7kNRp3Ra8alPwGm0Q_ss1K7sglY3NiPUmM_AlXkacMSVtOen4ntul1w": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720372251": {
+        "xTBgV5Xu4CYF13sdxgJooeLlXoYzQs8dgK3mqI2ZYhcwkLJpeZXVKrMdyAhbAyu3xw9i4fSbEplQVA": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3719634676": {
+        "eTIA5lYtvxhFxxlwq-bjqKcefkQrUYjMtQlJvlpEy__EDVj2HgdWwQ6JA7pMCUHE5ankc4EX_45kHA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RedBuff, TFT_Item_IonicSpark"
+        }
+    },
+    "EUN1_3719624548": {
+        "do0qsLqKQFBNgeFnhsZdiWBWWhsMLV54Oyfau3teZYY4FzW7LHVgMoyeBiHscs9bYgG7Slx8BFn_DA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Redemption, TFT_Item_Crownguard"
+        },
+        "S6QczBneUcmrG5VGl0RWRR7RYL-dbJKXEImuDpCoOMpxz5aDt3vVaYnYyDo2oYmGZWBv5znzMwTumQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719609232": {
+        "HdBaikQoo-GqMZlXFQAf1Nky4YuDLq0qXQt73yJ2CCrNqt3eX-TyVuq55gyqeKRcALB1kk-_5tJskw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RedBuff, TFT_Item_ChainVest"
+        },
+        "NiWJUBtX-7-ZMI5d_p2FomEzYMIMtJFg351ADgY332OnR8pv8hwcas874_AyDiK9OtjUePvnt2NseQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3718076538": {
+        "MjDlIu7g64qIBam3zE2bsnHflyxx0D5FAFrlyk7U5uACrFyG5JcbWj-1wPmkA5Y-Qzjcyyus0CUWOw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3718019986": {
+        "upjt_guhJQlbcuuMi0_loZDlvXoOy_AxzhVpvpZPLl1bD-iEi71y2UN1SsiMYJjdDyH1PFNSQk2oxQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_Item_SquadEmblemItem"
+        }
+    },
+    "EUN1_3717989931": {
+        "z30uJhLU6Fa9L62_7DenJKcT6j6QUeWMahk0c8Q3_UQWDqAHFrLQuOOh3iisZTEo2akV4bDUkU6bJQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3717248160": {
+        "wpuHdyTVsmM97XG8RlymmNatOhzXf0EwKLmrrOudSmYgOCVvxbD6OM9L1gdkMxN2W7mygnmxBjzAxg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "i4QmK_IjSWjUFdIy5KT79RqIz7BUN8CtWct4MhkBcx1SyGM0wXq0yjYEulcbSaBDq3n_QXibQbWnbw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Redemption, TFT_Item_Spite"
+        }
+    },
+    "EUN1_3717177911": {
+        "ZKFIh308Ln0Oen1_V9qQpNYfvecyiUkH216QbEPSUEgHVmBI50DuwP8ea6M3pLTmZnE4hoT9pHv3KA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3716950513": {
+        "6PWuWvXRQ7KFR9Eq0QKf4FKon_NeHvJHR3Y8Fg3nEsBDG4u38nlT7s63h4mSghFPxocGkkrLMQcehQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "MjDlIu7g64qIBam3zE2bsnHflyxx0D5FAFrlyk7U5uACrFyG5JcbWj-1wPmkA5Y-Qzjcyyus0CUWOw": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3716766898": {
+        "FGgiOEkxNzbfuV03lSIPbZwHeBbD_Y5GgZnP5r_gDIvzgh8ijdayeAfxDcwefG8zNwuVbcIIFZiTuQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_BrambleVest, TFT_Item_BrambleVest, TFT_Item_DragonsClaw"
+        }
+    },
+    "EUN1_3716090731": {
+        "bOw0klAe-dFPJZnwz0SuM3nvfaJnuV8P4JDzEc-vZKlyKgs_rf_RxLx5PpIavwMlj7pbhqBSaHv79Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Redemption, TFT_Item_SteraksGage"
+        }
+    },
+    "EUN1_3716072489": {
+        "Q8LnIwc3Hp2Z0hs4M8ZzmRcZIq2VVAm5tQfQflVQdr2Q3f-bmf1UgGa0tliC6OyOTEopeECY9DXsNg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3716050286": {
+        "DDlBqJxoN3Ij94-RHhzrTorjhB6MeRK4-UhHyuG7cWz4I7g_gk-56CtY64eRDG8LzuMV_MkfoHZ3Rw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_Item_RebelEmblemItem, TFT_Item_LocketOfTheIronSolari"
+        }
+    },
+    "EUN1_3716030364": {
+        "cEpI7u7_x1nzigfGPOLWW6PEtGlWdryRZtFI34wdsXgHskCk3k2LbfXGlF_ZVYvFVbbSGYCmL007rg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_GargoyleStoneplate, TFT_Item_WarmogsArmor, TFT_Item_SpectralGauntlet"
+        },
+        "0N4Z_405CvY3z29CJFje62_HayhZK_R5yMmFKq7hm-34-OHm5HaBY6K-NVu3ZbEMtwbvvs0cAHFsSQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Crownguard, TFT_Item_FrozenHeart, TFT_Item_WarmogsArmor"
+        }
+    },
+    "EUN1_3715904016": {
+        "NiWJUBtX-7-ZMI5d_p2FomEzYMIMtJFg351ADgY332OnR8pv8hwcas874_AyDiK9OtjUePvnt2NseQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715879791": {
+        "FGgiOEkxNzbfuV03lSIPbZwHeBbD_Y5GgZnP5r_gDIvzgh8ijdayeAfxDcwefG8zNwuVbcIIFZiTuQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm, TFT_Item_WarmogsArmor, TFT_Item_RedBuff"
+        }
+    },
+    "EUN1_3715791377": {
+        "0N4Z_405CvY3z29CJFje62_HayhZK_R5yMmFKq7hm-34-OHm5HaBY6K-NVu3ZbEMtwbvvs0cAHFsSQ": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        },
+        "HM5qfzddkzskZbf8fe_pKMPUAS3t1n0iUbWloagKF1PoCP4JlaJmA-7H6eSlWwY1epjmsBvFZetK8w": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715758817": {
+        "Ftdq2zllZJQ-EiwIioRPHN8dO47XXyIbyrTmrKVnAl6wQpPBENNSpUGVijm6VQEYJixqndc_7XFLGw": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715735442": {
+        "zqXmgezVkKhiTbIE72tnNF9F8JezvxZq3p3nlfkw8hAaV8ZZCFQ0PqE-BlcpCrv0Vp0H-MgoG83GjA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715682817": {
+        "7m-8BRpSg8YCW3TomS4ujsO-hQauK8q22QHesnAq_YGE-IdQF1xHnurHYrHsYxe3ITK5VRA-y9eGbQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715541255": {
+        "GrybpwZf3uUuxPlM8fSNvsubhlIbS1UIIkMRie1knpw1x3YMWZzaPsCsMMU5UwV1MJLweDZWrnRXzA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "w2VQBDN_UveBKSdRIWgvjgLNBIziN-TZF9vEpG5LtDB6lbnUhRJpRUUWw9lQM4LA-Q-Liex2j6SNsA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715244804": {
+        "P5gsMILhScRWU51UjIJzpHqDdnOlw2Gomh9x22UVaj1TJ6x9QEmtOvYoBhczVbEe9QO5ZFEtoS1dkw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Redemption"
+        }
+    },
+    "EUN1_3715170564": {
+        "ZKFIh308Ln0Oen1_V9qQpNYfvecyiUkH216QbEPSUEgHVmBI50DuwP8ea6M3pLTmZnE4hoT9pHv3KA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "6FL0IvSEafjMzVKrflPOom7080XcgoxA4sB0pTTYcqE5tEmW92IovoSppy1vxTk_OKkmew5-vsYeKQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Redemption"
+        }
+    },
+    "EUN1_3715141772": {
+        "8i9UiJEVsfdbZTLSQ363ZniJHdyzj_ZyX4rxOcRnDs1e_31AJiiFzlBq3j812Ts99_l5XL58DCdmpA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715091776": {
+        "cEpI7u7_x1nzigfGPOLWW6PEtGlWdryRZtFI34wdsXgHskCk3k2LbfXGlF_ZVYvFVbbSGYCmL007rg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_GuardianAngel, TFT_Item_WarmogsArmor"
+        }
+    },
+    "EUN1_3715050181": {
+        "64HfsURSBiJRNgFXrB6D33_na7ke3-yJCTlJeCR6hDqUoDQfjFUwZqAT_xlQxY6H780ipohWGz4OLQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "P5gsMILhScRWU51UjIJzpHqDdnOlw2Gomh9x22UVaj1TJ6x9QEmtOvYoBhczVbEe9QO5ZFEtoS1dkw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RedBuff"
+        }
+    },
+    "EUN1_3714961556": {
+        "BgJAX8VMpS-WEEsWi9e-BSRPNIKFw6WZK1H78KANsqijQosp5XASS9wvT_fNWbtglmJWNrslVW96tQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "uNVm4RiYxSIOuIg-7C924du2cpHUl8C7vHxhJ6VXAcdWs_uWFqAqtUKSIr5aH6Q_HP0H56vJv5ophQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT13_Item_CabalEmblemItem"
+        }
+    },
+    "EUN1_3714872069": {
+        "FGgiOEkxNzbfuV03lSIPbZwHeBbD_Y5GgZnP5r_gDIvzgh8ijdayeAfxDcwefG8zNwuVbcIIFZiTuQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3714869239": {
+        "wlJeNXdwj959X88HNGCpi_qNZhhJ7Ar0lxn40WzW7vbJZgO7E6NaUhk_0x-oovTrCjCTToc0K9lwoA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RedBuff"
+        }
+    },
+    "EUN1_3714838259": {
+        "S4fjP5lwajIyv-cJrd43pXXru1oijhmNiKZelfW9c54_drFyWyNHGEMV5dliZZsIMTCodw_q0y9knw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_Item_SquadEmblemItem"
+        },
+        "4t5gCu0C6t8C403lm7UJCaEDdAinUWmbHldV8FuUA71EpTIFqHYxn4mxO5PBIgZfuS6b0VlRroq4PQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpectralGauntlet, TFT_Item_FrozenHeart, TFT_Item_IonicSpark"
+        }
+    },
+    "EUN1_3714815156": {
+        "fz1b-hkWWJZquqozvERNjHFUZ9-3Gr5htBpBZGpHRRmW1GvvmAHgRy06pJv8B7_qvbU8_u-c2lxciw": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3714757319": {
+        "oCpekwSGx7S_6O-cCuz6ZPUjbkKRqXqSJCNhrEC80FIWq0nrSNaA0HY1l9q8WEpPV6TKUg5ZVftx4A": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3714668685": {
+        "DDlBqJxoN3Ij94-RHhzrTorjhB6MeRK4-UhHyuG7cWz4I7g_gk-56CtY64eRDG8LzuMV_MkfoHZ3Rw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_BrambleVest, TFT_Item_Redemption, TFT_Item_WarmogsArmor"
+        },
+        "AkZL2QurWd4NwDBZ_V8xmM5odtvY9PBQ-a8kj_4nVaCIck6k84_gnYSHPUxw8kysS5_xz9e7iuAzJw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_UnstableTreasureChest"
+        }
+    },
+    "EUN1_3714630707": {
+        "DqAMjW2iAuR5wh7F612fzqaeXZ1hW2bg0idhfFl7C4Z2uVBy1VK3sUn6Sd5JzO_A7M1QEbq5n4Ju-w": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "pZTxB-oYnz7ZmV9fML63oV2RzVoVgwOoPMQULxLeNA4DL85Wgjyd74t1bQWMqD6qTCYQjjybp3rGHg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3714596994": {
+        "i7zLPI7ftl5ItjSgcg7aVOgCAmo7JcwPginOyo-0RNwVz92gZ0MVOeNYORJ_Q72WzOHeJBknWqOSCg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "FGgiOEkxNzbfuV03lSIPbZwHeBbD_Y5GgZnP5r_gDIvzgh8ijdayeAfxDcwefG8zNwuVbcIIFZiTuQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Crownguard, TFT_Item_NightHarvester"
+        }
+    },
+    "EUN1_3714420787": {
+        "ya4yyKTPZkaVFj-c8p-i09I2jUqFKnGd6zC9iGuBs_rYlMbfsmakn_wsDAMoR7L0QGq8hBANY93KKA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3714402368": {
+        "pZTxB-oYnz7ZmV9fML63oV2RzVoVgwOoPMQULxLeNA4DL85Wgjyd74t1bQWMqD6qTCYQjjybp3rGHg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "C60X3XPDMJG43Rf9HkNXP4xMPTIY20GqzFNRL9KSAB6-kkZhwLtw49IkWj7j2UxL32IotSFso-3Ang": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "oCpekwSGx7S_6O-cCuz6ZPUjbkKRqXqSJCNhrEC80FIWq0nrSNaA0HY1l9q8WEpPV6TKUg5ZVftx4A": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "FGgiOEkxNzbfuV03lSIPbZwHeBbD_Y5GgZnP5r_gDIvzgh8ijdayeAfxDcwefG8zNwuVbcIIFZiTuQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_NightHarvester, TFT_Item_RedBuff"
+        }
+    },
+    "EUN1_3714272570": {
+        "-9qLoLovwbubNSvlWQlR5VXZGXK8RzzVEXLdw8fElkkda_K5sYXgl1hvMbP4nn5rHKGxQsHpYgQqkg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_GiantsBelt"
+        }
+    }
+}
