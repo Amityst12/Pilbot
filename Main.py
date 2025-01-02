@@ -334,6 +334,11 @@ async def help(ctx):
         inline =False
     )
     embed.add_field(
+        name="**TFT Pool",
+        value="• How many three costs exists? I got you.",
+        inline = False
+    )
+    embed.add_field(
         name="**Disclamer**",
         value="• Don't use spacebar on playerID,\n• Don't use '#' on playerTAG",
         inline=False
@@ -543,7 +548,16 @@ async def history(ctx, summoner_name: str, summoner_tag: str = "eune", games: in
     print(f"Sent info for {summoner_name}'s last {games} games.")
         
         
-
+# Returns champion pool, that simple
+@bot.command()
+async def pool(ctx):
+    embed = discord.Embed(
+    title=f"Quite a simple pool:",
+    description="1 costs : 30\n 2 costs : 25\n 3 costs : 18 \n 4 costs: 10 \n 5 costs: 9 \n 6 costs: 9 \nGood luck 3 starring!",
+    color=discord.Color.blurple()
+    ).set_author(name= "Pilbot", icon_url=BOT_PICTURE, url="" )
+    embed.set_footer(text="Uhh, Neeko might help here.")
+    
 
 
 # Run.
