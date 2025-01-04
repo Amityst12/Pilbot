@@ -3,5 +3,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Morgana, TFT13_Singed, TFT13_Irelia, TFT13_Rell, TFT13_RenataGlasc, TFT13_Illaoi, TFT13_Viktor"
+    },
+    "EUN1_3719149383": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Blue, TFT13_Trundle, TFT13_Ziggs, TFT13_Gangplank, TFT13_Garen, TFT13_Ekko, TFT13_Corki, TFT13_Rumble, TFT13_Viktor"
     }
 }

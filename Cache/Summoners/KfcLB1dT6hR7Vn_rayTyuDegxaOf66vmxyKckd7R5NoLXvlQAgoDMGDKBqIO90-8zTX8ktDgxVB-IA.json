@@ -1,0 +1,52 @@
+{
+    "EUN1_3720368336": {
+        "top4": true,
+        "top1": false,
+        "units": "tft13_swain, TFT13_Gangplank, tft13_elise, TFT13_Ambessa, TFT13_Jayce, TFT13_Lieutenant, TFT13_Viktor, TFT13_MissMage, TFT13_JayceSummon"
+    },
+    "EUN1_3720347489": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, tft13_swain, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_Gangplank, TFT13_Jayce, TFT13_Malzahar, TFT13_JayceSummon"
+    },
+    "EUN1_3720326988": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_Beardy, TFT13_Ambessa, TFT13_Mordekaiser, TFT13_Rumble"
+    },
+    "EUN1_3720309052": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Vladimir, tft13_swain, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Sion"
+    },
+    "EUN1_3711286420": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Urgot, TFT13_Prime, TFT13_Gangplank, TFT13_Ekko, TFT13_Vi"
+    },
+    "EUN1_3711260638": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Vladimir, TFT13_Ziggs, tft13_swain, tft13_elise, TFT13_Ambessa, TFT13_Mordekaiser"
+    },
+    "EUN1_3711243337": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Ziggs, TFT13_Blitzcrank, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_Garen, TFT13_DrMundo, TFT13_Mordekaiser, TFT13_Sion"
+    },
+    "EUN1_3711229184": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Ziggs, tft13_swain, TFT13_Cassiopeia, TFT13_Elise, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion"
+    },
+    "EUN1_3711211235": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Vladimir, tft13_swain, TFT13_Cassiopeia, TFT13_Heimerdinger, TFT13_Elise, TFT13_Garen, TFT13_Mordekaiser, TFT13_Rumble, TFT13_Sion"
+    },
+    "EUN1_3710354470": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Leona, TFT13_Vladimir, TFT13_RenataGlasc, tft13_swain, TFT13_NunuWillump, tft13_elise, TFT13_Garen, TFT13_Zoe, TFT13_Mordekaiser"
+    }
+}

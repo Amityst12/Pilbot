@@ -1,0 +1,52 @@
+{
+    "EUN1_3717802415": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_Tristana, TFT13_Beardy, TFT13_Illaoi, TFT13_Viktor"
+    },
+    "EUN1_3719742157": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Singed, TFT13_Irelia, TFT13_Rell, TFT13_RenataGlasc, TFT13_Beardy, TFT13_Illaoi"
+    },
+    "EUN1_3719732315": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Singed, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, tft13_elise, TFT13_Silco, TFT13_Mordekaiser, TFT13_Lieutenant, TFT13_Viktor"
+    },
+    "EUN1_3718240989": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Trundle, TFT13_Rell, TFT13_Tristana, TFT13_Ziggs, TFT13_Ekko, TFT13_Corki, TFT13_Mordekaiser, TFT13_Rumble"
+    },
+    "EUN1_3719374805": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Vladimir, TFT13_Rell, tft13_swain, TFT13_Cassiopeia, TFT13_Gangplank, TFT13_Ambessa, TFT13_Mordekaiser, TFT13_Rumble, TFT13_Viktor"
+    },
+    "EUN1_3720774202": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Singed, TFT13_Rell, TFT13_RenataGlasc, TFT13_NunuWillump, TFT13_Heimerdinger, TFT13_Elise, TFT13_Malzahar, TFT13_MissMage"
+    },
+    "EUN1_3719712805": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Fish, TFT13_Shooter, TFT13_Camille, TFT13_Beardy, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Vi, TFT13_Vi, TFT13_Caitlyn"
+    },
+    "EUN1_3719308631": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Urgot, TFT13_Prime, TFT13_Gangplank, TFT13_Vi, TFT13_Lieutenant"
+    },
+    "EUN1_3719861772": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Trundle, TFT13_Tristana, TFT13_Gangplank, TFT13_Ekko, TFT13_Corki, TFT13_Rumble, TFT13_Viktor"
+    },
+    "EUN1_3719811782": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Tristana, TFT13_Urgot, TFT13_Ezreal, TFT13_NunuWillump, TFT13_Gangplank, tft13_elise, TFT13_Corki"
+    }
+}

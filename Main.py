@@ -4,7 +4,8 @@ import json
 from discord.ext import commands
 import os
 from dotenv import load_dotenv
-from tft13Dicts import Champions_dict_tft13
+from tft13Dicts import Champions_dict_tft13, Items_dict_tft13
+from collections import Counter
 
 # Load the .env file
 load_dotenv()
@@ -22,7 +23,7 @@ intents.presences = True
 bot = commands.Bot(command_prefix='TFT ', intents=intents, case_insensitive=True)
 bot.remove_command("help")
 
-# Types of TFT mode
+# dicts
 tft_game_type = {
     "pairs" : "Double up",
     "RANKED_TFT_DOUBLE_UP" : "Double up",
@@ -33,11 +34,11 @@ tft_game_type = {
     "RANKED_TFT_TURBO" : "Hyper Roll",
     "pve" : "PVE"
 }
+Champions_dict_tft13_reversed = {v: k for k, v in Champions_dict_tft13.items()}
 
 
 
-
-## USE JSON FUNCTIONS FOR INFO SECTION ##
+## JSON FUNCTIONS FOR INFO SECTION ##
 
 # Reading json
 def readJSON(PATH):
@@ -73,7 +74,7 @@ def itemsForUnitsJSON(FileName, new_items, gameid, player_puuid, placement):
                 data = {}  # If the file exists but is empty or invalid, initialize an empty dictionary
     else:
         data = {}
-        
+
     if gameid not in data:
         data[gameid] = {}
 
@@ -169,7 +170,7 @@ def AnalyzeGameUnits(GameData):
 
 
 
-## USE API FUNCTIONS FOR INFO SECTION ##
+## API FUNCTIONS FOR INFO SECTION ##
 
 # Returns player's PUUID
 def getPUUID(Summoner_name, Player_tag = "eune"):
@@ -274,17 +275,6 @@ def getAccurateRank(summonerID, queue):
 async def on_ready():
     print(f'Logged in as {bot.user.name}')
 
-# Error accured
-@bot.event
-async def on_command_error(ctx, error):
-    if isinstance(error, commands.MissingRequiredArgument):
-        await ctx.send("Missing argument. Please provide the required information.")
-    elif isinstance(error, commands.CommandInvokeError):
-        await ctx.send("There was an error processing your command.")
-        print(f"Command error: {error}")
-    else:
-        await ctx.send("An unexpected error occurred, maybe an unrecognized command")
-
 # Sets up recievent messages and responds to ping
 @bot.event
 async def on_message(message):
@@ -298,6 +288,16 @@ async def on_message(message):
     # This is necessary to allow commands to work
     await bot.process_commands(message)
 
+# Error accured
+@bot.event
+async def on_command_error(ctx, error):
+    if isinstance(error, commands.MissingRequiredArgument):
+        await ctx.send("Missing argument. Please provide the required information.")
+    elif isinstance(error, commands.CommandInvokeError):
+        await ctx.send("There was an error processing your command.")
+        print(f"Command error: {error}")
+    else:
+        await ctx.send("An unexpected error occurred, maybe an unrecognized command")
 
      
      
@@ -334,8 +334,8 @@ async def help(ctx):
         inline =False
     )
     embed.add_field(
-        name="**TFT Pool",
-        value="• How many three costs exists? I got you.",
+        name="**🛍TFT Pool, TFT Odds**",
+        value="• How many three costs exists? I got you.\n • Rolling for a 3 star? got you too!",
         inline = False
     )
     embed.add_field(
@@ -375,7 +375,9 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
             if (x["losses"] + x["wins"]) != 0:
                 doubleupWR = x["wins"] / (x["wins"] + x["losses"]) * 100
                 doubleupWR = round(doubleupWR, 2)
-                value=f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP {getAccurateRank(summonerID,"RANKED_TFT_DOUBLE_UP")} \n Top 2 W/R: {doubleupWR}%"
+                if x['tier'] == "MASTER" or x['tier'] == "GRANDMASTER" or x['tier'] == "CHALLENGER" : ACCURATE = getAccurateRank(summonerID,"RANKED_TFT_DOUBLE_UP")
+                else : ACCURATE =""
+                value=f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP {ACCURATE} \n Top 2 W/R: {doubleupWR}%"
                 if x["hotStreak"] == True:
                     value +=f"\n **{summonerName} is on a winstreak!**🔥"
                 if x["freshBlood"] == True:
@@ -393,7 +395,9 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
             if (x["losses"] + x["wins"]) != 0:
                 rankedWR = x["wins"] / (x["wins"] + x["losses"]) * 100
                 rankedWR = round(rankedWR, 2)
-                value = f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP {getAccurateRank(summonerID,"RANKED_TFT")}\n Top 4 W/R: {rankedWR}%"
+                if x['tier'] == "MASTER" or x['tier'] == "GRANDMASTER" or x['tier'] == "CHALLENGER" : ACCURATE = getAccurateRank(summonerID,"RANKED_TFT")
+                else : ACCURATE =""
+                value = f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP {ACCURATE}\n Top 4 W/R: {rankedWR}%"
                 if x["hotStreak"] == True:
                     value +=f"\n **{summonerName} is on a winstreak!**🔥"
                 if x["freshBlood"] == True:
@@ -438,7 +442,7 @@ async def ingame(ctx, summoner_name: str, summoner_tag:str ="eune"):
     
     Match_info = getSpectatorTFTFromPUUID(PUUID)
     if not Match_info:
-        await ctx.send("Player is not in game")
+        await ctx.send("Player is not in game.")
         return
     
     summonerDATA = getSummonerInfoFromPUUID(PUUID)
@@ -477,7 +481,7 @@ async def ingame(ctx, summoner_name: str, summoner_tag:str ="eune"):
 @bot.command()
 async def history(ctx, summoner_name: str, summoner_tag: str = "eune", games: int = 1):
     PUUID = getPUUID(summoner_name, summoner_tag)
-    if PUUID == False or games > 10:
+    if PUUID == False :
         print("getPUUID went wrong.")
         await ctx.send("Sorry, something went wrong.")
         return
@@ -540,7 +544,7 @@ async def history(ctx, summoner_name: str, summoner_tag: str = "eune", games: in
         gamecounter += 1
 
 
-        await ctx.send(embed=embed)
+        #await ctx.send(embed=embed)
         if tft_game_type[Match_info["info"]["tft_game_type"]] != "Hyper Roll" and tft_game_type[Match_info["info"]["tft_game_type"]] != "PVE":
             if updateGamesAnalyzed(matches):
                 AnalyzeGameUnits(Match_info)
@@ -552,13 +556,95 @@ async def history(ctx, summoner_name: str, summoner_tag: str = "eune", games: in
 @bot.command()
 async def pool(ctx):
     embed = discord.Embed(
-    title=f"Quite a simple pool:",
+    title="Quite a simple pool:",
     description="1 costs : 30\n 2 costs : 25\n 3 costs : 18 \n 4 costs: 10 \n 5 costs: 9 \n 6 costs: 9 \nGood luck 3 starring!",
     color=discord.Color.blurple()
     ).set_author(name= "Pilbot", icon_url=BOT_PICTURE, url="" )
     embed.set_footer(text="Uhh, Neeko might help here.")
+    await ctx.send(embed=embed)
+
+
+# Return shop odds, A PICTURE
+@bot.command()
+async def Odds(ctx):
+    embed = discord.Embed(
+        title= "Shop odds for each level:",
+        description="6 costs are dependent on the stage of the game.\n Level 10 grants you a bonus of 1.1%.",
+        color=discord.Color.blurple()
+    ).set_author(name="Pilbot", icon_url=BOT_PICTURE, url="")
+    embed.set_footer(text="Rolldown for Morde 3 trust.")
+    embed.set_image(url="https://cdn.discordapp.com/attachments/421654394808041472/1324675376362029106/image.png?ex=67790395&is=6777b215&hm=95ba9ed36d699e0787790019cca773385935a5982aefc24430e54c04207947d9&")
+    await ctx.send(embed=embed)
     
+    
+# Return info for a unit
+@bot.command()
+async def Unit(ctx, unit: str, unit_: str = ""):
+    unit = f"{unit} {unit_}".strip() if unit_ else unit
+    unit = unit.lower().title()
+    
+    if unit not in Champions_dict_tft13_reversed.keys() :
+        await ctx.send(f"Invalid unit '{unit}'.")
+        return
+    
+    json_filename = f"Units/{Champions_dict_tft13_reversed[unit]}"
+    data = readJSON(json_filename)    
+    
+    # Initialize counters and variables
+    game_count = 0
+    top4_count = 0
+    top1_count = 0
+    items_counter = Counter()
+
+    print(f"Analyzing data for: {unit}")
 
 
+    #Analyze the data
+    for game_id, players in data.items():
+        for player_id, stats in players.items():
+            game_count +=1
+            if stats.get("top4",False):
+                top4_count +=1
+            if stats.get("top1", False):
+                top1_count +=1
+                
+            items = stats.get("items", "")
+            if isinstance(items, str) and items != "":  #If items is string(Single item)
+                items_counter.update(items.split(", "))
+            elif isinstance(items, list) and items != "" : #If items is a list(1+ items)
+                items_counter.update(items)
+    
+    # Calculate rates
+    top4_rate = (top4_count / game_count) * 100 if game_count > 0 else 0
+    top1_rate = (top1_count / game_count) * 100 if game_count > 0 else 0
+    most_common_items = items_counter.most_common(5)
+    # Prepare the response
+    response = (
+        f"- Top-4 rate: {top4_rate:.2f}%\n"
+        f"- Top-1 rate: {top1_rate:.2f}%\n"
+    )
+    
+    embed = discord.Embed(
+        title=f" Analysis for **{unit}**:",
+        description= response ,
+        color=discord.Color.green()
+    )#.set_thumbnail(url = profile_icon)
+    
+    response_commonly = ""
+    for item, count in most_common_items:
+        if item in Items_dict_tft13.keys(): item = Items_dict_tft13[item]
+        response_commonly += f"- **{item}**: {round((count/game_count) * 100, 2)}% play rate\n"
+        
+    embed.add_field(
+        name="•Most commonly used items:",
+        value= response_commonly,
+        inline=False
+        )
+    embed.set_author(name= "Pilbot", icon_url=BOT_PICTURE, url="" )
+    embed.set_footer(text=f"Info provided from {game_count} analyzed games.")
+    
+    await ctx.send(embed=embed)
+    
+    
 # Run.
 bot.run(TOKEN)

@@ -3,5 +3,20 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Morgana, TFT13_Singed, TFT13_Vex, TFT13_Rell, TFT13_RenataGlasc, TFT13_Beardy"
+    },
+    "EUN1_3719640863": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Mordekaiser, TFT13_Viktor"
+    },
+    "EUN1_3717359394": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Urgot, TFT13_NunuWillump, TFT13_Elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Corki, TFT13_Mordekaiser, TFT13_Lieutenant"
+    },
+    "EUN1_3717384300": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, TFT13_Silco, TFT13_DrMundo, TFT13_Jayce, TFT13_Rumble, TFT13_JayceSummon"
     }
 }

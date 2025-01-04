@@ -1,0 +1,12 @@
+{
+    "EUN1_3719698606": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Tristana, tft13_swain, TFT13_Nami, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Garen, TFT13_Jayce, TFT13_Jayce, TFT13_LeBlanc, TFT13_JayceSummon"
+    },
+    "EUN1_3712872049": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Elise, TFT13_Elise, TFT13_Twitch, TFT13_Corki, TFT13_Vi, TFT13_Vi, TFT13_Vi, TFT13_Vi, TFT13_MissMage"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "EUN1_3720989449": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_DrMundo, TFT13_Twitch, TFT13_Malzahar, TFT13_Warwick, TFT13_Viktor, TFT13_MissMage"
+    },
+    "EUN1_3712956343": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Irelia, TFT13_Camille, TFT13_Gremlin, TFT13_Beardy, TFT13_Ekko, TFT13_Illaoi, tft13_jinx, TFT13_MissMage"
+    }
+}

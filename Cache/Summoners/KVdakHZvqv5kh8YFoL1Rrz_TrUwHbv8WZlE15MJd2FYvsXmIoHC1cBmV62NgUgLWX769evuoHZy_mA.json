@@ -1,0 +1,17 @@
+{
+    "EUN1_3720772223": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Red, TFT13_Prime, TFT13_Camille, TFT13_Gremlin, TFT13_Nami, TFT13_Ekko, tft13_jinx"
+    },
+    "EUN1_3712753306": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Tristana, TFT13_Ziggs, TFT13_Blitzcrank, TFT13_Cassiopeia, TFT13_FlyGuy, TFT13_Silco, TFT13_DrMundo, TFT13_Ekko, TFT13_Zoe"
+    },
+    "EUN1_3713787708": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Shooter, TFT13_Nocturne, TFT13_Zeri, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_FlyGuy, TFT13_TwistedFate, TFT13_Ambessa, TFT13_DrMundo"
+    }
+}

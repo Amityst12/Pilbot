@@ -1,0 +1,12 @@
+{
+    "EUN1_3711835498": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Vladimir, tft13_swain, tft13_elise, TFT13_Illaoi, TFT13_Zoe, TFT13_Malzahar, TFT13_Mordekaiser"
+    },
+    "EUN1_3712310197": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Vex, TFT13_Akali, TFT13_Sett, tft13_elise, TFT13_Illaoi, TFT13_Zoe, tft13_jinx, TFT13_Viktor"
+    }
+}

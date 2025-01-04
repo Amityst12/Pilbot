@@ -1,0 +1,12 @@
+{
+    "EUN1_3714357228": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_Tristana, TFT13_Ezreal, TFT13_Beardy, TFT13_Heimerdinger, TFT13_Illaoi"
+    },
+    "EUN1_3715993206": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_NunuWillump, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Malzahar, TFT13_Nocturne"
+    }
+}

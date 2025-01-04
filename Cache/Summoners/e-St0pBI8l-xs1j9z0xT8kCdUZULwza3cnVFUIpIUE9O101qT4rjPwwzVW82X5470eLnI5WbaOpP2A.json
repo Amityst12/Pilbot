@@ -1,0 +1,12 @@
+{
+    "EUN1_3718866382": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Prime, TFT13_Zeri, TFT13_FlyGuy, TFT13_Garen, TFT13_Twitch, TFT13_Ekko, TFT13_Viktor"
+    },
+    "EUN1_3711534360": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Ziggs, TFT13_Blitzcrank, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion"
+    }
+}

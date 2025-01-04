@@ -1,0 +1,12 @@
+{
+    "EUN1_3715015700": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_Beardy, TFT13_Ekko, TFT13_Corki, TFT13_Mordekaiser, TFT13_Rumble, TFT13_Warwick"
+    },
+    "EUN1_3714982354": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Rell, tft13_swain, TFT13_Gangplank, tft13_elise, TFT13_Ambessa, TFT13_Silco, TFT13_Jayce, TFT13_Mordekaiser, TFT13_JayceSummon"
+    }
+}

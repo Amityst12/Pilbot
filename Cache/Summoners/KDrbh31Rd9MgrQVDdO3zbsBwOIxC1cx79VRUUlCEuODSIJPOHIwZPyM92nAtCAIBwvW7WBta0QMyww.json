@@ -1,0 +1,17 @@
+{
+    "EUN1_3719732315": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Fish, TFT13_Shooter, tft13_swain, TFT13_Gangplank, TFT13_Beardy, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Vi, TFT13_Rumble"
+    },
+    "EUN1_3720769375": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Vladimir, tft13_swain, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion"
+    },
+    "EUN1_3720763720": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Nocturne, TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_Ambessa, TFT13_Mordekaiser, TFT13_Lieutenant"
+    }
+}

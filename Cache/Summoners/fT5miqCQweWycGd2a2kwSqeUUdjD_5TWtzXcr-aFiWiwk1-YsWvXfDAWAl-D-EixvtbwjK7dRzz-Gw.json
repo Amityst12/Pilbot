@@ -1,0 +1,12 @@
+{
+    "EUN1_3720534775": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_RenataGlasc, TFT13_Blitzcrank, TFT13_Chainsaw, TFT13_Elise, TFT13_Silco, TFT13_DrMundo, TFT13_Jayce, TFT13_Lieutenant, TFT13_Jinx, TFT13_JayceSummon"
+    },
+    "EUN1_3710729016": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_Cassiopeia, TFT13_Silco, TFT13_DrMundo, TFT13_Malzahar, TFT13_Mordekaiser"
+    }
+}

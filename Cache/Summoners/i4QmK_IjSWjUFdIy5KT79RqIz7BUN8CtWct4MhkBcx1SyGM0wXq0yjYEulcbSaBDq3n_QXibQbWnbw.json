@@ -8,5 +8,10 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Zyra, TFT13_Tristana, TFT13_Urgot, TFT13_NunuWillump, TFT13_Gangplank, TFT13_DrMundo, TFT13_Twitch, TFT13_Warwick"
+    },
+    "EUN1_3713984230": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Ziggs, TFT13_Blitzcrank, TFT13_Cassiopeia, TFT13_Silco, TFT13_Garen, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Sion"
     }
 }

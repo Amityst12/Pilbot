@@ -289,5 +289,4335 @@
             "top1": false,
             "items": "TFT4_Item_OrnnObsidianCleaver, TFT_Item_MadredsBloodrazor, TFT_Item_JeweledGauntlet"
         }
+    },
+    "EUN1_3720741624": {
+        "Rh2wi37KfiY2NwcgX2Q7Br8Xv6qo8KS8qRswj_QGig1F8bysv5v9QGufL63w6RFSMXtC3Xnp8JyTcw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT13_Item_ChallengerEmblemItem, TFT4_Item_OrnnMuramana, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3720218680": {
+        "wwD4qbA7bpj5cjZyDUcI4g4LpINCPOrgcvOipaclMGtpk78oHvjUDta7Li9cpAayEQtrU_f_vxXhow": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT9_Item_OrnnDeathfireGrasp, TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3720602340": {
+        "AZ6u4dl0lskddgbAwOEk-cUFxTNqj_KTkJUP9CJ0EPqegqzisuiPd8GUeSbG0m008ZMEBoYvV3JGcA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720611839": {
+        "Rjxb9LNR22u2fIhahyc2qVxoy044BOnwUsxaKjmLusFNtxQCw_l7XuP3FUKc7ox7qsSWBl6vaZm_5g": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720506976": {
+        "veQ-pTIifSd22UnPs1CB8tcv1tp8LPp3phcAL49tB-xSIGf-pEOR3HYiQrLmQf7NI1SWZr475rftdA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_StatikkShiv, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3720492380": {
+        "CqJlhZXozxdyo6RA0EEWyrW_oqoMjizRXIS4rRZ3MfTogqvsZQYowo67AzCqGkzdff7obL9Fc7hekA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_GuinsoosRageblade, TFT13_Item_SniperEmblemItem"
+        }
+    },
+    "EUN1_3720405245": {
+        "K8zgk7NaATpMO-McG-EnEQr5B6pk3vR1e1sIrrw8ZXtpqvWY2D7toEgJzob3b-JqGQckWOuunEiB7w": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720123979": {
+        "E76LB13svm0sW4YkgCeZ4MWu05zc7i9OFlmm60NSpD-mSjIlsOrR3niHn4zVidkNAjBwutsBuZ87VQ": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3717969776": {
+        "Utl2xKbmbQMZ6aR15RbqtVK4vbReBJQMAeB2GOhwD-aItAIMoyKGlyc_Qm25PDy3TpjMGNnN8xsF7w": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3717917729": {
+        "H_szOD4CaP_jjSxQSFEX13fCP3jUfSQTNjRXWeURwaJI3JMM96osjp9XlqjAYZDI-0GvK30jL1_-5g": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet, TFT_Item_PowerGauntlet"
+        },
+        "X5OxossMn-szk_XLtr4Z5pXYsSJrZCcle1bHpYuoWTwvovuhFrJPNUXOo8UcSAAKgm4R6Xq3FsswZg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Artifact_BlightingJewel, TFT_Item_Artifact_LichBane"
+        }
+    },
+    "EUN1_3717822687": {
+        "UbahL82kO_VGQyGVTjOWQpxtZo5N8omfe8nKAIf6l0_xx9xPk5Rg0bC_DLjeK17_asdyOk47d4FIGw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3717390074": {
+        "P9jDmRhq9ZL_2KYYQhhbzFPEG-aqfQG8q-04KSoQErR6Yr8YrW5SnzOcWq4l_B71gY_PLIxsfWd48A": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3720710920": {
+        "13xOJtBKNwv75-xIh4eQqeGE-Li-hR5urhn9UJnf7bXF8kxsnVnbqohsAYCVNLm5mPhThrv5cgWbZA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Artifact_SpectralCutlass, TFT_Item_Artifact_Mittens, TFT_Item_HextechGunblade"
+        }
+    },
+    "EUN1_3720695399": {
+        "lCpu52o35PI9k8iye3z-ZB9zB5DMdZTIQ5VUjWkbT57BY9t98-xy56RzLdK9UV5R1Apc3qpkPICFQg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720659354": {
+        "A4AOQ2q_iRHeSmIevqHWYWyJUUfceeU0mgWiieAIAzZsQWK-CEIM1YvYrrIwdqNEpaJnFL_bZwNr0w": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720622852": {
+        "q4tf7G2VuFGTbs2HcyqnPXq6RYiC_SxqpuxBNRx8pxJjv6MFd6tEuVR_FOEXtE1BaRlCNL9QWISQZw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_GuinsoosRageblade, TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3720603570": {
+        "UbahL82kO_VGQyGVTjOWQpxtZo5N8omfe8nKAIf6l0_xx9xPk5Rg0bC_DLjeK17_asdyOk47d4FIGw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_HextechGunblade, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3720359054": {
+        "vEBSYt9bZIYqVd3wUSgl_YGrFulYv5sAoqAw-co1dEso7qBYrzc76ACr3vlZ68F0N-JEaWrF9DFa0g": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT7_Item_ShimmerscaleGamblersBlade, TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3720345331": {
+        "JcWz4b41q0ll5bBrzXkx4yJGo0V-KDGQmAEidAGrW_eFNteqL-5_TH7qnfe4TOijcOeMnXjDLvCbPA": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_GuardianAngel, TFT_Item_JeweledGauntlet"
+        },
+        "meDcWAYq-grvmKQEqlDxTKZp5PqBItL7hSKeclYoCTpY8Yhc6Ip2DgkQcIoLIT2cdWNpaSmylYEIFg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_BlueBuff, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3720327231": {
+        "VfA7IbW0-MW2eDsI90CG1_FtZRI55sv76RJSSm7PsW0eR9iMIMrzaDjo9Vda2GLLOolAGKAlVad9XQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_Artifact_Mittens, TFT_Item_Artifact_SeekersArmguard"
+        }
+    },
+    "EUN1_3720032013": {
+        "bOw0klAe-dFPJZnwz0SuM3nvfaJnuV8P4JDzEc-vZKlyKgs_rf_RxLx5PpIavwMlj7pbhqBSaHv79Q": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3720012079": {
+        "DqAMjW2iAuR5wh7F612fzqaeXZ1hW2bg0idhfFl7C4Z2uVBy1VK3sUn6Sd5JzO_A7M1QEbq5n4Ju-w": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3719949455": {
+        "O8NkW_mRGPr2l3bqOy2OjvIowclgCON7Pe1_JCNOWsKdLjtc0erRxJ4U64srTQdDt0nW8B0OP5ATsw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_SparringGloves"
+        }
+    },
+    "EUN1_3719901044": {
+        "ZKFIh308Ln0Oen1_V9qQpNYfvecyiUkH216QbEPSUEgHVmBI50DuwP8ea6M3pLTmZnE4hoT9pHv3KA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Morellonomicon, TFT13_Item_WarbandEmblemItem"
+        }
+    },
+    "EUN1_3719889168": {
+        "D3GOBFEbhQoGQyDrccLvGF2NKWUABwBLE0lmt_o-W9dJKB7HzkkaLPYK1KksWsruCXkPi8liTxf1Cg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RecurveBow"
+        }
+    },
+    "EUN1_3719860886": {
+        "zaLureCYXXm56n3uXXIf9DuMe7LEBfsM99AVCDZn4FvFf_4i_ZTjI7Y5qZrNfu7vdv89k2LvpS2-Ow": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon, TFT_Item_InfinityEdge"
+        }
+    },
+    "EUN1_3719838899": {
+        "h__5yFxfrJGj_7dVw6ihf5VwKFos9Zs5uHkjNNOKs2LL8RBi1NHt-fBL8xGd-onio7cGw05FvY7iGg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_WarmogsArmor, TFT_Item_BrambleVest"
+        }
+    },
+    "EUN1_3719792390": {
+        "nRqnFgd-lU9PZ50L1GfVLosH5KIScfnOzaAoq_Jrx45bPz6-5vF3g70gGzSM6TK3NYp6Hw8p69QkoQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT13_Item_SniperEmblemItem"
+        }
+    },
+    "EUN1_3719742157": {
+        "5c2nfN6yRhOeaGJA-OgXfUORrQYRlalH_ofEsh4z-iRVsamD60Gl_CJXJ_kCQRHLkZctjE9k4VPlnQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RunaansHurricane, TFT_Item_Morellonomicon, TFT_Item_Quicksilver"
+        }
+    },
+    "EUN1_3719723492": {
+        "Kzx0BoGrMPjarh7Sbxyk3RmvFzB8jBt1h3NGjZWWweGv15RUT0Qchko7_H1nWR-qKHSdnov5JSvSBg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT9_Item_OrnnDeathfireGrasp, TFT_Item_PowerGauntlet, TFT_Item_HextechGunblade"
+        },
+        "FSrpXF5vf4OvxLLeeNXkd5kzSj_V_clh0OKfWAPn31BdTDqBgOvuMsa4E3vj2VVx4E9RABkvTLzY-Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_PowerGauntlet"
+        }
+    },
+    "EUN1_3719636150": {
+        "ZuuBctJyDbZ-55WWjKPY9V10M6rlD5iptrIKxa7IxpgpONDivSPwFweNpYvxJKgZdjYdz82PCBpY8Q": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        },
+        "uDgi266gk-vJ3QrK6Ly6W17GRxqHJwQ45pkZ35JJpoc-ijRaRVC9eGc_2eArGf_Rg8t_ON5RNVxdxA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_GuinsoosRageblade, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3719577676": {
+        "2D6bSCKVUdZDhmplBNzuoTY3wSAk9xkPasp2BzbSULQGxb2uVxFXFvlKH0IyDAjbWdlilXrt98z0Nw": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719563609": {
+        "adtzkXrnvBGAGcBjSjIpzkfk_koKX8khzwwbELKwsri5JElzsdY-U5cby1kCwUbeFZ7hzGfD1H0tjw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_PowerGauntlet, TFT_Item_Leviathan, TFT_Item_HextechGunblade"
+        }
+    },
+    "EUN1_3719546862": {
+        "FSrpXF5vf4OvxLLeeNXkd5kzSj_V_clh0OKfWAPn31BdTDqBgOvuMsa4E3vj2VVx4E9RABkvTLzY-Q": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719116521": {
+        "q4tf7G2VuFGTbs2HcyqnPXq6RYiC_SxqpuxBNRx8pxJjv6MFd6tEuVR_FOEXtE1BaRlCNL9QWISQZw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm, TFT_Item_SpearOfShojin, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3719011492": {
+        "q1F8VsHrr77OWq9VeND0cVjbJjmjRrwevKyvz95gWDYi41WQ1f4RI9JkRALDBAv1PR_B_bsBLEXoGQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3718961650": {
+        "tMrqSqD-zZQpmBYkb5XZMBHOSjmxseFNZs9Go1RfAleftMrVSchB0pxpV96oTsSoQ7c3UID_eLjSOw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ForceOfNature"
+        }
+    },
+    "EUN1_3718610423": {
+        "5FysR9Au_gEcsR7i1VIHWF703JURL_BloutGzL4a6-MnRJeBNK47IhDq-RMfVGKHIWTEnpBoJ-MBcQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm, TFT_Item_HextechGunblade, TFT_Item_MadredsBloodrazor"
+        },
+        "297lv2pltkA5hndqTv1uFLPyYkrMKGjH93d1-A8thgwq4GuBpA1F4ZxMDsrxFu6NHjmDNe_X4qA6hg": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3718573272": {
+        "5FysR9Au_gEcsR7i1VIHWF703JURL_BloutGzL4a6-MnRJeBNK47IhDq-RMfVGKHIWTEnpBoJ-MBcQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_GuardianAngel"
+        }
+    },
+    "EUN1_3718450705": {
+        "nhQnEfpSTVdp112TMOvkP7qCL9aGn1SUE7T6Aoq9wlynsutIcX01WjYm6a56wbpNAAPlYGp5ftKJrg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_Deathblade, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3718356734": {
+        "V-NnO-QP2apwbtrWYpydmE_pBcKx5fM-LOzVn96r1Nxa0V8M2E9GoZhwBZ4lTM39WJJSZc5QYwi7Ow": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_Morellonomicon, TFT_Item_GuinsoosRageblade"
+        },
+        "vvoBMsepQCloRWW9Eu8NGtPavrT3WfCAqi-6Xc5XYkB4tulZSdJLUVFTEsZ14-zz80QXYWssygsx1Q": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_Deathblade"
+        }
+    },
+    "EUN1_3718314201": {
+        "IE-g3AEwCS-Goz3ARJz_VWA1GQ54Nu-LUwu-BOgt5-IqN6gr36N5x8rb58aOx58rzFTrrXCva2Ccvg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_SpearOfShojin, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3718240989": {
+        "vEBSYt9bZIYqVd3wUSgl_YGrFulYv5sAoqAw-co1dEso7qBYrzc76ACr3vlZ68F0N-JEaWrF9DFa0g": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT4_Item_OrnnZhonyasParadox, TFT_Item_Artifact_SeekersArmguard, TFT_Item_Artifact_BlightingJewel"
+        },
+        "20TC-Vl1gb3OoiEDnaqEThdNdJeNEhe-FTf-QpvVkQr_aMMa22DoSQ1XhTDVl3H9kDTnBcHb1vvWuA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3718118523": {
+        "vEBSYt9bZIYqVd3wUSgl_YGrFulYv5sAoqAw-co1dEso7qBYrzc76ACr3vlZ68F0N-JEaWrF9DFa0g": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff, TFT_Item_HextechGunblade, TFT_Item_Moonstone"
+        }
+    },
+    "EUN1_3718085838": {
+        "vEBSYt9bZIYqVd3wUSgl_YGrFulYv5sAoqAw-co1dEso7qBYrzc76ACr3vlZ68F0N-JEaWrF9DFa0g": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3718063730": {
+        "5FysR9Au_gEcsR7i1VIHWF703JURL_BloutGzL4a6-MnRJeBNK47IhDq-RMfVGKHIWTEnpBoJ-MBcQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_SpearOfShojin, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3718043513": {
+        "_qBpkzl3XZbJhcCL0s9Sc8Ghr1nfzXA_-7wS8SZGZTtrXA9nO3bOK40NpKqS60LDbdF1-dz1Md-KDQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3718013979": {
+        "LfsVj9_8u5OI0y2mhwe4qkqo1rCNIyVjgNCU5MIzPYS4L52_JVYo3fg_hubkdGwoAYFcnZRXccptzA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_AdaptiveHelm, TFT_Item_Crownguard"
+        },
+        "-ChEZRlxN2DaquxB2-kVCVKtxoUY6qQORJFR87iko-tPeXEreC0DfkDcL2Oae3nUF3JcD-Y8SHcMKA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3717800969": {
+        "ndZK7cbZYHEOGO_s2hdydgfU4po7evZn5MVCyhkEw_dEnILxeyCmNLKFqd_-vY_vjZoY7_iJLptc8A": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3717773380": {
+        "SQwkXWAK9RpJYOUZjpO7ytanFwsoTWvTASA1Exj7ybW-srlduh0GPxLjjtF9dw3EalgAOrCcahK2Fg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "80Tg0G9zzP85Dm6NDKMDfzU8FQ6CtxB8unXLmsXEnAXYjHBh3THDGutpY43o3Zh8Zb1XVMWuJ1T1PQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm, TFT_Item_JeweledGauntlet, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3717688529": {
+        "nRqnFgd-lU9PZ50L1GfVLosH5KIScfnOzaAoq_Jrx45bPz6-5vF3g70gGzSM6TK3NYp6Hw8p69QkoQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3717668597": {
+        "JcWz4b41q0ll5bBrzXkx4yJGo0V-KDGQmAEidAGrW_eFNteqL-5_TH7qnfe4TOijcOeMnXjDLvCbPA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin, TFT_Item_Leviathan"
+        },
+        "tMrqSqD-zZQpmBYkb5XZMBHOSjmxseFNZs9Go1RfAleftMrVSchB0pxpV96oTsSoQ7c3UID_eLjSOw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_Item_TitanEmblemItem"
+        }
+    },
+    "EUN1_3717643034": {
+        "cP8oMtrbpJYKiNgGgEMdo-Rs6fxO1ncdRhSQhJkmsh4SvxfjdZbNH6S-ThEoi26Vej9gdOhhGx_zBQ": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3717630817": {
+        "nRqnFgd-lU9PZ50L1GfVLosH5KIScfnOzaAoq_Jrx45bPz6-5vF3g70gGzSM6TK3NYp6Hw8p69QkoQ": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        },
+        "Ga80eZxHd1ZbMFPHkQ98JeiiaF0uBhH3pXE48lylQ_Vodn5vZaQD4jVbdWS5hbLPZ92IYDwykx8iBg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3717488446": {
+        "FnWNfH1arW5iXTVti2WkU6fg-MPLLAGjyOpeQ3PiJNmWPQGYVCHNcrqAkW02iwJHHv-qzrdBRFpzjw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3720725299": {
+        "-yb29y_5OKoWg_-7OxckQu9rOrNPB7lMYnW7Xb7pI4fUUdBuW6TsqOfMWtys_v_I43yeR5QrrFMF4g": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT9_Item_OrnnDeathfireGrasp, TFT_Item_SpearOfShojin, TFT_Item_MadredsBloodrazor"
+        },
+        "L7j3fGSJza7NSWBoIckG_aYcim21f0NRPEPYoFbyPKTPlmc8fv_SjM30Im6VtRKayMr7xn4nj25vZw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_StatikkShiv, TFT_Item_InfinityEdge"
+        }
+    },
+    "EUN1_3720707804": {
+        "ya4yyKTPZkaVFj-c8p-i09I2jUqFKnGd6zC9iGuBs_rYlMbfsmakn_wsDAMoR7L0QGq8hBANY93KKA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_Leviathan, TFT_Item_SpearOfShojin"
+        },
+        "xTBgV5Xu4CYF13sdxgJooeLlXoYzQs8dgK3mqI2ZYhcwkLJpeZXVKrMdyAhbAyu3xw9i4fSbEplQVA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Artifact_WitsEnd"
+        }
+    },
+    "EUN1_3720567740": {
+        "Buh_J9kOc0mVJ_Ciww7T9Ura1Egew21K40iagjXySIgPdK6GWgRE-5r6GbKIRwit8QVRm0oXSQqXfw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT13_Item_ChallengerEmblemItem"
+        }
+    },
+    "EUN1_3720494134": {
+        "adtzkXrnvBGAGcBjSjIpzkfk_koKX8khzwwbELKwsri5JElzsdY-U5cby1kCwUbeFZ7hzGfD1H0tjw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_SpearOfShojin, TFT_Item_PowerGauntlet"
+        }
+    },
+    "EUN1_3720459609": {
+        "8i9UiJEVsfdbZTLSQ363ZniJHdyzj_ZyX4rxOcRnDs1e_31AJiiFzlBq3j812Ts99_l5XL58DCdmpA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm, TFT_Item_InfinityEdge"
+        }
+    },
+    "EUN1_3720428908": {
+        "6P5xTkwYcVOlWyZEaHvIp_gJ1-9r5rpvDkEDQS1tW5HcconneCOhyBEG6tpB-4_Au0X0hq8rz1nYxQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT13_Item_TitanEmblemItem"
+        }
+    },
+    "EUN1_3719618536": {
+        "Wheq7xXmu6OSuyaLtsXAPPPUW_QiJ80OaU-WuDOSg1IwzebsufWTyauP_K-FGKmVu_KrRyHiUGjpyA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_RapidFireCannon"
+        },
+        "3g6VrO_yO7z4XtzampTF5GKLhHuD7C3GJ0qTPbmQ4lrmCfkbtAjuP0P3K9uaMW-CZfpPvnql0vSZ9Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3719465040": {
+        "Bmv2_55Vui7G_-gkhh8NdnONaukfdWO2ZdjcsSBpyUz5MoLpjqfbulJwRdIxHGtc6B2QNkCFs8hrhw": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719412141": {
+        "fo7GOKeWzDxnuNEktaCBCwW_hF3OlaGZMNd4lnXvXgvk-a2DGECj-yC0PhFa3cJC5DEZ-YO_MXVhjg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Leviathan, TFT_Item_NeedlesslyLargeRod"
+        }
+    },
+    "EUN1_3719391564": {
+        "1e4Ao_gx87Ow8eXQs-eV4UlIBGfA_fe-pfET6vW5Wc3om6C4WSzOKr9TsgJY9CEmeoy0dkPXQU1Sbg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3719374805": {
+        "fo7GOKeWzDxnuNEktaCBCwW_hF3OlaGZMNd4lnXvXgvk-a2DGECj-yC0PhFa3cJC5DEZ-YO_MXVhjg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3719149383": {
+        "IJEv5bNpdn9ZNMbSs9yXmoGDNiHp6fWDwBY3NvQEHdonwE-CjTVSoA0XEk7hE7nFsZB03Ia-wgzoNQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_BlueBuff, TFT_Item_PowerGauntlet"
+        }
+    },
+    "EUN1_3719062848": {
+        "Bmv2_55Vui7G_-gkhh8NdnONaukfdWO2ZdjcsSBpyUz5MoLpjqfbulJwRdIxHGtc6B2QNkCFs8hrhw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3718979826": {
+        "b_1Wo2eJ41wdP2h57I2LgDbbKxcckO91keS-Bofd_h_qxLmFXLwnfi9q4KF0oRiN5mtUxuP7gO0RsA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_Morellonomicon, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3718333539": {
+        "Bmv2_55Vui7G_-gkhh8NdnONaukfdWO2ZdjcsSBpyUz5MoLpjqfbulJwRdIxHGtc6B2QNkCFs8hrhw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_Quicksilver, TFT_Item_StatikkShiv, TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3718307881": {
+        "UnoyeTKc4PY-y1RFzgx2UxAbY5jzzKmgXWk3ah43VmTEwJWW-eh9Jar3yxz8-r31cMPKhsMS9NdUKQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_Item_SorcererEmblemItem, TFT_Item_StatikkShiv, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3718282065": {
+        "g1cKalRyUH93FngQ6TSz5SEsV68iGkb4TqKqcCngGjsH9we5WKMiehLtOI-_AUI3C-AYi410QW7lWw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_Leviathan, TFT_Item_JeweledGauntlet, TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3717359394": {
+        "G1mDRamZDp1b34wp0ZipsB51XRS2znk-o29SIvBxYzYitCXQHquMX2K_4htLogNzhbTKlfDVwRVHcw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_Artifact_TalismanOfAscension"
+        }
+    },
+    "EUN1_3717068221": {
+        "OcjiCcMtT9OwAzn_OG6e5s-KZTXBN8rz7fWfyB6eBSRc364RDFst51CwtW7Sr2UdyVPWPJcRKvuOvA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3716676603": {
+        "20TC-Vl1gb3OoiEDnaqEThdNdJeNEhe-FTf-QpvVkQr_aMMa22DoSQ1XhTDVl3H9kDTnBcHb1vvWuA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet, TFT_Item_Leviathan"
+        },
+        "Bmv2_55Vui7G_-gkhh8NdnONaukfdWO2ZdjcsSBpyUz5MoLpjqfbulJwRdIxHGtc6B2QNkCFs8hrhw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_JeweledGauntlet, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3716542553": {
+        "TmTsfi7sxFgnP4p1yWAjDUUrD163xPI5DbkV1P6ypUIy3W76EFc0dNFQu_jSwzkzNdrTneSA9f9zvg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_HextechGunblade, TFT_Item_Artifact_BlightingJewel"
+        },
+        "CbhpYKdOKkCVYytQjpgnx27WvSk76229e5wsGAsjk2VNyrhU16N1LZvnd7x5EBtkBQ3vxHMqplm2aw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT5_Item_JeweledGauntletRadiant, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3715955951": {
+        "SfHAMbYSw_JrtcjRP350IXjpGL6lXd9nCryoC-OioVW5AFTbLG-XS1lWg2myttcfkPHOXIf75nqa9g": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_JeweledGauntlet, TFT4_Item_OrnnZhonyasParadox"
+        },
+        "IkrZs7h9QG7taLd8nvMkJRsr7hfIpjOaEKvItkOV6BLqOhBK9bp3NC3AP42MT0IF0fiuwHQDA0BXNg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Leviathan, TFT13_Item_InfusedEmblemItem"
+        }
+    },
+    "EUN1_3715720201": {
+        "PO0e4dwbCk74QJKQYv1-B4C4_sM8e4PGgNZRmQ8fqF-gcxiErW6sX3HqqriYLLRd6DEYIZK9dIp7eA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Leviathan, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3715526399": {
+        "Bmv2_55Vui7G_-gkhh8NdnONaukfdWO2ZdjcsSBpyUz5MoLpjqfbulJwRdIxHGtc6B2QNkCFs8hrhw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3720575621": {
+        "2e1V-CB2VW51dU9ke_yMfWyzTeWXeQ7GbbqAAa_rIGORGnb6-2FhFQWIt_Jq79eljEKqsUXCMSXhbQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Artifact_BlightingJewel, TFT_Item_Artifact_LudensTempest"
+        },
+        "yCabHiy5t_I1c2wPINyMIq1_d4I9CF1q1ZbaMfwxMnV4eS5IW8-Z52UrnbJs1ZTOEQPUCh2An01UJw": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720521229": {
+        "20TC-Vl1gb3OoiEDnaqEThdNdJeNEhe-FTf-QpvVkQr_aMMa22DoSQ1XhTDVl3H9kDTnBcHb1vvWuA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_SpearOfShojin, TFT_Item_Artifact_BlightingJewel"
+        }
+    },
+    "EUN1_3720466311": {
+        "BVjRCh8HXXYRisg7yewVVU9Uop0GZvMOP0o49jh7Tii5veu3V7W3vMxK5p6bPOxRgjWQM6d0z0eAeA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720424549": {
+        "yttHmrwnVWllp5iDE1w0JEKhknPS14HcignaON1hG0eLfOQdbGnjegiMCj7GKVspmA3a1outndyqQg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719951925": {
+        "tbjRzK1nNQ_s6pTxKGzZJHdWdCDunrUg5krz9kNSwFdqlXajl653dMTnpmNQa5rIocXKYayGVokyAg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719931329": {
+        "DDlBqJxoN3Ij94-RHhzrTorjhB6MeRK4-UhHyuG7cWz4I7g_gk-56CtY64eRDG8LzuMV_MkfoHZ3Rw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_MadredsBloodrazor, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3719704565": {
+        "ZhSvjgeqoap9pS1ad9dRtrU_ShtFDDQtL40Vbz50qxTWSSVWiFfWWlcY4JhB31ryoDaFJ4mDMikoXA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "C6hKnedkYSfqn1ESNoZENlFbBWco0uePNaFEg1DyVNzd959YbbESL64uTRMwn7auViJIgnFhenEsEA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT13_Item_SniperEmblemItem"
+        }
+    },
+    "EUN1_3719700762": {
+        "AO_IR9ry6gy2UjGOvGROIeciHDDf05Ld7prPuSE-tg8aQGFMSMkJVFAlOXG4mS1uI6_-gPC1MLKrXw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719698606": {
+        "MLkRowcUmrWGfmkk1HeJ3onD0TB18M1LbT9eB226mafynh4x7XKDKFzptgcjF94PN_jly6r11rWUGw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Artifact_BlightingJewel, TFT_Item_Morellonomicon, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3719574873": {
+        "MjDlIu7g64qIBam3zE2bsnHflyxx0D5FAFrlyk7U5uACrFyG5JcbWj-1wPmkA5Y-Qzjcyyus0CUWOw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_JeweledGauntlet"
+        },
+        "yCabHiy5t_I1c2wPINyMIq1_d4I9CF1q1ZbaMfwxMnV4eS5IW8-Z52UrnbJs1ZTOEQPUCh2An01UJw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720982034": {
+        "yj5W0_-uHeQyDi80quqI9y1ndBj3omX0fKVK4uzrgcaAXuoIN1AP8rmpqhYRx-64OiQnArFY2X4UJQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720968401": {
+        "Fsaj5aPfXmIJ6uhWhjZJFoZDCQ96xRqB4UkNUwQogPE5LYm0Qkq0sqiM1gln3m8SQZLFp9MEI5GpFg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3720938812": {
+        "uAnvSSK66gO8bYWB5UMP8-XYqK869kuMpQ7jijfsAZ3MWUaFBvFddP6JL12RGcQOpLRsq-OFx3sPEQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_GiantsBelt"
+        }
+    },
+    "EUN1_3720769852": {
+        "R0UqrRFPWqCNXFF4Cw6q9eMyuwhSFWbfVXdpQnk5oGa1XOBtSTmPAqzaCXT1Xsy1jzUj15rv5Qh9Rg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3720774202": {
+        "By56q09OhgV3LFvOLD_mMresJJQq5nikj5W7ocegGI5-gpCFs_HeyvJYBSQdkbFu03uyuUA6SP6Oyw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_MadredsBloodrazor, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3720376984": {
+        "P5gsMILhScRWU51UjIJzpHqDdnOlw2Gomh9x22UVaj1TJ6x9QEmtOvYoBhczVbEe9QO5ZFEtoS1dkw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_TearOfTheGoddess"
+        },
+        "13xOJtBKNwv75-xIh4eQqeGE-Li-hR5urhn9UJnf7bXF8kxsnVnbqohsAYCVNLm5mPhThrv5cgWbZA": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_NeedlesslyLargeRod"
+        }
+    },
+    "EUN1_3720279197": {
+        "1e4Ao_gx87Ow8eXQs-eV4UlIBGfA_fe-pfET6vW5Wc3om6C4WSzOKr9TsgJY9CEmeoy0dkPXQU1Sbg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720259905": {
+        "gY6zaSvdq_j7xcJPWlCDL5PvfvW9fMapwc5-EwqwwrEgU_0lxf0N_InoJUJQY_TQ8Sqdg_ybkgt0Uw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_PowerGauntlet, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3720224297": {
+        "aAoj6_TNhqfrLXyZN7Jb_euu3oSRZLcv7YJjovdxhYZG7W19e-IdMtiguOq_NRHAEW68qHtjhZ9EtQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_PowerGauntlet, TFT_Item_RapidFireCannon, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3720192427": {
+        "ZwTaVI7Epo96clwCOwUR9mBvvT2V5N2m7FULETbbxeg-ahPCH2AiAqTOIJj5wZoGCviqjvBg-hDOdQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3720168960": {
+        "ob-aiklYRxRvdmcsu3pzJ4ZsAKnoBuLwW2lXihkyN9-0hnDXbfu_IlD1tGvteo_sMit6QWP01AZd7w": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_Morellonomicon, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3720019786": {
+        "nfZoHCyKpD8r3axDxK8DtN5Zoboo7KZil4K8Ay67kUjutEg-Ip6ho_GNi_zPam7rmFZaFGRt8n0nBw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_LastWhisper, TFT_Item_UnstableConcoction"
+        }
+    },
+    "EUN1_3720001378": {
+        "mhIvHaLLILubPYKmH3Vu9VQN1Ds8p3SWPkTdX0upLiG0Hc1p1a-5wBbjw6X-Ohk4hMgJRfRj-ikvtA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3720820947": {
+        "_BXCDZcjwyn6aahn1WZo2r84XD_uNkVVlBpFtDCZebsYf3CaMoaSxCSbaz9j-bQVdHwZGf7c7v2QFw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_Leviathan, TFT_Item_Deathblade"
+        },
+        "DZYKBP7zpjiIhtt67YfYLr536D5Aav98Cao1jUhmvIkh-yhbBWf-kFYb7Ogw26T7MZeG3UKCCKN9Sw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_GuinsoosRageblade, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3720807077": {
+        "tjVmEQe2oOHiIgcY5wVrSBMAZR4EZ0g7ZU4LWpST1WCEjWhwsthWHLaQEtlJtoPb-88W6FnnBQQ5vw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_SpearOfShojin"
+        },
+        "EFH6D4aVQvSJPxZxzRjRwazipOCrF3qNmB6UBMwn4nmBaf0kZlZrIvhaxyak7IiX6OrnUVdZUB1axA": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3720670626": {
+        "__ZdcrblbLZ9Ax8WtHmpAao9TvzyJTghUHwE8pEaLmTBh5X5JBzjZhtRLsRAef_e4fLp1mm5zSywrg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_Chalice, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3720412404": {
+        "9lTEmnhPbc7UU8WdmRa3UrJasL0jv0t34fTW92t-5jTsBnQ31lQpQbINb4QpuSZgOvGD0Y6i-4MK6Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT4_Item_OrnnZhonyasParadox, TFT4_Item_OrnnMuramana, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3720373471": {
+        "lTf9uQZLe7WDTGz-oqbZshO4bl1cQk6dO0q_NUVpTK8WvtoOR8D8Fp7ISvvpYX1N0OFy7Yid4gHgmQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3720281513": {
+        "Co3f86oR_495Zt2pHq3fUFFmWKI6-lnvGRkZg9PhBE-OXdZMkl690HTzNULUtm1gXkhjGWSRxXhNUA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_Morellonomicon, TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3720264015": {
+        "EiQRS-Nw5uTeTM6l5WlPsjTEo5mFK9q_LM_r0KIqLqxR10mn2Zg3zdVZRUNAFUrI7pTSi-K2CJt-9w": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_NeedlesslyLargeRod"
+        }
+    },
+    "EUN1_3720040830": {
+        "BY7TGIWtC86VaAObuG18xxEFp4yf5_uKG4yERdA1SA_jAZv15MAZ47J5HxLUDiqIUfC13PffX4SrSQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720011731": {
+        "s0WjINE2fNcOLQO5ORsiLuj7tDn6YiaehlQ_-TdHDLEH69Q6YjN2JJoaU0J_7IkCIcxULbZldHHgcg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_MadredsBloodrazor, TFT_Item_ArchangelsStaff"
+        },
+        "sRSDobLKoTmD2yszfuZD4qWD9FbW8VVZAHnzQqVbotjXtyKobFsExKB5R91JdsHKGku3FyK49EC5BQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719990529": {
+        "JxTQkPvRfxaTlFJGG3LdslrSHpnqN-Sb18ja_w1BW3tfD3_WR5U3kskcnAnaCLcXpgVNI0m41x5WCQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719966656": {
+        "PNu102jRBkOYlGNxhuqhkDTDUW9icmHJjIOhpwlQd_bv-5_GHS5YJHsP7o7WG6rL8CYYnJSlJ1INdQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719945286": {
+        "Y4yYVYyce6XaCLYcKmNVnwJ4qgV7cRH2MS6fi9_o4SExyr0O0bYVcYs988pcjvd_fFIWoaOS-EyGmQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Bloodthirster, TFT_Item_SpearOfShojin, TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3719915981": {
+        "TzmDwXViGjLnhCizSKm02_8rKVjDwM1RDU3DGa6N83eEpe10Ukk9QIBcm21RaQiCe-HK0dfHb0x1Hg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3720835351": {
+        "pVgmaeHUebClWRV20jC27G78jau2llbIBXGE2wEAp_Uop8Cg4xUB3f_kLxIF4I3fEu2KwJmTOKhw8g": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT13_Item_InfusedEmblemItem, TFT_Item_SpearOfShojin, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3720093192": {
+        "ET4jHJy_gRH8FXzjJuHyAe9Sa7AmGajNiMp7syjte8UH34FHMuPQhaqEjo9nbkhIq-cVe82xnFEgXQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_NightHarvester, TFT_Item_ArchangelsStaff"
+        },
+        "UHW99NvR0WfBTrj5BsQI5u9u3L7mEtGjbE_I98VRm-t7UzWTli5Oj1Tj8PmAnxS-C6-AYII9ZjG3rQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719819177": {
+        "2Edc14FX4shGMMIafaZb3myzYinFfIs97W4xUROlQfdwhDjdYp0k1fSzgyQ-aP7OYI6pkyRb5sVabQ": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3719721706": {
+        "5UCq80WXDceBue-jOlYkyeU8c2hm4uUmj8DdnSPVjJ7gymk6Wl5Kjc49i7InLvcCfft4A3SOdsC5FQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_ArchangelsStaff, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3719515341": {
+        "UHW99NvR0WfBTrj5BsQI5u9u3L7mEtGjbE_I98VRm-t7UzWTli5Oj1Tj8PmAnxS-C6-AYII9ZjG3rQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "-aVHwcc8D1jRHfacT-aw9-XIfmy0SPMWChUHYRdZzgrfwoNcy4oXE9uG5XPJpxMXTAxHLVL9I3E0OQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_HextechGunblade, TFT_Item_Leviathan"
+        },
+        "Hw6zOu-eZopXSoOWZxP9A_9tU4VAMgwcBMPLsuVGyAMdhKFueH5AZB7_pKzZQFlmtLdblAUT3qbpkQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_GuinsoosRageblade, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3719453378": {
+        "Lhik3LbXDr11yOAy7c7j5pKRVE82N_xdYDPq6niWRGHNMHG2hMZLDOauZjvTCPnYVK64ghg75kw13A": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3719420422": {
+        "UHW99NvR0WfBTrj5BsQI5u9u3L7mEtGjbE_I98VRm-t7UzWTli5Oj1Tj8PmAnxS-C6-AYII9ZjG3rQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3718654298": {
+        "l8jY_btlqFAIaqO_Kozp-Sod31J0vG8LKKVQJNhP_r-7Wd_UmITXmsBeX3YdZ0XamRP-d4zR1wyLxg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_StatikkShiv, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3718292811": {
+        "EjvXg7uWe1XA93llGeL-48U_-V-GuOtzZES8ws2cTIULQ_CPvvj4ZevV3yutZpfB6NbLTRHCrA89PQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_RabadonsDeathcap, TFT_Item_HextechGunblade"
+        },
+        "l8jY_btlqFAIaqO_Kozp-Sod31J0vG8LKKVQJNhP_r-7Wd_UmITXmsBeX3YdZ0XamRP-d4zR1wyLxg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_PowerGauntlet, TFT_Item_SpearOfShojin, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3718203611": {
+        "4x0WmVPZsYZjPNF7SwWlBut8fEpmuEFEBv7tBZTCXnqOLyfJh1tq_wS2mWxhrRsyqkrkFD1jH7YA8Q": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_ArchangelsStaff, TFT_Item_ArchangelsStaff"
+        },
+        "jowNFNG3NqFWXC4wkafsfmuaTTMJTc8aC8FqPrlTBWftcbkMu7RVoS9jDPymcgYInih0-CM6rqFO1g": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_RabadonsDeathcap, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3718186046": {
+        "UHW99NvR0WfBTrj5BsQI5u9u3L7mEtGjbE_I98VRm-t7UzWTli5Oj1Tj8PmAnxS-C6-AYII9ZjG3rQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_SpearOfShojin, TFT_Item_RabadonsDeathcap"
+        },
+        "qRN39SUp5VC9e5PjeXvUHMdU-M7MLUyFyotb-4PZqql1yfmBNWMbxQopSkOG49dlnKcWqi3y7yNhaA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff, TFT_Item_StatikkShiv, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3720989449": {
+        "dlz8GtfoMfil6nq7of5OKcnNvSzarzAXxIqyD-qPYgJErdztVKHv2EbGgC7eoOXAgka6-AU8LjCirg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "l89b90pMMIMOg7k10oHMRtfA1u3YsVn4M2VbXzJVPXqqWFN6t2RFtNVVdDAvOT1sh51qq-3gglAfbQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_RapidFireCannon, TFT13_Item_InfusedEmblemItem"
+        }
+    },
+    "EUN1_3720775410": {
+        "W_uyXy3mkF96T12TSSi8D1Xs-DjquFoze-iBaww_H3yXhNcbUEoISUBBv-rGFbzZZBCV6l2BS9pcaw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720772223": {
+        "qwv4Z5q_4B-GTqNB2gBkhUyqns0revUnNneHkAveeyDjkEe8icDYtx1TygMzE3h-cGgr_OShmS9eBg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3720603244": {
+        "2Hh1er5QHkJyaelabIjUot9ld1p7BYt5LKaJgjOwdB97uOcYyYfVYMZiu91vbwpB4V6I1_jBAaRVXA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3720567727": {
+        "x58PAuo3ZqUWBOBddHXq_Lp4TUzgqKIXfNBhFXuzEcAjiznxnEqiBS1t3urM6tSES0ddATj00Uv3Kg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_SpearOfShojin, TFT_Item_MadredsBloodrazor"
+        },
+        "4wqaIiLTPgOJDZRsOgIfMhC_HRn8kciF-Atxle4zAiayKcKNRdeqXkjQwutdJTqdUp6cSbZKz2wQNA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "x6eRJWfu38ilyYC57_s3VEwleYKXz_iK_ROPZjkm4JVJV23EaXHKs5vyF123XZzXod6TWmOla5KCxg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "u0igVjInYgqFXtUmVcQMplHX1nLfRBdHfHfV6_oLM4mnp24mo8VS-QvEaxi-gHrwq9ANRT6WQ6Vjmg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_InfinityEdge"
+        }
+    },
+    "EUN1_3720480274": {
+        "OTeNYnfABsO331dAmYuMeyohGwWDCH44vOKQDgy9c7cxKV8DgskhGAIHD2brePgdtm7cwUJVn9a9qw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_Artifact_RapidFirecannon, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3720360522": {
+        "N05A2r887QTpqHmnP3qeOhisWoz9alNcQl4RGYCFJ4-JkEaK-cvS51cKROte80DRMcP5YJNffjOXbg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720341858": {
+        "VKpKETdkF9VRMebyVhLYVQUWx_x4XgmQUwI7CQZBq1_fv5wDhOSGeb6Ij1Pvob5YQvPOgyu16Awy2Q": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720769375": {
+        "iMlbwzmmrjzlEEezt0muoF6qJW20wIKMDucpFQj_Y4fdb_7ING3rYCtOfippNgtu1q6mnQ9wRFbsvg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RunaansHurricane, TFT_Item_LastWhisper, TFT_Item_GuinsoosRageblade"
+        },
+        "8pBgTWjFtWNMfrBc9Lf2qNNPNzewZBXfvkMFthmqeJ_vtu5XxHLqTIgW3F2GQg56n-zPN8w5Sg_jiw": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3720763720": {
+        "_Py-NrzQLHcDAJ5GgH0oKn-t_mOWoxoxqiwvypdv25YXOr_K9gHcFG2mOxFkq_y-p17KQPZNbx3D9Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_SparringGloves"
+        }
+    },
+    "EUN1_3720254719": {
+        "w4CD9ysCTKEh3Ibo_89YGSryYx2fvPQx9ZKwhB2_9wBHIWgCasAoI3FTSbfFLixTV74f8NpQbTdfUQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720228359": {
+        "reXtcUNir_c45HtToYtbDnuNYn1TrIo46ztab4qA6ps0XXIhjDbJHmqm8Qn_GVVGsnEW1L_V535r1Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3719829180": {
+        "NC8JeUBDTiMU3SJH4fJRg1AFsIeDp9PUyBWynblGHaHcNGxLu37aXX0UYUSHerBn_Tx_DkOpKPvZKw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_StatikkShiv, TFT_Item_JeweledGauntlet"
+        },
+        "QpN_1VLXR0vR3BYUvLBopZTOFNGYkBJ34heaqDW_QbO6w8xmuXbUtSy7VWvsbMN4DxiLIA7PrwTclw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_RapidFireCannon, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3719812307": {
+        "16znetJxRcLWEMlEvOaX68Gyh7UTuKbwZQQsIjidHT1O0r1_Snwb6jBGvEOJl-A7rzfrBToIv9MpYA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719763855": {
+        "boT6KfjRhNyTAkx5KWuKBFhuwrhADzONdvyx-wsKvbXl2m6Md6BlvII8DyTjcnR_Q2WDY-67PELqsg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_JeweledGauntlet"
+        },
+        "O8NkW_mRGPr2l3bqOy2OjvIowclgCON7Pe1_JCNOWsKdLjtc0erRxJ4U64srTQdDt0nW8B0OP5ATsw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_Morellonomicon"
+        },
+        "0kwItLqvYD70aZVG4soQUdUWDNAZ0NOyT33NOKnEIY6yckn5vb-3ST5-o2Rt6not1T-9C5RZJ1iDiw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_Item_CabalEmblemItem"
+        }
+    },
+    "EUN1_3719742528": {
+        "nRqnFgd-lU9PZ50L1GfVLosH5KIScfnOzaAoq_Jrx45bPz6-5vF3g70gGzSM6TK3NYp6Hw8p69QkoQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_RabadonsDeathcap, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3719733261": {
+        "kGRdmJ6Yur62SiY5EcWOz9WUaXr9IJgU6rUTn65iWlLNL5JTMvLN3L6Ia7Bi-cdbNfqRek_m_frLEA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_PowerGauntlet, TFT_Item_Quicksilver"
+        },
+        "NC8JeUBDTiMU3SJH4fJRg1AFsIeDp9PUyBWynblGHaHcNGxLu37aXX0UYUSHerBn_Tx_DkOpKPvZKw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_ForceOfNature, TFT_Item_PowerGauntlet"
+        }
+    },
+    "EUN1_3719715724": {
+        "2QYtnvkT83K7WhvFaPVkocMQdx_o0fMc2ApkFoy7pV8zNaDP6ghPfm1ECEs5uFHg99wgfqoxgf-Hhw": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719706899": {
+        "R0UqrRFPWqCNXFF4Cw6q9eMyuwhSFWbfVXdpQnk5oGa1XOBtSTmPAqzaCXT1Xsy1jzUj15rv5Qh9Rg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_LastWhisper"
+        }
+    },
+    "EUN1_3720892711": {
+        "64HfsURSBiJRNgFXrB6D33_na7ke3-yJCTlJeCR6hDqUoDQfjFUwZqAT_xlQxY6H780ipohWGz4OLQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "FvxuWDZTbN4P6dCImaWIXOVqBl-B42VmSPBOWvrca6tgyBVRowUqupf-8aVkv0rxL4ewRGXnA-p4Yw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720842095": {
+        "DS6ptWgsDk7LZ25Jw7U6h5ehD8CA6LJE5BKbFTUStD1qkuMy14R2CrZ7PkPIiparRQK20WRYhKMk3g": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720829122": {
+        "wySOc3N8DZtn6tA9nn0VE8IJmR3svXdA-pb7ofc42NkOnTELAefqwbrCom4-dmOvDaH_plCkYeOCew": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet"
+        },
+        "OnW34nHqIew-GrL5A8drqcfE5Nve1QdkvucvJFx760oX4dY5TPndEwgIb_awmiOG4sLg0QLj2uE1MQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720819076": {
+        "GrybpwZf3uUuxPlM8fSNvsubhlIbS1UIIkMRie1knpw1x3YMWZzaPsCsMMU5UwV1MJLweDZWrnRXzA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_HextechGunblade, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3720643855": {
+        "HxkbYwOSJ3BP9NM8-WxJYX9JA9gpZYKbF2Zy-iaxwCJgN49R-lzWGGrgzFjrJcauLdIk17rVy0W1mw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_PowerGauntlet, TFT_Item_RapidFireCannon"
+        },
+        "MzCRilRQfgN1nouGJEGJ1eBRLBgoBiObSDY3YTWcoA1rX7MWsFv-pDInj9VKRwxaHFumyP6K2SQ4dg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720593538": {
+        "DS6ptWgsDk7LZ25Jw7U6h5ehD8CA6LJE5BKbFTUStD1qkuMy14R2CrZ7PkPIiparRQK20WRYhKMk3g": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3720551558": {
+        "GQ0vtQ7GCS3-yOn2BPJ5aoU5GTKW_CswIDJ8r6SOzn6Pry1pL4nDyF7Qu4WFEDVUJ-HB7mofrVfX5Q": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3720497361": {
+        "QpN_1VLXR0vR3BYUvLBopZTOFNGYkBJ34heaqDW_QbO6w8xmuXbUtSy7VWvsbMN4DxiLIA7PrwTclw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "meDcWAYq-grvmKQEqlDxTKZp5PqBItL7hSKeclYoCTpY8Yhc6Ip2DgkQcIoLIT2cdWNpaSmylYEIFg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3720329785": {
+        "DDlBqJxoN3Ij94-RHhzrTorjhB6MeRK4-UhHyuG7cWz4I7g_gk-56CtY64eRDG8LzuMV_MkfoHZ3Rw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_Morellonomicon, TFT_Item_RecurveBow"
+        }
+    },
+    "EUN1_3720291469": {
+        "h__5yFxfrJGj_7dVw6ihf5VwKFos9Zs5uHkjNNOKs2LL8RBi1NHt-fBL8xGd-onio7cGw05FvY7iGg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet"
+        },
+        "VfA7IbW0-MW2eDsI90CG1_FtZRI55sv76RJSSm7PsW0eR9iMIMrzaDjo9Vda2GLLOolAGKAlVad9XQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_ArchangelsStaff, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3720273345": {
+        "stOKxLKJ-d_ZcblI9m4nW3psFXe3lxUU_XHdRs5mdDxjJp_WVEXmHQWKgB3-iEgrfif2MYoq--w7QQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_PowerGauntlet, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3720261552": {
+        "DDlBqJxoN3Ij94-RHhzrTorjhB6MeRK4-UhHyuG7cWz4I7g_gk-56CtY64eRDG8LzuMV_MkfoHZ3Rw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Leviathan, TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3720838161": {
+        "GK4lv99IhLqEytSxb0mU8ux5ePxM4e1eKwaIwJLDVjIFcQZBOgtuAJofad6E4i_dInzH015dAcWxKw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_NeedlesslyLargeRod"
+        }
+    },
+    "EUN1_3716606160": {
+        "LfsVj9_8u5OI0y2mhwe4qkqo1rCNIyVjgNCU5MIzPYS4L52_JVYo3fg_hubkdGwoAYFcnZRXccptzA": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3716584573": {
+        "4vHUdhlTqiIol7GXCAFAd1cifMlWauMXNpmpKU3i4cyXaUX9MEoNz8GOPz9b9N9Z29OIWn--wMyYvw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3716140083": {
+        "oZ0HXaAbt8gSiPk-UTIqNyw0JqUw-Oeh6jDIGuO515-SmT7KYXtIOUqrgkiLKqiCxXoOaZDbAOBKHg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3716112751": {
+        "PQdLe5swtO2ddv9C-hSGc0QUuC_qZtErE_7GMEOw9VJUuJeGNokEaTH1fqm8p6Y2t381pU0YxA8Rmw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_GuinsoosRageblade, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3716092707": {
+        "XzPF6flERVT1owjDTt_LbO6q2FabVeDvFcgI7Fcj3Wb2WUh7Gj7M2ps3LwcUzPOu204gurf2AFb-EA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3716054766": {
+        "t_Q3SpZ9NeS__6zNoUN6gDFLh4qfDxKBY_XOXISbYErA5JW-9lOkjxB3q3BEXpzhz1nzpPr9Rcy2vQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff, TFT_Item_JeweledGauntlet, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3721042427": {
+        "TO1vaHievP7v1e0bxhXXVZTByTpYhcFc1gJLNpfp17gLWZ-IFgMxJ3zWhLA9KuqjNNf8_FnercekIQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_Morellonomicon, TFT13_Item_TitanEmblemItem, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3720992042": {
+        "S8cre34z2oROyBbANqwOSAEXEJJulALhtjVl0FQnZanKsa-84xvMURcIVURV5YSs0b4N6kT_eIaUWg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720635542": {
+        "eUR7RDxfN_mp8C2NY3s3yMoGs55sJEbScEWsgtrfgYLEiPQCYLJq1y9PbPl5acYIqSLTzeOTUryYJA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_MadredsBloodrazor, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3720596844": {
+        "64HfsURSBiJRNgFXrB6D33_na7ke3-yJCTlJeCR6hDqUoDQfjFUwZqAT_xlQxY6H780ipohWGz4OLQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_Quicksilver, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3719181950": {
+        "q1F8VsHrr77OWq9VeND0cVjbJjmjRrwevKyvz95gWDYi41WQ1f4RI9JkRALDBAv1PR_B_bsBLEXoGQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Artifact_Mittens"
+        }
+    },
+    "EUN1_3719149949": {
+        "qVadx01unitrFcJc4MAAntrCw3jG9fLDRlBur0TzleAO97693zaMLNcgJNqUgjfCnrcDtVsZboMTGg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3718610334": {
+        "B33ZuFERKmbxO36Z8J9LcX__OOEYsqHMt9boF3vUQw2XBOMRbQ8XzzWGrw2gtILcYxGdZYnGsJUG5w": {
+            "top4": true,
+            "top1": false,
+            "items": [
+                "TFT_Item_GuinsoosRageblade",
+                "TFT_Item_StatikkShiv"
+            ]
+        }
+    },
+    "EUN1_3717511302": {
+        "2e1V-CB2VW51dU9ke_yMfWyzTeWXeQ7GbbqAAa_rIGORGnb6-2FhFQWIt_Jq79eljEKqsUXCMSXhbQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3717475987": {
+        "mc8juMK9i3UoVR-P7H3uNIH0nXYfl-MJdYb1lHpYFBYUG5yEh4lg2Fii4FGiXgWk2zd4iF1zi41phg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_BlueBuff"
+        },
+        "LpzolpJ0z8ahc3HFY5hvs_7KfrLeHxFzCrBGIcEM54e86RimeffLyHerpCMoPCxkRMByFM24g5zaHQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3717459256": {
+        "mrf3p35tcfOk7k6HQn9cjj4Vtpzew7KU31aW8z9f8J52Zm7kD4Of2pTzaF38BjnZA9su9E2f6t_-AA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_MadredsBloodrazor, TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3720940583": {
+        "ya4yyKTPZkaVFj-c8p-i09I2jUqFKnGd6zC9iGuBs_rYlMbfsmakn_wsDAMoR7L0QGq8hBANY93KKA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Moonstone, TFT_Item_Morellonomicon"
+        },
+        "lCpu52o35PI9k8iye3z-ZB9zB5DMdZTIQ5VUjWkbT57BY9t98-xy56RzLdK9UV5R1Apc3qpkPICFQg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_GuinsoosRageblade, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3720893930": {
+        "q4tf7G2VuFGTbs2HcyqnPXq6RYiC_SxqpuxBNRx8pxJjv6MFd6tEuVR_FOEXtE1BaRlCNL9QWISQZw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_StatikkShiv, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3720858423": {
+        "OnW34nHqIew-GrL5A8drqcfE5Nve1QdkvucvJFx760oX4dY5TPndEwgIb_awmiOG4sLg0QLj2uE1MQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RabadonsDeathcap, TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3720830475": {
+        "64HfsURSBiJRNgFXrB6D33_na7ke3-yJCTlJeCR6hDqUoDQfjFUwZqAT_xlQxY6H780ipohWGz4OLQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_Quicksilver, TFT_Item_TearOfTheGoddess"
+        },
+        "Osj2GgmDUD5JBPbcOTvHXtpyCmWhCnsEcfBvuVXR1sI1xgMerZP7GombR-Jv9FpKorbtOxBj5wqjRA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3720634719": {
+        "oCpekwSGx7S_6O-cCuz6ZPUjbkKRqXqSJCNhrEC80FIWq0nrSNaA0HY1l9q8WEpPV6TKUg5ZVftx4A": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3720611438": {
+        "D59RGv2OKmpss34DPXoG-xuWkQpk-RvrGKHVedZ_IxP7PCfK8X5UN5wAahU-Mmxp6OUDAYwrOI8LYQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720555950": {
+        "LfsVj9_8u5OI0y2mhwe4qkqo1rCNIyVjgNCU5MIzPYS4L52_JVYo3fg_hubkdGwoAYFcnZRXccptzA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3720526625": {
+        "nRqnFgd-lU9PZ50L1GfVLosH5KIScfnOzaAoq_Jrx45bPz6-5vF3g70gGzSM6TK3NYp6Hw8p69QkoQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3720505396": {
+        "q4tf7G2VuFGTbs2HcyqnPXq6RYiC_SxqpuxBNRx8pxJjv6MFd6tEuVR_FOEXtE1BaRlCNL9QWISQZw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT5_Item_SpearOfShojinRadiant, TFT_Item_ArchangelsStaff, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3720485134": {
+        "mKg7NsZ-ISmFqM0-48hV3kJCRBDEWF_Py5qraZYtnEqvWbHw9mvH4uXxA9cuF-i5MLenVL_SAejoPA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_HextechGunblade, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3720456661": {
+        "cEpI7u7_x1nzigfGPOLWW6PEtGlWdryRZtFI34wdsXgHskCk3k2LbfXGlF_ZVYvFVbbSGYCmL007rg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3720438591": {
+        "Buh_J9kOc0mVJ_Ciww7T9Ura1Egew21K40iagjXySIgPdK6GWgRE-5r6GbKIRwit8QVRm0oXSQqXfw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_RecurveBow"
+        },
+        "yj5W0_-uHeQyDi80quqI9y1ndBj3omX0fKVK4uzrgcaAXuoIN1AP8rmpqhYRx-64OiQnArFY2X4UJQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm, TFT_Item_HextechGunblade, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3720078844": {
+        "meDcWAYq-grvmKQEqlDxTKZp5PqBItL7hSKeclYoCTpY8Yhc6Ip2DgkQcIoLIT2cdWNpaSmylYEIFg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3720056083": {
+        "8HEoxTjqtfmbnVU7D-Xs_ujp4m8UMsxJxP5Q75kHmIlMsNtAJ8kX3PnB71j01LjC9KTwwD9CgQfLAQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet, TFT9_Item_OrnnDeathfireGrasp"
+        }
+    },
+    "EUN1_3719516193": {
+        "hcwHhEPcpeuvN-aTi7wmoeW7CGv-yFbb024-umx3BVUNkl672g_BCMNGJUQ6i4rmjyko6TPMBjMVvw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "K7aI1vcCSTihs_xm6kG4oPDaZPX-Y9hzT-2hKXhw5YLCzD8T05pJj4cBaYzxcu7WOVxkyRZkItpsbA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719476302": {
+        "ZiMoHI28qSeRAoTAIU0jy6BvtPkNEZeqCjIzN9tJdFqn14eltQPy1Yarbc4LMkFjQoqzWXT1fPDd3Q": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_AdaptiveHelm, TFT_Item_TearOfTheGoddess"
+        }
+    },
+    "EUN1_3719443147": {
+        "bRZbFK-mfmk9wBmR19pu-c1Q0_A8Y0nkUq5MG3jyAjUTTnq9GPCTaWYZCfKeqkLcM6iwE2yE2EWjFA": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3719411170": {
+        "i7zLPI7ftl5ItjSgcg7aVOgCAmo7JcwPginOyo-0RNwVz92gZ0MVOeNYORJ_Q72WzOHeJBknWqOSCg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719360487": {
+        "ZCSp9eNAZtGN989Cl1EUDWlaDWFRK4B0JjzWpYlDl8PJ4a9_TERweepH81nkuPwogJVxxBpcsv8fUA": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT13_Item_HoverboardEmblemItem, TFT13_Item_TitanEmblemItem"
+        }
+    },
+    "EUN1_3719348274": {
+        "_pEgiMNVyn40ozB-Ifw1nUjaxinlGe72IpS2i_Lv39kAWrsHro4Eq5Jyt4Q0YgnNPWkCairIEVLV5g": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719334626": {
+        "RcriAOuC5x1yuot0qJJSyaYaJeltwMtLu6uwNonOPiUrb_5F6B5jwnM-UgyITBlsE5ooHWmEp8hhxg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3719328456": {
+        "_pEgiMNVyn40ozB-Ifw1nUjaxinlGe72IpS2i_Lv39kAWrsHro4Eq5Jyt4Q0YgnNPWkCairIEVLV5g": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_SpearOfShojin, TFT_Item_Leviathan"
+        },
+        "w4CD9ysCTKEh3Ibo_89YGSryYx2fvPQx9ZKwhB2_9wBHIWgCasAoI3FTSbfFLixTV74f8NpQbTdfUQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT9_Item_OrnnHorizonFocus, TFT_Item_Artifact_RapidFirecannon, TFT_Item_Artifact_BlightingJewel"
+        }
+    },
+    "EUN1_3719316045": {
+        "8HEoxTjqtfmbnVU7D-Xs_ujp4m8UMsxJxP5Q75kHmIlMsNtAJ8kX3PnB71j01LjC9KTwwD9CgQfLAQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ForceOfNature, TFT_Item_PowerGauntlet"
+        }
+    },
+    "EUN1_3720102745": {
+        "YSSUZPlXRwSGK-pw5K0-_UamA1wuz7Jrexy9STh37yFpiTu2oMHz865sw_eqrfnzcGOyZ3fuNV4wZw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_PowerGauntlet, TFT_Item_AdaptiveHelm"
+        },
+        "ULCeaYT2PM3KZIViJJbTI40SuhdnOOcnzvYcSkBizDbnIg6t20AKoDaP_RmeDNfP9or_CPFUdrVNGw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_StatikkShiv"
+        },
+        "A2fewV9WfNjWZh-guX7tT2CBCBNYLfZtUzZ1wdoz6rT_8Lhmcv8YRWby2efWhiYFGDJ402W8YLDqVQ": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3720077476": {
+        "YSSUZPlXRwSGK-pw5K0-_UamA1wuz7Jrexy9STh37yFpiTu2oMHz865sw_eqrfnzcGOyZ3fuNV4wZw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_SpearOfShojin, TFT_Item_PowerGauntlet"
+        }
+    },
+    "EUN1_3719981145": {
+        "s7OeJQQguGM7jsjE5vdFAKtwXASCMTHq_4hQEdtmk3Q-evLvVLuizcgQ82V92vQcTeFm2cxsJDhXGg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "ahQA1pA8Q-Fn1BR2yAri_KYAPQyfF4iXntm_iqkx3QrWjC-DuiXAX60cjd8d774qvNFp3aMGXm0omA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Leviathan, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3719917037": {
+        "YSSUZPlXRwSGK-pw5K0-_UamA1wuz7Jrexy9STh37yFpiTu2oMHz865sw_eqrfnzcGOyZ3fuNV4wZw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_RecurveBow"
+        }
+    },
+    "EUN1_3721064341": {
+        "2Cw3h679nIwvwtzk0QLn_Ma89eyyxXA10l2ZePdH2w1C6y0KHiQXgWi-FnHVs5m-mI2EjK3_IN4jJg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_BlueBuff"
+        }
+    },
+    "EUN1_3721036312": {
+        "3u4bk2FTNmcuIjjYI2IDypSgNF6ZLJHglzySXuqFwrRDIByZvHdCNbF0Aidclt3ZiyBT-xArWCbx-w": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_Quicksilver, TFT_Item_MadredsBloodrazor"
+        },
+        "1gtiH0keM1YUqQDZhGwWJhq-5ILdpQA10UU26fsbiVfAvsT6EFgcUXKPybZQ6oW-yr1DpE8Ul_vQCQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_PowerGauntlet, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3720973301": {
+        "DDhr-e5bZo2Mw9nKy6Rw2ihvjWMsUcAseaGHOQM-PcoAn3-z-u4bxr6kMIUINWTtS3rAK_rAZlCNYQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3720074427": {
+        "w5xS4cUvteSeagyLx9maCYQVgc04uWSgyN3RBSjK5dzx1CEXB2epcVF1aM-NcxhPaPB-TxXlc5-JPA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_MadredsBloodrazor"
+        },
+        "Ip0UuMAt1xDwUcvfvmE5U2tAlI8SHZCs6dEbutH-XHCLtWaMZVOxvdV8oJQnw8v3BV8k1VGDng9iPw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3719992882": {
+        "3u4bk2FTNmcuIjjYI2IDypSgNF6ZLJHglzySXuqFwrRDIByZvHdCNbF0Aidclt3ZiyBT-xArWCbx-w": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_Leviathan, TFT_Item_StatikkShiv, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3719908160": {
+        "iTdtpinqIo1B0tximBIEAv0koKfewwNZg2NgVKTLO-b93u5D1Kyt5DHCGA7iVk-poKlXJoR__-817Q": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Leviathan"
+        },
+        "Pb0Cm39kTucNBKRDRUqnRkX0BQ0joAohhFPMUUjb1ZPBuE2fVjNQ27dP9e-mUS5RkAxaamceQ6wfuA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3719861772": {
+        "9N_XG6GNemXyLJQtEuj7fio5pWquCXkp2atuDfXiL-6YAufHVThwRqqC_vccJNOsYA9L9Fv6sGCUEA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT13_Item_RebelEmblemItem, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3719787485": {
+        "BkxVzxTInbEUBhQ2U588UQXdjuWgtMIIL4JOvGCpL-O2tS3T_QwKtBxg5xUdn7Hk3_8zLdMPqxErvg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT4_Item_OrnnMuramana"
+        }
+    },
+    "EUN1_3719725682": {
+        "R0UqrRFPWqCNXFF4Cw6q9eMyuwhSFWbfVXdpQnk5oGa1XOBtSTmPAqzaCXT1Xsy1jzUj15rv5Qh9Rg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_StatikkShiv, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3719723453": {
+        "xQjnLD9DPECMOlxy1Z3NpysV1R-wpwP3md5aLj2Z7wzwQY4M_gO8VgbkP7fCKSnGaA0qxlR7hLwf0A": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3719035626": {
+        "xTCaZLDvcUuNPQk6UC9yAggnu9-9-RbMyzC8YFlGz05QObxPvIbykvIvdGnZa13mcr2ds3pd9Gxggw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3718507231": {
+        "WZf97Vm-0nQVXZbBaCyBGxHuhoWqlXVLg3i3uy0jTboesOOVx5pyNUWQx5tyr1K7lgWRXSypOQkBtA": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_Morellonomicon, TFT9_Item_OrnnDeathfireGrasp, TFT_Item_BlueBuff"
+        },
+        "nOwmjB2y_4W70um1uh_MIjOQGIu2jsCtTW9DbqDtWLwt-1LHcY4HrnrI6Knz4PPlxBv0AJEI8tiNHA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3718405114": {
+        "ueoIEf0eD1zVFepXfvl-AGQmi9MsArwgFcOHFALRM5RZHqPpcqDQ_xIkCmQO8VRGGrjWr110u9_6Fw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_NeedlesslyLargeRod"
+        }
+    },
+    "EUN1_3718313756": {
+        "hx0HbFUmxWWkuWzHu2H9-kKi9Xy_HFYTn0HqZiuxSac-pulM7Eso1YsFT7FQppAUjMeSR_49CE0p3w": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "npdSEEZ_uVyXusODr6M3JH_7ovhp3oqZGvt7128EArn1nJ3JDnRuSPWOMqzoHYnYuvyv9XuH11novw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3718284714": {
+        "uiKxRfQRjGCap5a3VOsuu44k7dEFdPjnfHtXXZETQAn_p9mQabHh11EmdAOP2F9W_v8hsWJ3XnhSWQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_SpearOfShojin, TFT13_Item_InfusedEmblemItem"
+        }
+    },
+    "EUN1_3718255730": {
+        "f5sgAXWqyh6PN-8_mXjeemNptpbDHqM_HPPCCg9VpGC5jtNQGvUpZfnQqr3DsA76GKuEL57_0y1cPg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_Leviathan, TFT_Item_AdaptiveHelm"
+        },
+        "74HxRgLq941Vy9DZtE7YcpTAWBA075wVuH28wuXNj9fMCPUIq7GXOgbxFhDV_DQVU5_gi7uaX9bWoQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT13_Item_ChallengerEmblemItem, TFT_Item_BlueBuff"
+        }
+    },
+    "EUN1_3718165046": {
+        "VS_-RGTkPBC8Cv46qrb3iEqXZa8J0HoNW2gDBR-65Sns1GSg93Bdoi13NlKK8jyiAsbC5jZ5NYrtHw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RecurveBow"
+        }
+    },
+    "EUN1_3718158354": {
+        "q2FDll-1BXlTRgSdCyQjR9Jbl9Xj8NHwZMN2h-wFdm0LXsxrYQVFO3uJwPDrAWUbPnGvS3sDZ7siNA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3717832892": {
+        "Q24k3xwf3sVdrXP943yPQHsSwR6eVkDRTjs9gWusPnweQJQhYl0wJVusMCrrkbcK4j4dTeboljfilQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff, TFT13_Item_TitanEmblemItem"
+        },
+        "66ebdsjpVSqs_t7JMt7PjJIbLFtS_cQtRDC_J8I0DZlX372Aa7OpY6WkbBjKRFX1RmoVvy2w-oGpuQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_SpearOfShojin, TFT_Item_BlueBuff"
+        }
+    },
+    "EUN1_3717604179": {
+        "2EA6TyfAEArDGzX2uWOQumW8XrGiR3ayKp_ahbFF_2dQngPdgIQ-rVJV3VMux9XAGmq5bYTrD-_jGQ": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3720990933": {
+        "4lrnhq1JbuRHRrd4yo1pSS3r43S0hCK4a3OA4qwYNmm96bzbpHb-r3H4jZzU_3hLIxW61u-HrHbM_g": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_HextechGunblade, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3720967643": {
+        "9-BTf4gSoehrfAQ9_pgHECY5bGIcSOrCCFdK0305HwglvcqDvWj-_OwRrUGfERmxBKF9acIMLXZNcQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RecurveBow"
+        }
+    },
+    "EUN1_3720306780": {
+        "zh6HRN83Mrm93FelTsDLy0oAPgvWiE51FbpSyaB_7OL33ASRDvCs-XuBFzqJQ0XoTHYg-7j4lN92dg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_AdaptiveHelm, TFT_Item_SpearOfShojin"
+        },
+        "hCZ3cmZuI3gCJpaCAYlsI-KXxkx1YSqBDG8RgmYz3nsBhOFMVfCKfAwmmJnMuE_7dCDL_T741G45FQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_ArchangelsStaff, TFT_Item_GuinsoosRageblade"
+        },
+        "EqX2JlBoGfPbY_SYxstGYK_WhKPoSnVYZaYGxCLDC1KPdq3Cj3lFOqN2ZAO8YEpQGaqFbp3ZlvhnQw": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3718866382": {
+        "avNjxV7mZwt9mP1sa_jWTY8ZSOW9cl59y4RFjB06jiHDcNBGt_5BBdEMqWCmar5OEmWqKiQB1g05oA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "jrJXj6nsjJrJzKObGjB0G5jGcceU5G4K4IgL_qG2auWwuwEN_3qWbdQAY_EMQ9r8t0ljKmqxCrjusw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT5_Item_StatikkShivRadiant"
+        },
+        "m05ZI4BdTJNAmax0GrKAf-dSnROUYDnxqqlNxzFmREi8uXAlgwuxITXTwv0UZL79kNu8z2LZCTeIqw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ForceOfNature"
+        },
+        "vQjjgAOlGo2O1QQbom2Wc-YjH4Iw6VY4jfQfqrGHpSKoxdecaq3_KyYP1o1vi_WNsLrToauYmbFZiQ": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3718818425": {
+        "5nOW4k8u8K3TdrSz_xSMsY35wUTG5f6_tzWFendtKFJ1_2VQ9tSSP3VMmP1enRyNBIHIi_jUtA0NFA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3718429758": {
+        "2-umDGZFCmUUPg9KAvaJWFFzl30zkxhMpoax2t11w939E7yz-Ciz2kBbXoRehzv97v1Ox9J4ZgMLiQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_MadredsBloodrazor"
+        },
+        "lM0mHUIcWJBxjM7UZ5S_6aBMk0e33NufE08ryLj0PyfTLZq25DxzqZrmQy7oLf_tbr-mb2AtVeAGyw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3718353018": {
+        "zHe0TAMOImdAT_HdipbpbGDqh0oBS_hxOq7G_4vo1-O6NJimQAtQjCWjMTmmftT2Hs03P5xeYZTghg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "Ia57dhMs1yYuS2KcyqjoRqtLpzxc-AOdNhQ5kJOjG5867hkU2Aqai9c-R0DlIIhSCdOFbnrmvxtrDg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_Morellonomicon, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3717714940": {
+        "UgUKRN0sbNCaADXeCG9b4ktTGfk_e-St0fWev9lZCfcB-Yjo9ke06Pg7SzzIeF1VIFrDttECzTqTug": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3717693882": {
+        "ILVt3gp8tQc7Fzd9f8mSMpWA-x0zwQIZzwlrNZfIHxzBy8FflcxHJ3Ar5adRP8EBmx5mqT10-BCj6A": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3717341817": {
+        "-3YaOnpHvkXCiTcWMiw9TYrTm42C-mDjuSvv2eW4OniSseG2v5o_Mf8WIu2fhOfmuUXSVp8txaPW_w": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet, TFT_Item_HextechGunblade"
+        }
+    },
+    "EUN1_3717320816": {
+        "hODwCsq4dJ22imjb_J5budLiWVCz-1ZfpX7W4tn2nJjwDkiOJMHWHXY80JEJjuE_IMlj8jjrnLA1eQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3717297916": {
+        "jrJXj6nsjJrJzKObGjB0G5jGcceU5G4K4IgL_qG2auWwuwEN_3qWbdQAY_EMQ9r8t0ljKmqxCrjusw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3716494865": {
+        "4JiudjxfiiDagXmyqyX6a1xdnqSSSVJGeHT1QuDxxJWrVcriYS6mZNX2j6JirtgbN6KXX-F4_9-nag": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3716481387": {
+        "FARi0JEf87y1P9IEowIbL29DLcf1-6p9zLj6wHFXnqNkE-lXg-6ogN3ORq9Mf2P1gIgyFGCAh9KKeg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3716468727": {
+        "jrJXj6nsjJrJzKObGjB0G5jGcceU5G4K4IgL_qG2auWwuwEN_3qWbdQAY_EMQ9r8t0ljKmqxCrjusw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT4_Item_OrnnMuramana, TFT_Item_ArchangelsStaff, TFT_Item_ForceOfNature"
+        },
+        "kwgAJB1RWfLu904q93Xhv8309H5rTab5PMlTgaCrNI5kvVyu5999hq5nkAXC_bN9ANhnO8gfacYGVA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_PowerGauntlet, TFT_Item_FrozenHeart"
+        }
+    },
+    "EUN1_3716469113": {
+        "H9GitULapy3MLOnKez3RcREYkUpUrQwvINqgzPze43-Hg7aZxOI3GtxXbaqSwX7vhLAJOVViCZL_Dg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_Moonstone"
+        }
+    },
+    "EUN1_3715129482": {
+        "cqAZP5K0syqPSltCkCmkLZ8zM4aUp-ZY-JFvLQJVp86M1J16xTkOngfQJIsQN9m7Kj6BpOoxgxS1lg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715073065": {
+        "hvsXmyrHqTkbErtKISzfXntanIMPxRlN1yw95iFuv9CpJjoiSgt24A_XP8Uhy07UvTnOayfplZzDdw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_DragonsClaw, TFT_Item_HextechGunblade"
+        }
+    },
+    "EUN1_3715041310": {
+        "Tief4qyOIssM-gvBcgfl0jnFXUSQu_4-fvMoirjOecZqBGtbjKRbfjxhAAzJQbN_lPMyQRQM8HCmsw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_MadredsBloodrazor"
+        },
+        "jrJXj6nsjJrJzKObGjB0G5jGcceU5G4K4IgL_qG2auWwuwEN_3qWbdQAY_EMQ9r8t0ljKmqxCrjusw": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "yiq2zoUfZaADA_5bJhgqO_o4_QcMaCV-H-Xk9PhOBP5sLwmG1o5ZIJSQ9M0Pcju_k7UA1lLax1pZIQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715021492": {
+        "tWHj0NoR8hloH5p-YdR0Otps_XbXChPFFkQrW3WHHhVO7Bv_GqBJeqBJWM-hUZ3dSC8jXpWs_FDb3w": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_RapidFireCannon"
+        },
+        "QeMt7p0n241OqTDSPJEQtKoOqfwselCHqULpi4VlSJ-cPj1Q5v2bOyRIWxfIKadn4Q-fPs4vfFiymw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3714961398": {
+        "mGm-HufxYkY13GtMdcxIfL4frIVzYArKB2Exej9DVy3U3aO6t_1b3e6aaMZnWLJlB0bhlsh2-e6CXA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_RapidFireCannon, TFT9_Item_OrnnDeathfireGrasp"
+        },
+        "jrJXj6nsjJrJzKObGjB0G5jGcceU5G4K4IgL_qG2auWwuwEN_3qWbdQAY_EMQ9r8t0ljKmqxCrjusw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "cOis6MNqLOTHX2d5tPvJdCK2Znv8tBPTOHVGQNqyLkeMIZA1QSxc1NVQTAW0hBtmyGBuErllh5YTag": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_Leviathan, TFT_Item_ArchangelsStaff, TFT_Item_PowerGauntlet"
+        }
+    },
+    "EUN1_3714926063": {
+        "5ilcIbr0-YZHPcqAt4KCkmHcmhmEI8wurjrogIrgu7mwIw4uMQybx-SQMajgiHkrFowodcjg8_NMOw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_SpearOfShojin"
+        },
+        "fv006_Zm4eRaGjTdjYSY8IG7sunBBZ8usVwESngZjnKtwchytYE95TBzjnrbkpR1hkHODEw_xNkSxQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_Item_SorcererEmblemItem, TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3714357228": {
+        "jrJXj6nsjJrJzKObGjB0G5jGcceU5G4K4IgL_qG2auWwuwEN_3qWbdQAY_EMQ9r8t0ljKmqxCrjusw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3713824359": {
+        "bHj4AztqGaMo1z-MMZLLJBpqz47Vu_zNbdKb0n1R1RAzN3EC210bEv7-MdCttu8p3zejac8qp6l9ew": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_JeweledGauntlet, TFT13_Item_InfusedEmblemItem"
+        }
+    },
+    "EUN1_3713786364": {
+        "-PoTfq7O2XbbI0UFtrQd2bbvAGyJGTXROouoOfH8PCXMTftTMK7NuDJqI577qifboF94P09efgPfuA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "jrJXj6nsjJrJzKObGjB0G5jGcceU5G4K4IgL_qG2auWwuwEN_3qWbdQAY_EMQ9r8t0ljKmqxCrjusw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3713765290": {
+        "wbxkBe2Ue55LvrX4-FpMKzi2bUzZ8RjpnI8Ki094lwODyZpkKab1GMdpD-lrqDzm8kFSWvSaITDWWg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3713485280": {
+        "0ldsF3we4CTaPJa6eZxtOxcKgGJ2AYvK-ZmkSN9t5Ot_799n1G5guVCqGjYZPM0iNG-FrXdOrUd5yg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3713455040": {
+        "lwo4cb6FgjzJ-B6sYlYcZPDbrJDPUyI03MV7ZqZ41abcL8sdTSEj8SWLF6MYra0dk6FakgsFgckOMA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3713434543": {
+        "2L8rdNOb3-WfXLRfsenSbd39SRH3cr2jmeFCciTrZSO6wf4nkNtzmYHs7fBNzPqhVE4tdyX3FpiLpw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3713409626": {
+        "j6MoEcbQNATJdDCk7pWRnllcHxvwTeJqA4Qqe4OPbsyTGGE652VZaKHypcuDqarotQJJNSvnxlnxtw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_Leviathan, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3712839704": {
+        "jrJXj6nsjJrJzKObGjB0G5jGcceU5G4K4IgL_qG2auWwuwEN_3qWbdQAY_EMQ9r8t0ljKmqxCrjusw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Chalice, TFT_Item_SpearOfShojin, TFT_Item_HextechGunblade"
+        }
+    },
+    "EUN1_3712808600": {
+        "wp04RhFji-GxgbcTSyWoimBgldrNlRnhkG5_LDmbYP9mD-njuzuJla0JPEOLJGWLs1B2r-1rvhfq-w": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_BlueBuff, TFT_Item_GuardianAngel"
+        },
+        "WdQ-7ZOazrsoTQXcA8loQsCS_hSUeRV3mK_HxjrzO2Xmd8fKjJvsr8fqbv_nsFXbBApaGj-RBhVhmw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3712753306": {
+        "jrJXj6nsjJrJzKObGjB0G5jGcceU5G4K4IgL_qG2auWwuwEN_3qWbdQAY_EMQ9r8t0ljKmqxCrjusw": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        },
+        "rT__NqagYETyMDJ2n2F0gCkHK_g71X99EY372V2R-LlLj3HlZH0gu9ZvzkK0gLZHJEBFAGm7ze_sJg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3712732869": {
+        "jtiAqom87Oys4E1GAhh-C8qWCp6K2cY1svENEff174Psta-Dh8ppeOxBG4S7bljVNktMUOykDyu99g": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3712365111": {
+        "LrvcPYgMJ7CmWtELuIv8Y-KUzV9P2nDOdR1JoydgP7VoHdlcQRP1izoGavY2B8AZ_OvvVDKsHxqozw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_BlueBuff"
+        }
+    },
+    "EUN1_3712263658": {
+        "jrJXj6nsjJrJzKObGjB0G5jGcceU5G4K4IgL_qG2auWwuwEN_3qWbdQAY_EMQ9r8t0ljKmqxCrjusw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT13_Item_SquadEmblemItem"
+        }
+    },
+    "EUN1_3712250135": {
+        "wEace2SPGUmjZCiJQ_nUgcJJ4SAV0RxtPePODoLWm86U1HCE5kPvgbocxTNn34Ub4iFUWRZ02EpbIg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin"
+        },
+        "lZX8B5NEnpLzYCAkMuNh0QpLDeqWQpZ4I532fxHCJiMHSZPl8AvO7mFLmC7SFGjmME1g-9OAIQzb4A": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_Leviathan, TFT_Item_PowerGauntlet"
+        }
+    },
+    "EUN1_3712226728": {
+        "zJdHJLq2Yl77ipt47myKsxsxfArXMa7jGSNlykhcq2ph2ek1waUVjXnifh5kRxerl7HyR093IphBCg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin"
+        },
+        "8aalwDAzJhWfiCPZ1jHV22VO7twhsuzH8-ypR-d79B2tB0HGMkGePuKIaQ1tThXEVf4ygmCiRc02kQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor"
+        },
+        "KwuH1NiKRhMWz0FOvfH8ya034wHbK_ZxX1sidW3BUbq5KV8bIZS-pswfQO_dXl6c0_Lr2hgKCCCemQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3712214356": {
+        "-JHgQyvmezn3GgQKWpKRHNHZO1Oea_gy92_iEdPUBNKl8aQ45uE_AYOrHs5HQndiPIEIfueReh0gjQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff, TFT_Item_Morellonomicon, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3712193947": {
+        "ljxAPSCrKBhGLS8Jx__MFqTKJOxy8S8crdwly-XQZ8mkG7OweucO93b_gG6MHBHrF6bH8v0MDbNRog": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin"
+        },
+        "tu85UW4b5f2i3VyGV-EzPDeFHGZAJTxJNt1PXlkDwuu2TZX-2La7RlQq2xgRU1hFSBeEZ4XRS8ODYQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3712186820": {
+        "Q_s0_oSD6xdvNgnSo16QnQHANszmtdivmvcoyxxHQIUGOG5d_iI0xipKABeYUxSYqWUmAMwXJ9FbzQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3712173765": {
+        "Q_s0_oSD6xdvNgnSo16QnQHANszmtdivmvcoyxxHQIUGOG5d_iI0xipKABeYUxSYqWUmAMwXJ9FbzQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3711835498": {
+        "O8AqsosrLOuNwMBifKjgpTYzlc0qSDans76AyRm8KiAkw4FnXEAKApEjkHg-XjNJIDjs4zyj-ptfnQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_Item_SorcererEmblemItem, TFT_Item_SpearOfShojin, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3709932765": {
+        "MTZt4jEfiJxjx_KQwhns2dazc2TpZ25F_3l757bvOXRoI0kHwYPiitAurb03EXq3RLJ0ZioDW8vIoA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3709663165": {
+        "_9AlBefNBh0zW7avXykxKYOCPHj_3IUW3vOpNfWzPYcVl1KjzBvf9z9cOwsOuQ2-q35YWgf81tlNFw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_JeweledGauntlet"
+        },
+        "bHMiYcYICtEVPetZ2SsW8fz4J4lR3Fr21IeDwBM1lArAhfTOzEvPr0hYoG2dlJjHQKZkQ46hSzcKJQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3709603586": {
+        "5G-GS2qy_NzbJdLhJwmzSFBfV34TqjoDyV43dP6fpfrCO1Cj9MoDezN25tUHvAzTU5WBncWSYak5ZQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon, TFT_Item_JeweledGauntlet"
+        },
+        "PfFj6ESr6JbAgQXZsLeeF29AEg1K01FG792J6g_c4K36cBcglPYreKjSO8ZV6TgKVgPLYn1RWRg_KQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3709402389": {
+        "jrJXj6nsjJrJzKObGjB0G5jGcceU5G4K4IgL_qG2auWwuwEN_3qWbdQAY_EMQ9r8t0ljKmqxCrjusw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_GiantsBelt, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3709382957": {
+        "P1UiXsykL4h5Hr5h-mIux0A0bhdrVHQIbuKJ3kuURQs58uMJFYtBxLjC0951xuPwrEe8kL9ZL8Wvbg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3709377325": {
+        "VE1PQfIfUs4tcAxgwRvviSkW_P-nl6g830fVNN5vXNoUfFZPMq8krp83geMiCf1WcEFx9Rs90TgkdQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3709243402": {
+        "7__unYfkkYSdrMYIS4dvHopi1fZX6DEwsm5_KPTLo3xY_7DMrzYXamQFcg_FK8LwfjuAKwWGqB6lSg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_NeedlesslyLargeRod"
+        }
+    },
+    "EUN1_3720889591": {
+        "z6eo-ChSASLeEnnQ2HnxiAapWyKAbkjKV-HGth2U4V7iF4OjmnO3HDMr4b_n7cglixdw8vytkE94-w": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3720863239": {
+        "C60X3XPDMJG43Rf9HkNXP4xMPTIY20GqzFNRL9KSAB6-kkZhwLtw49IkWj7j2UxL32IotSFso-3Ang": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3720089024": {
+        "Wo2zMnfsFKqUKOQBeBvdgffHeitIvZoZDfBUSJk71OqSnx4dSrCTQB6V3QJvHJwGbTVyhTye8nfvMA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_Leviathan, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3719811782": {
+        "3JhFSaVd07yFUTXhOljBl0tRZWKvLejAUdIrtmF6LLYbPa_9bT9TPwdQ4KiL8JZ2rQpjzlA_LwpI_w": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3719409615": {
+        "mKg7NsZ-ISmFqM0-48hV3kJCRBDEWF_Py5qraZYtnEqvWbHw9mvH4uXxA9cuF-i5MLenVL_SAejoPA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3719376487": {
+        "sTRygcopOsQgpFqWMwdfCy7Uzw0Dp7CKlAi10rtEypOWZfO4nTxBhF6x1Qu5ad5SI1L5gLAflYutMA": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_RadiantVirtue, TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3719028724": {
+        "Oac17QSHdYd90k-Fg6479kLig8PiSnPLeAkSYf7xu27mLgDq03cz1VaZHcRmDsPd_q98kG4d2VkfdA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_TacticiansScepter, TFT_Item_SteraksGage, TFT_Item_TacticiansScepter"
+        }
+    },
+    "EUN1_3718912512": {
+        "yCabHiy5t_I1c2wPINyMIq1_d4I9CF1q1ZbaMfwxMnV4eS5IW8-Z52UrnbJs1ZTOEQPUCh2An01UJw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3718874683": {
+        "7NkjjBLO5OVfT-KQbDAWcQf6nO8rPuFSuB9MgHFJBbZv8fyXGfk4_Xt_kYB7PynYN0mJ7ZNKtJuRIA": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        },
+        "HEqu0So0lVNqorNhRzOXAu8EZCnfBbyUMuj0OpTG20UEDxiHgKrReifWDTwNP7X4Fgw9mXwFhHiLdg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3716973991": {
+        "B9pQyQD80edpA7S6RnjkBMWef8chGcQ_gpLyrRQPhErkCIQTpbAmDvMzzO3Y8QhRCfABB3aioeaF-w": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3716965204": {
+        "kBppepd1QfibAduLdIDdc-Ik9Mv9Q0CYH9wqmnLUUlelcW5_29Gba35KYGyEeRQxYLX4OyQkVp18Hg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_ArchangelsStaff, TFT_Item_ForceOfNature"
+        }
+    },
+    "EUN1_3716940846": {
+        "ipwkCmeCKiXfvF3p98TS-wQGBMBws343v5ZSrPyKUsis8vgMhsMR5TtNvyUEwvChnnRarpCa7c6sjQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_RecurveBow, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3716872090": {
+        "IczYRNm_xNFIGY_TLY8oNaXGjdUqk9T_jy8S5DSitARP043W7fWweZJUUZtT1cpvI2Gts-AcennwGg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3716308722": {
+        "_ppfzNnsSQ7MNVhp2petneUHl8J_Msvsh3H8ahxBHo8xwWzbuUeSva2oOekVrxjRSR3kzWJTGQs_-A": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_BFSword, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3715767617": {
+        "JWRvKWXj06lCMp9HczUuxWwir05hu-cvPrXLgeQ9jo6Egl2wh-KCE1fmUzwQcAsqNmwvnfJAUt92Qg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin, TFT_Item_HextechGunblade"
+        }
+    },
+    "EUN1_3715518526": {
+        "7pNuvlhblr3of4k6VM7hRbpYzlE2yv4xjzXSjlWRvlIIfRjntH3kORgk54hTAT86U4AxXIC77_E17A": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_PowerGauntlet, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3715309993": {
+        "Q_4yS1q8NtRbwiBduzihv5SWxFK6xnLmsrBctxBPGAlO-ql2PrPhsv__1MqldwieY1e-0P38bqgnYQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_Item_RebelEmblemItem, TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3715227670": {
+        "stOKxLKJ-d_ZcblI9m4nW3psFXe3lxUU_XHdRs5mdDxjJp_WVEXmHQWKgB3-iEgrfif2MYoq--w7QQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3714760448": {
+        "SEMPiqy0BwGD7hYGF18YSJh-QVIFwauWQdkQYyXlMGV5320y9sDCSFccD18WZTxm9l69sHkSHOh1bw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_Quicksilver, TFT_Item_MadredsBloodrazor"
+        },
+        "rX0l-uN-4NNpU2tuC2BHzzlBUuOJLYvWdBObkf32JnGGBTC_5opC0jTvXOhbOGdfym5TVXlOCg2_jg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_TearOfTheGoddess, TFT_Item_GuardianAngel"
+        },
+        "v79Z_wHympOvaAiBxi_uVlrRdmxtLpuU7h7lmOFfrNiNEbS6CNH4xEqIbL1bT-MU7snM_J-ELwBsMA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_RapidFireCannon, TFT9_Item_OrnnDeathfireGrasp"
+        }
+    },
+    "EUN1_3714721780": {
+        "kNcTkoVDJovkTJIBwBxqgX9K-JULMN6CZaG9plrRLah5bbC4pjOtQkUCa4x3CFWUL8la8pWqI_UMfA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_HextechGunblade"
+        }
+    },
+    "EUN1_3714524933": {
+        "yn5-KglOjMjTnipnQ3oZAa7SasvchDtNgSaMPbFpRxP1KA6KNMI0qhH1fpoiYkLbn_gfPCVOdJgc2g": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3712956343": {
+        "OaoVnGQLFemBjqG_5ylsd6yC1wgflNFKnh12CAIYadfFlwexzozbAxMwyoFcKmVF50Cf9D4ApqUnvQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3712923980": {
+        "ouBPpw3MW5jTG7m5PNFF29XxtvuEf1mq7CqKAQwvUfUmC7GW92ugtRvyHwNSJJ9aT6h4uJS_23EgDw": {
+            "top4": true,
+            "top1": true,
+            "items": [
+                "TFT_Item_Shroud",
+                "TFT_Item_SpearOfShojin",
+                "TFT_Item_Morellonomicon"
+            ]
+        }
+    },
+    "EUN1_3712898635": {
+        "r8Oc3NBwYF_Q-erp9YjUM8F6qn7joJYXQRV3GNpkxCMo_ZEDRaHmlb_PwwPmP9t7ppiQOOSPMBEH3w": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3712872049": {
+        "iYCVTEjgcKy9AjxtSEObt73qGXSpBzjnhEL3UEcHxegDJNpj0PHBNB3deQI2eUdWDZXUUAuuvgHBCQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon"
+        },
+        "Q24k3xwf3sVdrXP943yPQHsSwR6eVkDRTjs9gWusPnweQJQhYl0wJVusMCrrkbcK4j4dTeboljfilQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3712569071": {
+        "OP322Aoux7GqXp-HNM0IFGYBzopopWQJXQujvvh4VBA3M6_a4Hv_3kea3fpO7sCRR9D10RDXnfqLmQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "LJ1KiKCkbSiHaV4lmMUfx2cGxUR72KT_tn_hTb3L2VTtI0Org_jqgtrpB4ot0XRYl-A86CgOrD9dTw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_JeweledGauntlet, TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3712530261": {
+        "7y0d0dakRp1X70UGvKA4GxvomfDoAtJW3_LxPSjyEXwclKnXxH2wg3SQnuiOVTJaOejihSwKDEHK-A": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet, TFT_Item_Leviathan"
+        },
+        "ipwkCmeCKiXfvF3p98TS-wQGBMBws343v5ZSrPyKUsis8vgMhsMR5TtNvyUEwvChnnRarpCa7c6sjQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Leviathan, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3711918118": {
+        "ipwkCmeCKiXfvF3p98TS-wQGBMBws343v5ZSrPyKUsis8vgMhsMR5TtNvyUEwvChnnRarpCa7c6sjQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_RabadonsDeathcap, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3711885719": {
+        "jzZVsi65GNVJIglzW0V2alYUWcLdOcOzuJgpmB9sw5PJiGGkcM2msB23F6V_0_nFbp2nwCuy6osnRg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3711404499": {
+        "68FgNhNwjRM76Gz6dVcmaibtxs9UJzSaL6D6hCy6PryqX55rxyW9Gee6U4Fic2FIePLzRXGHagPWHQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3721006858": {
+        "AudrN4ncaRrX1PmmaSBTpubR0nYWceCKSk5zLY_7q3idPwDevwoKE7FA5NIZYPjsbjPwtXh-mqDU0g": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_PowerGauntlet, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3720957788": {
+        "UCk8XHgehrE4isAJUZCNWx0nkr0eRzdOLtO2dajdAZXv5IHEKcf28BsIQlObm8yG4SrAzk5LungqPQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT13_Item_InfusedEmblemItem, TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3720554851": {
+        "X8fSPT7TLmUBt76FjZSsNvciLZvlNedoXlFtAqUk0znjaSec1ypS-FT2lo1pxuJx3i031cNWozMt4w": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_PowerGauntlet"
+        },
+        "Kz9T_tHlPSd6OAldIrADgCiUK99nTr2kaosePii2mBpJXIzJHbXh6cKR3DGjBk5dum95mqiMGemJ-A": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3720354797": {
+        "akAYSYUDMtSsS1qdtGSVwiguKE4YMHz0BVMPHSS7EkjenrPISEaDgaSPLwaFMKouVh6dAwIpRTk7Ag": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3720269986": {
+        "hWO6B4_12zG-u0uvWUXcdrW79YXQklgZBa_t4azPU60AvSuKCEx7KnNuEdYt1aHR2xSROh39NJescg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT9_Item_OrnnHorizonFocus, TFT_Item_Leviathan, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3719895347": {
+        "xnZYuc7Fu_0in_lw8dJ5WJxTc-Lwby5MwbeNjiOwMfhDBF3_fuYm1gJ9NDk9ConDLotLUNddlciyPQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_HextechGunblade"
+        }
+    },
+    "EUN1_3719811233": {
+        "FCz7j5JqRrbWHhzdJ0IWQSOLYuKzRDC3sM7NSgoXzfJqpkS0cfIizk3K2NKHa9ZTY1J0Uwja1hjWcQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RabadonsDeathcap"
+        },
+        "_dYD6z1LopYfsqN0Z7oV5KaY2SB6-Lj938-uMHyph_WfradBU_6RFfdJrpIHbNKJJPw1ZA7cUDc--w": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3718391653": {
+        "i-4QZ8mi9pY7Q8ydkKg-_pH3TqTPPn8o5kAhb8954NLpAuwuE8_zBImQTDfXMVpiDfR7vkKqDHnR5A": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3717954031": {
+        "IZ1iDTxMChODBM9SV2ghcfo5ju6sJi1u4n0_oW-gMI4-1yiu2aWP6oPb1TuVrZitzEfab_tUvXBfgQ": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3717882007": {
+        "zPYXRJuIg6K913Nuyx6bue_yhvrvcdG262j9f9gEoFYXGj1szFVxdXjtx-i0I3YPEShZMj16j-N5Cg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff"
+        },
+        "vJAa8LTSB-SrSOW7vIWdCm7avCQBiO3KNA05XtnuznIzy7tTRXzsVrV_W4m5H-WMLIbnUNdL0sqLRg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_Morellonomicon, TFT_Item_BlueBuff"
+        },
+        "XYfkPPhDMy5_BUtwOYQC24ldKYLS4z-lPYenQvFUIzaBOQOoFaTL8me8u4ZhZisvmrkF5ds6Vg1i7w": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3716639534": {
+        "utq2D_FFe6CZl0UeIfQGrN-Nuj9WSbfj8dEeDpHhssf_Zhd4mFTFt32o5AYbkgwhrdWFmIT2oUqBaQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Artifact_Mittens, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3716076883": {
+        "Lk75-mrEQGhgRv5mi07QmJ2nPeaCzgeIHquHfIAClx-EQBS0Mw7H8tL81aO8x_w4TnT5Y5tUM7PJ_A": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Leviathan, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3715680732": {
+        "H_jm1fjYLM0jdQMfs28BKS49DwAwFz4s549Iq65kgtNAfjULCU9jAcWwKXB0G3Gy-3S9FJ7bg8LRaA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT4_Item_OrnnZhonyasParadox, TFT_Item_Artifact_Mittens"
+        }
+    },
+    "EUN1_3715501255": {
+        "Hkj2Vqdcfe_-6HouAyU1jjjQ8jGJL041awwbJtIjOG8rKhA0_OPrwk-Hh7nxhuKjK3gLTCexVBa14A": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3715334905": {
+        "l89b90pMMIMOg7k10oHMRtfA1u3YsVn4M2VbXzJVPXqqWFN6t2RFtNVVdDAvOT1sh51qq-3gglAfbQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Morellonomicon, TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3714751994": {
+        "Ky4xO3bAqP_yI5o7H7CakvABsIjz2WVQwX2S9VSkVju-1J16nJV3DlUlFdhJNnxWHYikwQo_YKDnKA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3713666975": {
+        "UmRVsAuqHs0l_Ivz0hGm6lCIG-dFaAghcBrz-74CesWuw7yOV4DKtxXoKPvYDxN8BQBvqdmGCPbCag": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3713642701": {
+        "0c99fDDSe9d8dEjKuzlnfHc2iJ-ayPsmea634FWFE3R_U77iZgdWv8WA7Z769v4_JjN6tShQLgFE1g": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_Item_SniperEmblemItem, TFT_Item_SpearOfShojin, TFT_Item_HextechGunblade"
+        },
+        "j0p2yjinzuc-msfYCQu9tpd4EJ1xEwvV_u_bQp6xGoexAbaNP8swJK351OSgtOqO22LnsEhMkFotSA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff"
+        },
+        "owRbj0TvG88cW6ANx6aranvZVxpzGJ-AxChS35bioDucguy3fQ3SPDK9OwVbpFZobTvKSROrVPFmbw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT4_Item_OrnnObsidianCleaver, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3713466881": {
+        "9VOg5glGR-Gn3P8R4S6qrcXPyw50FcXrLKvxB3evKU1RNGUF1XKarwjXapvCm081XpZwok5tt_D-Vg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_EmptyBag, TFT_Item_EmptyBag"
+        }
+    },
+    "EUN1_3713340275": {
+        "VGwtenfDGnHzPTZRiYQbNstmSQviKDvLRDGj5dFEt4CgOer59a0t0YJI0avpF3_M26jZhxswJmTHLw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ForceOfNature, TFT_Item_SpearOfShojin, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3712424337": {
+        "KJEnk3zHImNZcpi1Ty5k3ACB7gvBm08doF4QSQieNJjIMKk-DbPzgphPF1IJ2e7sY9vZh_qX5U5U0g": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_MadredsBloodrazor, TFT_Item_SpearOfShojin"
+        },
+        "8ny01HmeTZdSVeXN1aKzYRvz-vr0M7kaSec2hxPpu3rN8arYm7dBi9QVTbRoOp--3qntB9iO5isfSw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT5_Item_JeweledGauntletRadiant, TFT9_Item_OrnnHorizonFocus"
+        }
+    },
+    "EUN1_3712328388": {
+        "jh8V03zBNY9wetEySK5n5Th6vtlouxdnFWBKxUrq2xxZ6Py4UyXBEelTaZ-kolcwEbGus6UcggR0cw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3712230140": {
+        "l6ScssN9y91AgwI7FvF3kECcG4k4YClULJ5T1QMLmMHmwwWGHYhsC9TbVYAHSr0IGHm7187P5nM9Rg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3711939889": {
+        "_dYD6z1LopYfsqN0Z7oV5KaY2SB6-Lj938-uMHyph_WfradBU_6RFfdJrpIHbNKJJPw1ZA7cUDc--w": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3711582758": {
+        "kUp4YIIhuSeMJmtPZenJ4_term9wzXiK--388ai7g72RrI-WoWCW4JUj2pA8sylaPz2iQfPcm6oXTw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT13_Item_InfusedEmblemItem, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3711570317": {
+        "xnZYuc7Fu_0in_lw8dJ5WJxTc-Lwby5MwbeNjiOwMfhDBF3_fuYm1gJ9NDk9ConDLotLUNddlciyPQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3711534360": {
+        "rnnID9voTqjsFm8g4GIExWmh7YhTMxEqtN7lSFz30-vAP-Wa1XQn_QEOnejcc9_cMvfNueujuaRRZg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_Quicksilver"
+        },
+        "xnZYuc7Fu_0in_lw8dJ5WJxTc-Lwby5MwbeNjiOwMfhDBF3_fuYm1gJ9NDk9ConDLotLUNddlciyPQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3711065100": {
+        "xnZYuc7Fu_0in_lw8dJ5WJxTc-Lwby5MwbeNjiOwMfhDBF3_fuYm1gJ9NDk9ConDLotLUNddlciyPQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3711053229": {
+        "RUykswXoJMge6F-ZpV_X7081ZdWE6YXQuKtwVLQcYQuBdDY5LDLEjeMRiyUigYPKtypb0Yx6W4BYoA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Leviathan, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3711031546": {
+        "xnZYuc7Fu_0in_lw8dJ5WJxTc-Lwby5MwbeNjiOwMfhDBF3_fuYm1gJ9NDk9ConDLotLUNddlciyPQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3710729016": {
+        "Artv7aObkF9dsDGxWXPJUZYptyk2lZ1UrA4JLNanZF3s6CFV95m5PcuWOyYwOkU4jjxLCmG2CQw17Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet"
+        },
+        "fT5miqCQweWycGd2a2kwSqeUUdjD_5TWtzXcr-aFiWiwk1-YsWvXfDAWAl-D-EixvtbwjK7dRzz-Gw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_PowerGauntlet, TFT_Item_Leviathan, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3710657735": {
+        "ATZERWq5vT6c5fXIMOtJwc-_98Lb-AdPfF4gnK8CIO7dYxUmfL1geRoKqEM5iVHUnZNbFVvEQn8DDQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3710384332": {
+        "YWwbxit1Jviale_a1Ktu_fvo6Ghzfv5Lk5QmgRmQAdpwKVqDAky5yj-_BK2tKBVaTlT8aIrXDB_Fhw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "KY1FzR7jR2m3BnPwosc_UXDU-IF3fAxnOXhNh17vLEGxxVPtxskSZrh9O_VA86dlKIWZHowCoc4IMA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3710369114": {
+        "PrRoF7vD3fikIauW-y8A_72mEvrh5t10FMoE3SJ99rz8--0uEY9sP14YTWcuO117mCGrivzG2QxZug": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_AdaptiveHelm, TFT_Item_RecurveBow"
+        },
+        "-mrx_gas6cF6Fw2AVyC2VUN8UDJy2s7kSpr5RvdLexQBht5ibWS41dv8uC8X0vsSEXeR1TfjOH7GMA": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT5_Item_MorellonomiconRadiant"
+        },
+        "ojCtgl2JyxZDO8MlAmQhYFD0KX9f6NDMc0Ok05mTYpSgYAHEwGM22BadmBODjroL-Qcx0BKIMJNfvw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_AdaptiveHelm, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3710338629": {
+        "IE78AtkAJDymTOMq0lCtdPfpLkvYY8HyPZcOkIdL3iE_JEIQPG0S6R4OmSz_X0bBOT-ay2zMmLBclg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_BlueBuff, TFT_Item_HextechGunblade, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3710303086": {
+        "dODD5f5FdJiqNhUFAdFx_xCZiJDvaYDoqjUkTroIB-zvlc2NZC4F9teTpEs2peOqQDe52Rt3iGnUsw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "WQ6mufS6ATZe6FArkJjCrZv5M5s4XoIWaKXSd9bdgXWCWqlG_jCskdBj6cCTFu25zaLpk6f4UPrPXA": {
+            "top4": true,
+            "top1": true,
+            "items": [
+                "TFT_Item_SpearOfShojin",
+                "TFT_Item_JeweledGauntlet",
+                "TFT_Item_RabadonsDeathcap"
+            ]
+        }
+    },
+    "EUN1_3710084699": {
+        "4KoW7-svNKWhk4NCGHmCpEusNDCCG5xgidNdTXlzFMGQbc6djAsVFvnDgMCmYrf1mGRQ5FDYhSfNYA": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin, TFT_Item_HextechGunblade"
+        }
+    },
+    "EUN1_3709794131": {
+        "K-hevXJ3xYBnsoIzvq6c9GwUyK9IxvMcMwdTTrRRDZY8ErkNyabtiYo0cRhqSufYvd8XTqIyXKDedw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3709766817": {
+        "8wiN5HbxKmWO50OOePGWnMHT39l34GjU01ZYU9y9h7fGAUDRccIALdpUlB2qFY45FNKoxkc1kw339Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon, TFT9_Item_OrnnDeathfireGrasp"
+        },
+        "agECBAdvS6LRwZlEL8kzFBJyZub0KCU5w0hBzTTJporC4zN5k_nO5zgaf44dkMpTsj46-8O8-Alo6A": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3709732506": {
+        "32tqJeru_jmvRd1y3mErfLs1Asl8rrwzRrMwABdp3CFeF7lBwg5OnIEft5MD3x5pTtMb_gWcQNP_1Q": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon"
+        },
+        "nfW3tM00UOPaPmEBgA39ohgFVTEx_rrRxyck2CEfKQOHX1e2e6W2lwh9t8ZnCI35AlvJtCkDmDIKLg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_EmptyBag, TFT_Item_EmptyBag"
+        }
+    },
+    "EUN1_3709479496": {
+        "HEqu0So0lVNqorNhRzOXAu8EZCnfBbyUMuj0OpTG20UEDxiHgKrReifWDTwNP7X4Fgw9mXwFhHiLdg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Morellonomicon, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3709268116": {
+        "hWVTuY8Lhb56yr24EK85q4mS1w9oMKD3p9pVVx2sRIwiD8N0aeXvtnBpq58yUJT7CoVXqcVnKnmCTQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT5_Item_RapidFirecannonRadiant"
+        }
+    },
+    "EUN1_3709222346": {
+        "w3oxRtBlPbn_2-pt6WPmNk3nDLdrUov-tkjrJmWpZP-tuQh0GOHSFTEsb1UVJZzMqvx-hVJbjfosug": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_PowerGauntlet, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3709191560": {
+        "J-jeF3fQVzbkGMKMQ2r6kW0_g0OLwH5aPLiQvempE9GrExLwx0M9k2_5GcBLq6A3N0hV4S0PwqjLxw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3709093902": {
+        "xnZYuc7Fu_0in_lw8dJ5WJxTc-Lwby5MwbeNjiOwMfhDBF3_fuYm1gJ9NDk9ConDLotLUNddlciyPQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3708731765": {
+        "xnZYuc7Fu_0in_lw8dJ5WJxTc-Lwby5MwbeNjiOwMfhDBF3_fuYm1gJ9NDk9ConDLotLUNddlciyPQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_StatikkShiv, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3720949717": {
+        "kO4l3rlxAWtF2VAiDfsdLems1fkU4dcEfpJOLhQKhFI5MywcACR96ZnFUfFpQ_8ZfMf2u5RI9DPwOA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_AdaptiveHelm, TFT_Item_Morellonomicon"
+        },
+        "IopI8ev5n67x8YFVdactD9N73Agmq7m-DzgOjCYYrjnf5JmlpPDJCUvCuRFIKOA3CYvVE0JpInzfkg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3720547318": {
+        "mCcQwEow_lAzFuTTqC9qhZHf4sMzPm2LCjeUcIuGqL3RL9jJe4Dr9rHzPGZk7hlQQTMzVqB6hVgQYQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "JiNadlX8JMcHRA7q6snHg_MkrR_DmrIUxoSdKnQkK6oKBN7NAS46kT8mD5MYL3bCV52dmtT5C6nrMw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3720389829": {
+        "b5TedMk5uaahQPoAP3E8t2EUB71P964HljWIPJ33LghrbI3QQGgcSyWyKF51r4pllADSIAZvDUVCMQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_BlueBuff, TFT_Item_HextechGunblade, TFT_Item_GuinsoosRageblade"
+        },
+        "F413NE1RKH_3FSmZIwBaCh0wyYzjqChLbp3e3aeYT4B9yggJ4AZmEipRg3WFfz8LsfVT_NDMdP3_pQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Bloodthirster"
+        }
+    },
+    "EUN1_3720347489": {
+        "KfcLB1dT6hR7Vn_rayTyuDegxaOf66vmxyKckd7R5NoLXvlQAgoDMGDKBqIO90-8zTX8ktDgxVB-IA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "Z09DXNHe5txhO9O7RHjKpyNY5B8Y8ZuSogMaQOcTPNCtzylqJSHEGGFPbmK_V0mEPihreRXOGzHomw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3720040755": {
+        "0pAm6Z-uS8dzCZidw-FgLWB0uagm5rhhV4pEDZ6U0gkKLbr7fO1I5xifGzxt4e1loU8as1T9V7c8kA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon, TFT13_Item_WarbandEmblemItem"
+        }
+    },
+    "EUN1_3720018468": {
+        "wntENI5gRrh3ZLTxxi845kQZhXSkzwOesRexs_qw9svQ8WOSEJtOA_t2lbHBiQf2wArFvQMX6atdyg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon, TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3719991105": {
+        "0-7xU8ixJPi7OtvtWstckWMYyqRwzQdTHTXiDNC9vYolUeJq3f8tk9OWY7IQvE7z0VoMbjv5qK6GFA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_GuinsoosRageblade, TFT13_Item_WarbandEmblemItem"
+        }
+    },
+    "EUN1_3715110924": {
+        "-RHvtbDpCXRcbHXB988TXvo2Jhc4ghhVx50unn6nk7jZmC2gWgO_DNh2PieTM2mkm5IZ6WhGE3SS1A": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715086134": {
+        "0ZFy6qvTojITtvFEYpsc02mv37TX3HubyOwc5st5JiKy9h7-k3Nqe_ZFPP5ucAFMUQe09nzhASHCPA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_Morellonomicon, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3715057872": {
+        "pdA5inCHgz6pODkPXdtOhOVufJPsewp3FBvZgVc9tSvHa5BNN1cOptYtvffOHN_uYDe7OjPpps_k9Q": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_Leviathan, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3714745163": {
+        "PsTTB2COcVJALgDs_MRlhsHIZm8r98dgg8jw0Wwlg47LVHH9VKDe7-GVKoofaZD-HJBTzqdsmIyupA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "xvt37ckp4x8N3Tdg53PJwNiSQNVEEX35cb8fa2ZLXxuC9cQsmWKFdrPgaTIxoDAnxUmLOxzVXTQeEQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_AnotherAnomaly_Item, TFT_Item_MadredsBloodrazor, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3714713452": {
+        "TVv6SCCkdIfYXdgzdDgYt9zTnh-BpOyoNz8PVzsQr5ex-kqeLFjV4RWgZpoTanQWC9w8W_EvdanpZA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_StatikkShiv, TFT_Item_PowerGauntlet"
+        }
+    },
+    "EUN1_3714637156": {
+        "PsTTB2COcVJALgDs_MRlhsHIZm8r98dgg8jw0Wwlg47LVHH9VKDe7-GVKoofaZD-HJBTzqdsmIyupA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3714088863": {
+        "9zWCj3UheF8iLc-5uX_nRV3_3P7Sp9UrvGC5GyNJvmdcz4yJHmr-B9559JwFylB-Oj_0crdnBJkwYw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3713144380": {
+        "FH4AfReUwZBE138DCPASGx-wIa-6YclLC5tTphSqkI1ry2dQz6Nu8VQuEHZdIbXBwbgjVWRInb2KMg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_HextechGunblade, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3713131801": {
+        "b5TedMk5uaahQPoAP3E8t2EUB71P964HljWIPJ33LghrbI3QQGgcSyWyKF51r4pllADSIAZvDUVCMQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3713114981": {
+        "tdcdO7UtlaxzN43EzvLkLxQbobvQnXgv6kkHnLV5fFs35z_Ow9jef9Tliwyqa7vjorMN8sERYQ19lA": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3713099606": {
+        "1WvAJq_OlAvfmzQ67GNDhrMybNzNcGurBsuB2fppLVlPo4BEjM0LVQKI1HkU5IQ81-daSkiKApc_Kw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT13_Item_InfusedEmblemItem, TFT_Item_MadredsBloodrazor, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3712947866": {
+        "BW5WROKCwagJ9mHnQIQsldYmWXxYkl3UHavKyrE5Fm3nmvpIfM7dv5pApLOgEKHoOVCGyYXsTZOFKw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_TearOfTheGoddess"
+        }
+    },
+    "EUN1_3712921812": {
+        "iEFG5cZ_hZmG0uRVM_nEsPeFdYZPqZhbQ9nIhT6irjGZvO420phdIT8LD1hO5vrXCwKQW7tFUKuDyA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_MadredsBloodrazor, TFT13_Item_ChallengerEmblemItem"
+        },
+        "PzLo77IaLaRiqk2wJWIZN--ut_g5S9eTZwvHiGYAff9x5t66A9R_AXhqvCffz2-E8nhhjtTk1b0DZQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3712894731": {
+        "tdcdO7UtlaxzN43EzvLkLxQbobvQnXgv6kkHnLV5fFs35z_Ow9jef9Tliwyqa7vjorMN8sERYQ19lA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_GuinsoosRageblade, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3712874867": {
+        "M3eXyJe7ELxmyGVoYl_GFZYMRmgOGg9TGw_FBXfza464vdcS1mMXZTkEYRmy_74GMVNS7wAdQjuCEw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_GuardianAngel"
+        },
+        "OE-bSQqgeQxBoRDqQSzrgxSxIdzkhmPwyIXbO2vJTm52NSKMBOtKPOgfEYVeToD-r2C4uFnBTXniUA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_SpearOfShojin"
+        },
+        "d7pkS9iJY9wwLw5lozKVIbbWsN7tkOMOA3_0JYDnPgLliEtiQX9aD3XeNEDn6jpoqpC4DlCyKTKn_Q": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3712856401": {
+        "RgzVaAhMCr3K6_lAedv0TWIVsIL30Mcmb5608AXvOYuBTM1ar4yYpncRb3kaGDs6kelXfe3E2ASrOg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3712832042": {
+        "tdcdO7UtlaxzN43EzvLkLxQbobvQnXgv6kkHnLV5fFs35z_Ow9jef9Tliwyqa7vjorMN8sERYQ19lA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff, TFT13_Item_InfusedEmblemItem, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3712605537": {
+        "iYKu1DF5WTYA5NfR53YskSM2VkaXY9zUSUdBTXeNh_l4Yk-GvFN3HtF4gEsW2UQZnLKgjBOXXcxO6A": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3712393540": {
+        "3u4bk2FTNmcuIjjYI2IDypSgNF6ZLJHglzySXuqFwrRDIByZvHdCNbF0Aidclt3ZiyBT-xArWCbx-w": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm, TFT_Item_StatikkShiv, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3712104340": {
+        "dAEAFSkGzEMKtRzhSZ2XgMTyxFoYRk48YooZVU-1skyEpQa6QuNq4ku9bSi_K_rsywuwVh0tI3CCJA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3712085951": {
+        "b5TedMk5uaahQPoAP3E8t2EUB71P964HljWIPJ33LghrbI3QQGgcSyWyKF51r4pllADSIAZvDUVCMQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3711606037": {
+        "WdQ-7ZOazrsoTQXcA8loQsCS_hSUeRV3mK_HxjrzO2Xmd8fKjJvsr8fqbv_nsFXbBApaGj-RBhVhmw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_RecurveBow"
+        },
+        "b5TedMk5uaahQPoAP3E8t2EUB71P964HljWIPJ33LghrbI3QQGgcSyWyKF51r4pllADSIAZvDUVCMQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_Artifact_BlightingJewel, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3711607463": {
+        "SBgkVNwkfnsNKKAZ6xioNgtCZY6ocQ6WtPuC6sfw0ZUy797G2u1q8Zz4c6qcCD_g-IO7YYf8Q-SZpA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT13_Item_TitanEmblemItem"
+        }
+    },
+    "EUN1_3711596887": {
+        "tdcdO7UtlaxzN43EzvLkLxQbobvQnXgv6kkHnLV5fFs35z_Ow9jef9Tliwyqa7vjorMN8sERYQ19lA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3711591506": {
+        "KH032rZPmObpQoFUTA-Bi0hx4wdkwoyADs0R4e_LiKiSV8WRZZQuU1JzbqMvngb44ZN8kHZn02X4ag": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_IonicSpark"
+        }
+    },
+    "EUN1_3711577023": {
+        "iBx10H5ZZdRi4gHiB4xcyvTkkFXwxwkO0adF7O5LVctCM3bNs94hCOl4hCZANR7HlxJMmLYUPUFg6Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_Leviathan, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3711338395": {
+        "rVo14F29Un06cSfB9Ce-98ssSzoCgKx4DBB91t8tkPXMkfba-whRdRDSe1wWQm8lWUSnoM3wnWakTA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3711308557": {
+        "vBzfxuWnAFmqkJvM1cys5ZNEHuxKbn4B21GVzPUhCkyPO0LwlhAmq9TqF0NzcLwFYzaAK7mtEY8hwA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Bloodthirster, TFT_Item_Leviathan, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3711243337": {
+        "tdcdO7UtlaxzN43EzvLkLxQbobvQnXgv6kkHnLV5fFs35z_Ow9jef9Tliwyqa7vjorMN8sERYQ19lA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3711229184": {
+        "b5TedMk5uaahQPoAP3E8t2EUB71P964HljWIPJ33LghrbI3QQGgcSyWyKF51r4pllADSIAZvDUVCMQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff"
+        },
+        "Qid5gnR0ju7SyerIWfy1CbZtoRknVhfO6UYLjxLtE5iyu0ytRfo3zt148vmLnZ5aNBSR8X7kuLpGxA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT13_Item_CrimeEmblemItem"
+        }
+    },
+    "EUN1_3711211235": {
+        "BMslMaOLYA7IJpY9THf487vdg2upyrlrK0XHkUpYMqBfpMScIlljS-1E96Qocdvc10k_Kzn_6LODQw": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3711070173": {
+        "E1eFku_hpyzTMgCACGm_FXm3Yy9Er66bfRNJLk07bxDFu-cGrOESD_TmLQXWoEecC2_PBfeebyCUQg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_RapidFireCannon, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3711055637": {
+        "vtrPAy0vsc4_nQe4qgqT_MUTHdaPsorZf5UZygwqI9mSL6PtUC4fs-1Fm6EPotLjjv5iKHtZol0zZw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3711040709": {
+        "iJBZv1QxdvnkkADjEhJp1ShZWq84UujPLQu2oJI0iS8HhrLEFBsWaEFJAoQP6xvn--CaXZkLXELFDw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3710416504": {
+        "VzeHODKkMbas_dgU6H0F7PVtyppVk-KGg0HZtf9yF0PSrzAW-FHH0TZntV63rel_rMtBlSEQftzbnQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_SparringGloves, TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3710383075": {
+        "bUoaUa7xtCb7eSmQougn1I8fr33NdNt7ojVOz2EVBi3ga1iPBUZyGlknO2__aIpw2cHx3cargdZaFg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3710303485": {
+        "lcl04B9vvS9LdCBMJlYBY0gaeDe0u8V7arr6tfPEmot2yzV5IbtzvWt_MDCgDRcvLeAobSMAOCZwPg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_GuinsoosRageblade, TFT_Item_SpearOfShojin"
+        },
+        "kqXS4biUIgsz0X-Bu29_9dFvuwyAmeX4rfQEybxc_oHtqA2ACaqgAsWZPQ_GmIZjOCS7yxrLdE6KTQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "WvVv-DeqyOq_yp8RaN1cD3OeQ2scUyMDT_5KGPZYj_tQBI3lllJmHplVvfon3EzluLcZaG_Fn9_ivw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT13_Item_ChallengerEmblemItem, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3705119636": {
+        "5M_rah7zXh95-wYD3xYcu4u9HR5ICtgHAOrDTgYwMsg2A2snpT2IL5bDZx_xWI_CCB0ZCRs-jKRPGw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3717737385": {
+        "AiiPDZW-rX4HVHsQGWNklwHbLSyLoMrtHL4G4IN54d4yEhJyJ5ydqKFcJ-GS-YJ3QLDLFKxOX3TMkQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Morellonomicon, TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3717682629": {
+        "jmH5BNFhgJsQ7bjQO0jVfvWdDp5HdyswFl9jWKatVvmOLXtWcJvkfcjtkGJsx4eFnMvmYtOlddSYNg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3717476832": {
+        "l8jY_btlqFAIaqO_Kozp-Sod31J0vG8LKKVQJNhP_r-7Wd_UmITXmsBeX3YdZ0XamRP-d4zR1wyLxg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3717094696": {
+        "MP6v3nh3TxseRERj6AF2eeU6lRF3eiLKgV2oEQ22jTgS90v9qBBgPymr1rN0KPblY4l9kF3ZHv0VuA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RecurveBow"
+        }
+    },
+    "EUN1_3716846176": {
+        "CKhATQi1xumleiP8QnjRJV7i-_5Ze5PNii2tvWLd3k2bC7MWdjAO5T3BoUgGwJQ6LQ_Dsk8Q2UAGvA": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        },
+        "XjyNeWQ-BS0yzQd0oocXR8WMSwCmWn18Y-Et9xwtanufvijUgvtfbqqk0kz-k0F5DuDokRYMyiXl_Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RunaansHurricane, TFT_Item_RunaansHurricane, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3716637013": {
+        "UHW99NvR0WfBTrj5BsQI5u9u3L7mEtGjbE_I98VRm-t7UzWTli5Oj1Tj8PmAnxS-C6-AYII9ZjG3rQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT4_Item_OrnnMuramana, TFT_Item_PowerGauntlet, TFT_Item_MadredsBloodrazor"
+        },
+        "MdptSxAPNpnuFBNGG-VxaJYg0FcmAKsLZ2I6R4EFwuI_ulgNveYsEdPmcXzW-745-CFha7JVJZ-Jcw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_Item_InfusedEmblemItem, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3716600260": {
+        "lFNK0YAn013HmGjqHprWn2u0VDigQHMiulCvMQm0baTZbmwfR-nbU--lORGRrTpDc5Lr6TU9o3zwlw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_PowerGauntlet, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3716002528": {
+        "UHW99NvR0WfBTrj5BsQI5u9u3L7mEtGjbE_I98VRm-t7UzWTli5Oj1Tj8PmAnxS-C6-AYII9ZjG3rQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_JeweledGauntlet, TFT_Item_GuinsoosRageblade"
+        },
+        "kA5n0QtUV5C3UGqT8IU5TSj1jfo1KRq-A2yrRWiwadZxI14NyzMXBd5IQUo9uvxrqgv0cWLqRKEUaQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3715988381": {
+        "xMWBE0YbhMmTvwuBtrvqKHNkHWCxgVVJ9Xrp0hLui8Vo80pQTkHrK5gsHwv5NPpvWi7SX_iwVb98_g": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715963843": {
+        "l8jY_btlqFAIaqO_Kozp-Sod31J0vG8LKKVQJNhP_r-7Wd_UmITXmsBeX3YdZ0XamRP-d4zR1wyLxg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3715656818": {
+        "fDBCOD2Ur8HdxqhBLD4WG7nnDTd-CkO7zCuPsPE-_6YNyVRcOSbvoxhnasrQzinSQC6OW5gCKJ0nhQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3715591280": {
+        "0KggtOII5YTAurNSTuNobxRHzS9-VzrQc6KW4T9oh3Jll-HEx7AJfijqafiX2pag9UaHNopKyQcNaw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT4_Item_OrnnMuramana, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3715547988": {
+        "UHW99NvR0WfBTrj5BsQI5u9u3L7mEtGjbE_I98VRm-t7UzWTli5Oj1Tj8PmAnxS-C6-AYII9ZjG3rQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT9_Item_OrnnDeathfireGrasp, TFT_Item_RecurveBow"
+        },
+        "P6vx5OmWJI5kntCjlvAEWeoMhK2grsarO2k1noRFAX-62R7tB_NN_yG1BMBfar2XmhOJQ0cd82BBEA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715066667": {
+        "hatTBNM9haGCRWVuYrmE7qnJcxomeaL8Gd1awxvtpZedarHCLoUDQcSec11NJGy7Hm8BKWmjW4K6_w": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_Morellonomicon, TFT13_Item_AmbusherEmblemItem"
+        }
+    },
+    "EUN1_3715015700": {
+        "hatTBNM9haGCRWVuYrmE7qnJcxomeaL8Gd1awxvtpZedarHCLoUDQcSec11NJGy7Hm8BKWmjW4K6_w": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3714999322": {
+        "n7JF97crfrmKCVZH5d8bq5z3S__UkuigNoxPfafIxPIgR0TGe-VnX7eW-Y__TLSl267l4Q1ci8Q6sA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm, TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3714982354": {
+        "l8jY_btlqFAIaqO_Kozp-Sod31J0vG8LKKVQJNhP_r-7Wd_UmITXmsBeX3YdZ0XamRP-d4zR1wyLxg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm, TFT_Item_AdaptiveHelm, TFT_Item_Artifact_TalismanOfAscension"
+        }
+    },
+    "EUN1_3714794189": {
+        "l8jY_btlqFAIaqO_Kozp-Sod31J0vG8LKKVQJNhP_r-7Wd_UmITXmsBeX3YdZ0XamRP-d4zR1wyLxg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Leviathan, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3714510428": {
+        "EDQLGVV9pHZyci_Pe_4yZFjjMhhmJyARYbFqXwCGZyx0HVnARtxE95QKMIHjRVR2ACsJ-mQE-VA9ng": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "KuGGFqB0wBRog-r7n1oYd6WKZOTA9B9m-LctVp2Ffa4Wv7DbzB_2K5s1NxNoV3DDwqxiGWI3kF4njw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3714479763": {
+        "VPB-j7NbiwwqA54RhrZFwjLgV8DiCQ1CKXCImt8MLpMxbNYJSsvBMWD9KxdHAn2AcAcCOOCvEvdKaw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "l8jY_btlqFAIaqO_Kozp-Sod31J0vG8LKKVQJNhP_r-7Wd_UmITXmsBeX3YdZ0XamRP-d4zR1wyLxg": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        },
+        "Lhik3LbXDr11yOAy7c7j5pKRVE82N_xdYDPq6niWRGHNMHG2hMZLDOauZjvTCPnYVK64ghg75kw13A": {
+            "top4": true,
+            "top1": false,
+            "items": [
+                ""
+            ]
+        }
+    },
+    "EUN1_3714377885": {
+        "3rFZaQlkWSYP1GlNq6u8T_9jggFV4IjczyDsyDtTJcF4JCey-4LNo4IuIYjFQyrMnfqV0cELm3usRQ": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3714366228": {
+        "Dga8-DXzqcFvZXwofElO5kc0UuKHGBHRv10QG6qpRxigFbutOvBdHo2pKHmBf6Bopd8cF5WsIb8a6Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3714351110": {
+        "gdUC8r9H05-bEEjFew5dXPPDhOJFhm95oLpVGZwAthH-_zQh9DCbA_V8J9GkYjKmZKfa6KIF4suUvw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3713941352": {
+        "n0GgHRA_p6v33dAv0hJhLkj-tDUntmx1l-0zcSRuOKAXEDjHjUJV3uW0iOnTwhx3oeAcTJ2-wKqp4A": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3713908924": {
+        "di3-Jompak2pMw-1QNhpa5P9pabqzniUU8uyt9yMKnjOpRblBv9JnmrLWRLZBe_4drPnJX7JlCeA4A": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_HextechGunblade, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3713804500": {
+        "UHW99NvR0WfBTrj5BsQI5u9u3L7mEtGjbE_I98VRm-t7UzWTli5Oj1Tj8PmAnxS-C6-AYII9ZjG3rQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT5_Item_ArchangelsStaffRadiant, TFT9_Item_OrnnHorizonFocus, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3713318401": {
+        "fFTay-_HuV79zW0rJPrgJc_Q0BLixJTBQHuwkiNcaF9pHQD5toBZIdOtcH1NvZUjncp8Ou-jBQLLBA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT13_AnotherAnomaly_Item, TFT_Item_RabadonsDeathcap"
+        },
+        "UHW99NvR0WfBTrj5BsQI5u9u3L7mEtGjbE_I98VRm-t7UzWTli5Oj1Tj8PmAnxS-C6-AYII9ZjG3rQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_AnotherAnomaly_Item, TFT_Item_MadredsBloodrazor, TFT_Item_Artifact_SeekersArmguard"
+        }
+    },
+    "EUN1_3713271403": {
+        "OuJDUYDeP5xk3gZJZxuWMTuYbUHGEfcqYKytu2PeSRsE9I2vrhpvz6hEXAPkfNqoc9CjQVIOu9pW8w": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet"
+        },
+        "UHW99NvR0WfBTrj5BsQI5u9u3L7mEtGjbE_I98VRm-t7UzWTli5Oj1Tj8PmAnxS-C6-AYII9ZjG3rQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3713236376": {
+        "d7X4aPrjCoFgWdCUO0f85GSo5cQtbBqtKEVvO0NyrraaJI9PVPuPyyL3N8_CamzBjvTjMWtYd6OFVg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet"
+        },
+        "l8jY_btlqFAIaqO_Kozp-Sod31J0vG8LKKVQJNhP_r-7Wd_UmITXmsBeX3YdZ0XamRP-d4zR1wyLxg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_Quicksilver"
+        }
+    },
+    "EUN1_3713220543": {
+        "l8jY_btlqFAIaqO_Kozp-Sod31J0vG8LKKVQJNhP_r-7Wd_UmITXmsBeX3YdZ0XamRP-d4zR1wyLxg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "Mm9t7EDdOgZ21MTjtaVifkMVm9HzlqRrvoSCQoyApZ7-nWeFu_YwguPpDuylSH0DWGYMtd8EH7HP-Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_PowerGauntlet, TFT_Item_RunaansHurricane"
+        }
+    },
+    "EUN1_3713086111": {
+        "tJO4b6NUaUWOPq70fvrY-FD9CzIt3tMtBqrlXwcyeE67288TuYYtLGHyjoJ__3xPNk0-_vExDjJipg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_StatikkShiv, TFT_Item_ArchangelsStaff"
+        },
+        "l8jY_btlqFAIaqO_Kozp-Sod31J0vG8LKKVQJNhP_r-7Wd_UmITXmsBeX3YdZ0XamRP-d4zR1wyLxg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_GuinsoosRageblade, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3712996701": {
+        "-LVVvMTNlcFi2Y1ytGu8o9xJx60uJdb3Tx1fa0oNC1ZuOuXclfbrNiKJDtd2gWiVJiCfbuQ62Ks1uA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_Item_SquadEmblemItem, TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3712920563": {
+        "UHW99NvR0WfBTrj5BsQI5u9u3L7mEtGjbE_I98VRm-t7UzWTli5Oj1Tj8PmAnxS-C6-AYII9ZjG3rQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3712896441": {
+        "Tk7PDPC6UyMCe_2ipZnbhZo4UNUtFE_ab_wlIYPWwL3IwhOLpyHSdbwtitlve30ztCVb2caANZ8GOg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_AdaptiveHelm, TFT_Item_ArchangelsStaff"
+        },
+        "9iRMplfZkcmiVnJhy0dLR2LTFlUzeHFPLm9ISSUKY8dQ9q59bMCnL0Uux7zGtYB-qmprJP23OR7Lzw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3712275988": {
+        "Z2weUW6jyeAVsGljNTHFWURI6j4UchMAgibFuH007HNNRUnZLeOUo9FcAn4zG6uXYFCr9fO3CB9SUg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3712254961": {
+        "l8jY_btlqFAIaqO_Kozp-Sod31J0vG8LKKVQJNhP_r-7Wd_UmITXmsBeX3YdZ0XamRP-d4zR1wyLxg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "VUgaQlUhRbuuy2YBgbQrxJrcJ1xXOGGVieovpdHaMfKgVYF_cwU8417fH-tFfeEmN6__O6gkKJ7DXg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_MadredsBloodrazor, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3712238689": {
+        "Cgcrjo03i9sb5qlOTZ6gRjtHtUZK7h9LgM9zN-AratRJk17nVwst8GqDxZui_oXxFDuUVuX6sK_0ew": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT9_Item_OrnnDeathfireGrasp, TFT_Item_SpearOfShojin, TFT_Item_RabadonsDeathcap"
+        },
+        "wQKja3_0tABAaydg2TWvgrdHvj_zBrb_guQNHUJ3Yuqj34vO4xxCu8d71jSlClF7UGDLsaX9L7o2WA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_AdaptiveHelm"
+        }
+    },
+    "EUN1_3711244718": {
+        "EsRiB71DhF5HzGQuY4dKuxKZvWWZ52Mhny-gwYSq0Klj8NAxAEgJjlFCkFGNN4J3mQJH9RBwsu86FA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff, TFT_Item_Morellonomicon"
+        },
+        "KuGGFqB0wBRog-r7n1oYd6WKZOTA9B9m-LctVp2Ffa4Wv7DbzB_2K5s1NxNoV3DDwqxiGWI3kF4njw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT4_Item_OrnnMuramana, TFT_Item_JeweledGauntlet, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3711013537": {
+        "tMWx9O2HVpGAgsU90HHa60VdCTsVstMINy0YfYGn9QHeFsGg0FWWARJiPjlOdbLZjdY-pkX7jTKlFw": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "l8jY_btlqFAIaqO_Kozp-Sod31J0vG8LKKVQJNhP_r-7Wd_UmITXmsBeX3YdZ0XamRP-d4zR1wyLxg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ForceOfNature, TFT_Item_Morellonomicon, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3719918659": {
+        "Z31imbvCVPgYj7rYSYY0NAXQD2bMVIOJm3IJSu0JFiVKFZ78bmt0bFKclICTSSNmml_MuwDWwezTWw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT13_Item_SniperEmblemItem"
+        }
+    },
+    "EUN1_3717947144": {
+        "2PeYnmPfTI5FeP_jfQDWD_9a0yzjuqeud5Oc5g7GZlULrU3Hr08EyjqjA_W3vPomJzCo9JVbirzxSQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "Kq8vXgDlDQ5YDdq0-2j3_9XbJmnczbmtUy8c8FzNE3KIiM_9cG8UvX-HbhkJsDzAK2pRXO6FHNM6Dw": {
+            "top4": false,
+            "top1": false,
+            "items": [
+                "TFT_Item_Morellonomicon",
+                "TFT_Item_SpearOfShojin",
+                "TFT_Item_JeweledGauntlet"
+            ]
+        }
+    },
+    "EUN1_3717673876": {
+        "GHsMmLlRbpv4BINSn0XC9t7saAfb-4XOe2Xdo9065UkE-ebdjcRt_WhyQxOxqhBcsC6-rhuhMaVt2A": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_BlueBuff"
+        }
+    },
+    "EUN1_3717656004": {
+        "AYt2-_2hElrdJLq3jgGRMVAPDkR5neslXR3PvBl1VR07RB_fNqY_QaRTwzqOhD5tuq4ZQxh1-gdLMQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3717074617": {
+        "btCtnpaXXM_hXdZdavrnHvOIFQIZkCHkEbUiQa_av67wA3RE--7Gie6319J_bUmM4dXic9SCvZ2b5g": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet"
+        },
+        "Wb6ZGKuD-_lZ8FJrG8NI08eBDj2h5cEQJcQE1v2SnYoUiY9i5eNaAAKGNUdrN211Kuzam1rl7iJbBA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff, TFT_Item_ArchangelsStaff, TFT_Item_StatikkShiv"
+        },
+        "Z31imbvCVPgYj7rYSYY0NAXQD2bMVIOJm3IJSu0JFiVKFZ78bmt0bFKclICTSSNmml_MuwDWwezTWw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3717060533": {
+        "IhewAIdY8ATEVBvyq23wlGugjf8H16iZ31jTB6cWe92oDk2aX-pZYhJWHQlfAVIXz7pN051X2CvE3Q": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_TearOfTheGoddess"
+        }
+    },
+    "EUN1_3716535716": {
+        "8w27ORY9JLBL6dAmcLU2488cO5Ya5KylSEnzganNd7zlTO9o_kNgE10aWA5zzbFFeA5EQHtxOd39rA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3712899262": {
+        "OgX9Ae5byH1TJkh6NhnzXEpv4xBggXR6Xihd8-ykYfp9h2I8kMgjwyA4hvjtVY5KBcjmQ-jnaKfdQg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff, TFT_Item_JeweledGauntlet, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3712854543": {
+        "91fjLnh36pMYJAjumskXTjPDv4U8sW0bB10VDtFoxnLlyDzsB0CxYvgsU80DQFNzOG7bEwYbgQoPYQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3711727279": {
+        "aDKHijAdBmxtC_o7M51yV2kPmGa3xcP0NwK1JM14Yirl3dgv6Mp3F7vNQsCM69iP_PdxdETAozrwpg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT13_Item_InfusedEmblemItem, TFT_Item_SpearOfShojin, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3711710634": {
+        "rdroIQU4rtD8Q3tn12_-FYPweU7oDf3XjV-kFXQBmE79Sh-uFZtyy4TMfwSj2mFLRGsV8w3SCFqSGw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_RapidFireCannon, TFT_Item_PowerGauntlet"
+        },
+        "jwh8ox40DJyuUk4qt8G5odoAwBZlSotW9jQU5xwOBov2QxtfzjDBHRYUhppCJgJ4FlY2bpNY4Iuqww": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin"
+        },
+        "ZiD4nKNpN0NOep1H3ISEXvoi3JkuaEOxXxuUruQp-SUai935SWtqjoOVFHmpcyt7NsR6HBVpqjosmg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3710798145": {
+        "UgSNeFx5MMbjlrPJbhvhg-9tAs0oqF8R1YAUaWHO7U0RLe6tsntm9VtPOUI387eHpCz_zHh5Jkpu6Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3710302992": {
+        "djMV02PIQGMqi1_QobYzcozUJ5pQQ9teUERKwasNN0mxuhCdh_uuOLSuePjmoVIHaQSSDTFDZGgv4w": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_SpearOfShojin"
+        },
+        "F-A1kDEofI1pl9ZAJbLC28zK2MubH5MimiOiB89uOPnN8TXPRea5et_U_n53E1q3Fz7lrP1E_5CoSg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_JeweledGauntlet, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3710092619": {
+        "fh6tlCQCZxOlw12Txn5Df9oLrY_e0kPBLmOYb-4LLBQekmAwOXwVhH61IsEJk7P0TMKU7suVg90Gvg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Leviathan, TFT_Item_JeweledGauntlet"
+        },
+        "sDRzQIY1cQQGo_xqKLyjUOtX1nmu_D-yJ4x2RZnyQR_U9g-IWFwo12VbuvQGAXAVhkGURRtLr_C72Q": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_AdaptiveHelm, TFT_Item_UnstableConcoction"
+        },
+        "kERUEWahhgVvq_yTpUXkHEhH-SpFvUGzmW_D5s-8AiyeSIH1IIF9NTy6q0miK_R1hMo_iFaXMp-1TA": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        }
+    },
+    "EUN1_3709787417": {
+        "IJgucsUsY2FRYocVOZppCqriKEYm0mdmHls441RnuEeE-_vD4rcEAoqy9I7DINna42Mh-NsKAFxALg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_EmptyBag, TFT_Item_EmptyBag"
+        }
+    },
+    "EUN1_3709354949": {
+        "-iuEey7hVgHmrzjNYoYkzOwk1lQpe4gunKX2dJ8G5qj_s0oCVLJyUjadOoNMfMStwhZNPjCsUzy3Yg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Morellonomicon"
+        },
+        "fkKoOH4XS9q0dkdxdyVXvlow_M2ENNyoXGWdkcx4I8Ez-qkgd9kKQPCuV8W1z2zTMvhJubV48J3HYA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet, TFT_Item_Leviathan"
+        },
+        "a2eaOD1me8EdIxe93KPNxeV-aVoJFvS-HF4x_de6tD_1PyicfEYyEXm8STWMz9_iQb_bxqTYM-Labg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3709347113": {
+        "Jjf9HiryoPrPlph9gZjcYAHD9g977SuIUnt0M1gGYtvQikz5dkI_cf_5eEOzR73KVchsVb6mV4rVhA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT5_Item_MorellonomiconRadiant, TFT_Item_Leviathan, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3708294304": {
+        "6dTxk9I39PTLJnnaZQwHUnmAL7nSyWlrPeVcSSsa4-kXMB0dOyMM-HtqA3jCP2lX8NOYnOoV8z6GKg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "KZCLS7rdIXrTnKM_eMYuLzA7xILSm2BpVmVJzrzNH1qzoP1PLpMggNoKzRuawcGaQCt5xUBJtKinTQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_RapidFireCannon, TFT_Item_Morellonomicon"
+        },
+        "eX6v2Y3AjETaB-kJ84rRxrS0qGyVC3TZQ7zYhU7-gb1gWRQJlBeVjIH39l293BNRjMPWNuMXgmjgeg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_HextechGunblade, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3708285217": {
+        "avmKk3D5ST_wNDBmo-ScT42XWtEVgNoE2zoxd33hJQsM6GOdUo_P4u65HdE6EmWJ0AosgdYqlqwIiQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff, TFT_Item_SpearOfShojin, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3706167255": {
+        "awRAehygpe78QgB5obAS2qX_B4jOksNa7qPZlzGEnLsEeJFvEulDgjDjXhbAGRt6uj2n8UjGCdgF1w": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_JeweledGauntlet, TFT13_Item_InfusedEmblemItem, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3705597200": {
+        "3oaRzd6CVLkyZa-t1YB8iZXQVCGq7Kw4SKO_NHaNIBvG2-F3-dD21VblkMg0n5FQoXNDoRt3g2UlfA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_Leviathan"
+        },
+        "tEW9nIpL4IohAdhMZt46-R8CODj1wSlbQ2TT4zaq8nckegTCgxmCwamNZLeEgrSK8frfTqEC_hG0bg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3720957889": {
+        "updyy66op8Mej7LqGHjA48Ixh5rkCS3LJv1z1NOptqGQllKP-AzUc-fNW_ZOI8ZN1eUJ5zKKIdj3mA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720932976": {
+        "MpyxXeovxuXATAviFGHF2uhnvH0U9uFPOfE2qbldyz3fk__8QR5mKGpGnHtyl9GOAd-Rg6gWWpCU0g": {
+            "top4": true,
+            "top1": true,
+            "items": ""
+        },
+        "IPv_N1X7D68HI60Ty_w4zav7PnzMAAhCj8ekEnSr6Vukb4ro40d4BrKTg75pSQjQ2vrtjOVd4umWKQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3720854186": {
+        "SWjPv8pIEsKVLE2i8H42UcOBGA-M8sZGN8Lhl9v8V8EO47Pf9nfsy2-5EeNpkqjySuC00M6h6pV0Ng": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Morellonomicon, TFT_Item_ArchangelsStaff"
+        },
+        "lZG87Qy7hWIT-IF8dqGiZShuWOa0kbIHuFl4V8v0H8L1kCYXqmvKE6CR-Nt9sVop0YQNXkF6M24LvA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3720826497": {
+        "EOCh80N_yidx__tNcnIPiSftNMrVy0EFFEKJWQG-tJzuRUpSJDW0r4-chlaMM1VhxUyIAdutAdjv7w": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_BlueBuff, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3720549144": {
+        "UEa_1zfLaluvboG-t8j-1XoUh1LNC6t7xne3qJ8uevWP1zcAhHzhWQ6WoU6VqmlK2w5bnp1jZJhg1w": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3720508997": {
+        "AEOo-DgEsviV1ngPV_JhP7puYbPZ2jffzQPDCvBgzCwPihT2JSj1jRezw2tih_rpFapLWMYevZRBtQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_GuinsoosRageblade, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3720472982": {
+        "g9SPmrfmn_pH95O-Eh6x6_GO6d_gmrEVcE5jiadmo18ekGfAI9WdVQDLHYahfGmLnEfcnVfvV4zR7A": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_NeedlesslyLargeRod"
+        }
+    },
+    "EUN1_3720045615": {
+        "BnArVkyzxvCcFsqOdUi60S3DfV9HjLshMHkua6WcXle_5LvHNauN19MJTuBPzkO2kSu2BAG99uJZ2w": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_SteraksGage, TFT_Item_RunaansHurricane"
+        },
+        "moxDVpjwI1-Z-3uF5su8FF1rxyGGKGttL8sb13YuwKWz6l2eTfG9YzgIB5E5Y4Mv4P5DekGtb60_tA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_Deathblade"
+        }
+    },
+    "EUN1_3720016339": {
+        "IPv_N1X7D68HI60Ty_w4zav7PnzMAAhCj8ekEnSr6Vukb4ro40d4BrKTg75pSQjQ2vrtjOVd4umWKQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_BFSword"
+        }
+    },
+    "EUN1_3718818315": {
+        "KHjv8Ky0Qea7_3iRvHXWAfoxfjCcSbhie7YvkTMoSHSmQezMAjjXY7-xavy5VCkU0yw2TVQITyXPGQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon, TFT_Item_ArchangelsStaff"
+        }
+    },
+    "EUN1_3718802770": {
+        "MpyxXeovxuXATAviFGHF2uhnvH0U9uFPOfE2qbldyz3fk__8QR5mKGpGnHtyl9GOAd-Rg6gWWpCU0g": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_PowerGauntlet"
+        },
+        "IPv_N1X7D68HI60Ty_w4zav7PnzMAAhCj8ekEnSr6Vukb4ro40d4BrKTg75pSQjQ2vrtjOVd4umWKQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_HextechGunblade, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3717084441": {
+        "NaW2U1WzTqpQEh3hh_ICLrjvPKEUwfgi1kH9Ug31WQNeqIH_xJ-yqIT7mNFyoVIGV0Z7lvNRqBFmVA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_JeweledGauntlet, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3716760338": {
+        "YRgIiE0Oggt5-ORvw__jPjvlgAZgzrav5935gcf2RLFHaHZjeEO-m3j8QyvML_n9R9WToFrL0OLvzg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_InfinityEdge, TFT_Item_Bloodthirster"
+        }
+    },
+    "EUN1_3716692017": {
+        "DZYKBP7zpjiIhtt67YfYLr536D5Aav98Cao1jUhmvIkh-yhbBWf-kFYb7Ogw26T7MZeG3UKCCKN9Sw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_Morellonomicon, TFT_Item_HextechGunblade"
+        },
+        "zOjQSY4wvpgxV_uV-c1UhkGLZhyJWkWwAYIKSxzWOyS4n8TovnD2qXH4zUR6wywr3ySSLZCOy7kL3Q": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_GuinsoosRageblade, TFT13_Item_ChallengerEmblemItem, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3716623226": {
+        "x1f-NU6Dpnxw1m_ebz7HDH4SFWszCDuH_ondLsdKDzcv7Li5gsvOws_E1JhLQdoxSX--VRsE7yeRZA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_JeweledGauntlet, TFT_Item_RunaansHurricane"
+        }
+    },
+    "EUN1_3716576998": {
+        "NTIp4uImpKRSw46Wgw06Dqq-af8tK0ihGOngdHVKWuyiZxwHwdX7PuM-JlfN3aTPx839-te-6k0SiA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3716016326": {
+        "MpyxXeovxuXATAviFGHF2uhnvH0U9uFPOfE2qbldyz3fk__8QR5mKGpGnHtyl9GOAd-Rg6gWWpCU0g": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_AdaptiveHelm, TFT_Item_MadredsBloodrazor"
+        }
+    },
+    "EUN1_3716002361": {
+        "eFmwATb2u6PBGOc-VfZF9-xd1DP1A5-HTIe33kzTJGtafO3DQ16PcvbZw4kLjcVa34AL0AmeUl5OMg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3715993206": {
+        "wvnsrvVzxsXTpyhm52WCT4_IUiEmFfvG15Y4YI2jt3lOB0GfX6_nQKfjOTeQcgBcrTjnhweNx9XqRg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3715972819": {
+        "bxyzXpigvlxYDbGXn9GmYQSDCrO05K9vEU-c6V_ugHlg_SzQByaJUSfyiKsI-48qyVJE8uE0kkzSTg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_JeweledGauntlet, TFT_Item_ForceOfNature"
+        }
+    },
+    "EUN1_3715597375": {
+        "Cgi2O_af06WWyRfCUBtxRho2tuAnvQX5JEGIToRA16QQSjVu1pjyfo24RFhL2REHEVUtMzXJPlDLFA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3714590836": {
+        "lZG87Qy7hWIT-IF8dqGiZShuWOa0kbIHuFl4V8v0H8L1kCYXqmvKE6CR-Nt9sVop0YQNXkF6M24LvA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "qkgGhJidHHK2eg-c_9g_De1ot2pNv8uWcacs70FwRLx2QJ9HH9TzVcN5XNjGrWEbT8lgDn7RQbxq5A": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_ArchangelsStaff, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3714536101": {
+        "PRzxTAIEQ6CvyFIwNjkGZZP7z4FKXhScE1alh_2IRofSkClphvoa-5uK2BHVQIjANbgtY06yf_LKXg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_RecurveBow"
+        }
+    },
+    "EUN1_3714507964": {
+        "qmoGHQjJTQBZKq3M-cZrOOe3e_xXpL0k0Z-TSGYV7nRdf6zWVkT3ruEYCP4oPALUKvR7uUZ3PXkvfg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3714455070": {
+        "IPv_N1X7D68HI60Ty_w4zav7PnzMAAhCj8ekEnSr6Vukb4ro40d4BrKTg75pSQjQ2vrtjOVd4umWKQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_NeedlesslyLargeRod"
+        }
+    },
+    "EUN1_3714433408": {
+        "DtPT0CJhLgF6eFIL9GJcCOGlnPHmYHhk0_LSrY1JL3E-qPqdOXRO3F1mAGBLrR05faagkPsx3cqMcg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_UnstableConcoction, TFT_Item_Morellonomicon"
+        }
+    },
+    "EUN1_3714407518": {
+        "MpyxXeovxuXATAviFGHF2uhnvH0U9uFPOfE2qbldyz3fk__8QR5mKGpGnHtyl9GOAd-Rg6gWWpCU0g": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "1lC_V8Q-2n3mhv_if17PSig_8C84EoGTgO8Vo4j-FWaNRjqNRY1LCXZ5ii8iVPVs14e_JljKPNC5bw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3714360895": {
+        "MpyxXeovxuXATAviFGHF2uhnvH0U9uFPOfE2qbldyz3fk__8QR5mKGpGnHtyl9GOAd-Rg6gWWpCU0g": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_HextechGunblade, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3714080854": {
+        "IPv_N1X7D68HI60Ty_w4zav7PnzMAAhCj8ekEnSr6Vukb4ro40d4BrKTg75pSQjQ2vrtjOVd4umWKQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_StatikkShiv, TFT_Item_SparringGloves"
+        },
+        "17D1KQBLrgnuXJ8iSTXo7_dE149iS10T70Ki2HOD9HoZGVDcPWD-nBmyrT9bEpoWqmXFAGGTODz4Qg": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3714059700": {
+        "5kaXaytrJxaVhdONFDFcBTN-hODGeU71dTff_MhfjYiAyGiGMb58oYOh1UtaWYMq6JDhXGCa4BsyCA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3714001557": {
+        "bwMrzXWYf_TmyZf_qMm0ChlAPB3f9xvhAbBCq2LZ4cbwdB33aOJoG1SIihKpIKQLAwohq6e80liX8w": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3713984230": {
+        "uakHtcGmvKU0OJidSdF-ljNa4fhGqIVZTHtCdVUJPfALHVeHMj3K0bJs1wOV2TT77V8sOI-RZZT8vw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT4_Item_OrnnObsidianCleaver"
+        },
+        "rIPOUfOLam6tkR6_lCAY4bTA2wpkZQ9rtOK3m6XpGhuB7kDRgQxSfOGgFKLGMw63ZbTIj9mxytDoEA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon, TFT_Item_RabadonsDeathcap, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3713872089": {
+        "IPv_N1X7D68HI60Ty_w4zav7PnzMAAhCj8ekEnSr6Vukb4ro40d4BrKTg75pSQjQ2vrtjOVd4umWKQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RapidFireCannon"
+        },
+        "YXU9S0xZ1-0F8TXlXKya_xER7tRGSb1q8uSzt0vItNHEq6QTtE6AXsF2CxISPsiemZd3GjFnOucrTw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_GuardianAngel, TFT_Item_TitansResolve"
+        }
+    },
+    "EUN1_3713791393": {
+        "-obd-UN3VD_OCRve91dzImCihf0mzsdHZ9cOQ3QWi0MDkDHx7H_CUuX1J2TCWR3etgVWqgQ0qQDFww": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ZekesHerald, TFT_Item_Chalice, TFT_Item_Morellonomicon"
+        },
+        "kGk3ItWSxTZn8luqr88pC3oazR78r4wU2T_EomOMA7Q7dws-mq2lYSdoTqt2hLpPFYDN1v1U0dF8iw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_JeweledGauntlet, TFT_Item_RabadonsDeathcap"
+        }
+    },
+    "EUN1_3713539993": {
+        "G0Yp_MHSSK1TpiFre3DyomuOo9dJaKN1Usfjn2I-qib9mdJnpjZHMxJKR58U9ixumBgbDffQNivuEw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Leviathan, TFT_Item_JeweledGauntlet, TFT_Item_Artifact_LichBane"
+        }
+    },
+    "EUN1_3710142366": {
+        "MpyxXeovxuXATAviFGHF2uhnvH0U9uFPOfE2qbldyz3fk__8QR5mKGpGnHtyl9GOAd-Rg6gWWpCU0g": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_BlueBuff, TFT_Item_HextechGunblade, TFT_Item_JeweledGauntlet"
+        }
+    },
+    "EUN1_3710118382": {
+        "-m6z0ESldNCR3DO8nikjVguQGIBjJC9jOIR8HAymcP58TAT8G9qEN7oNIIGDfQ8hJu9XanwbX0nqew": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade"
+        },
+        "MpyxXeovxuXATAviFGHF2uhnvH0U9uFPOfE2qbldyz3fk__8QR5mKGpGnHtyl9GOAd-Rg6gWWpCU0g": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_RabadonsDeathcap, TFT_Item_SpearOfShojin, TFT_Item_RapidFireCannon"
+        }
+    },
+    "EUN1_3710088724": {
+        "PofG1CtHZFZRvnAuKcQQbBm4esjEUXs0JAviz4U0FFrAp0L4JbhaWYNhSSWfYAzP5Ha6USiIopf20g": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_UnstableConcoction, TFT13_Item_HoverboardEmblemItem, TFT_Item_LastWhisper"
+        }
+    },
+    "EUN1_3710072108": {
+        "QGOY_gbp3uBgkm7tgzWiqC-vimbvsR2Pjzfq7OZcNyh9VJREEZKyOjQLC_85zgcUbz3RspyxDZZ-Sg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_HextechGunblade"
+        }
+    },
+    "EUN1_3710011921": {
+        "IPv_N1X7D68HI60Ty_w4zav7PnzMAAhCj8ekEnSr6Vukb4ro40d4BrKTg75pSQjQ2vrtjOVd4umWKQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_ArchangelsStaff, TFT_Item_HextechGunblade"
+        },
+        "z5l9tGa71LLuHMBT7c7fLFtNdDqmm8gQb6BCllww7UowCyv3YKkAdgCmAfmTCrJYMRFgTkOQxesJiA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_MadredsBloodrazor, TFT_Item_Leviathan"
+        }
+    },
+    "EUN1_3709938755": {
+        "IPv_N1X7D68HI60Ty_w4zav7PnzMAAhCj8ekEnSr6Vukb4ro40d4BrKTg75pSQjQ2vrtjOVd4umWKQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_HextechGunblade, TFT_Item_SpearOfShojin"
+        }
+    },
+    "EUN1_3709921240": {
+        "MpyxXeovxuXATAviFGHF2uhnvH0U9uFPOfE2qbldyz3fk__8QR5mKGpGnHtyl9GOAd-Rg6gWWpCU0g": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT7_Item_ShimmerscaleHeartOfGold"
+        }
+    },
+    "EUN1_3709069808": {
+        "3tcwcmjQFeIQxQFRZG3VGGy6lD_ZKAe7nVJA6T0R71caS50GsJLvbtz77lSytMpT7Eq8B7j4ap9T6Q": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "9lPEdjM_mQyPb3N_iSuoOOZGsBPIH7x2VXjgaIjXXPkPZ569v3s24sZ56lcKZ7kT76LThTfy0o8IbQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3706770047": {
+        "YUnSHNLEj02GBgYl3ChsON19J6G-YGdKAJBebGH6rmGh8DRKGXvADEFBEsS1fwnCfctq49P5R_BCpQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_Crownguard, TFT_Item_RabadonsDeathcap"
+        },
+        "B1F4vSPsqRkv43fQ6gUEKxHMF7OsJGuXcNRium6jTqXlOqxk07-XDAF5ANcqDlQl7HV5of7j_X8KYA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_StatikkShiv, TFT_Item_SpearOfShojin, TFT_Item_GuinsoosRageblade"
+        },
+        "AMsr_fBVAGFItTODQ05F2rY5T8KXPU9xqsateKe3ay7njviu5XrIoJJXnCfOOEEYJMUqK-4mTDQa8A": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT13_Item_CabalEmblemItem"
+        }
+    },
+    "EUN1_3706747813": {
+        "jufN_CroRfdR4PCuJn5gKFV93KAWcgLT87ivo80pis_qZEWgam8BnV78edadzfD40iVxx06WU_RoNQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3706324099": {
+        "gYvHWxFvgq_PN0MgbuBmGZuos0VT6lLJCwyQ2we2llIKFLklqVjh1c9AiwpV5U4KsSBoplcg6vk9Nw": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "yNoY2LXi8_rSFGDB9rs7oPn1eUQrlzQ1z3CHXca3h6Xi1WAVGh8XqiMeOQxugjGQjPoc82pk2Gx6tA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Artifact_BlightingJewel, TFT_Item_SpearOfShojin, TFT_Item_StatikkShiv"
+        }
+    },
+    "EUN1_3706289811": {
+        "-_MG6e6ufchhs5C_nJYPIWCix9klefZfTN7l8JKtSsdvftCzvbSstWzCtdhZLKlX65KGbcGlqWADNQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ArchangelsStaff, TFT_Item_SpearOfShojin, TFT_Item_Leviathan"
+        },
+        "WhTQmbNbglgmCabTvQmxf7WkuV68kBu0LCuOAiH2mjhz0vFlt8WiLhUW8TCayaZewJmQyezyvGCnCQ": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_PowerGauntlet, TFT_Item_SpearOfShojin"
+        }
     }
 }

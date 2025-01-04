@@ -1,0 +1,12 @@
+{
+    "EUN1_3720879452": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Tristana, tft13_swain, TFT13_Nami, TFT13_TwistedFate, TFT13_Elise, TFT13_Ambessa, TFT13_Garen, TFT13_Ekko, TFT13_Corki"
+    },
+    "EUN1_3716002361": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Vladimir, TFT13_Urgot, TFT13_Ambessa, TFT13_Vi, TFT13_Warwick, TFT13_Viktor"
+    }
+}

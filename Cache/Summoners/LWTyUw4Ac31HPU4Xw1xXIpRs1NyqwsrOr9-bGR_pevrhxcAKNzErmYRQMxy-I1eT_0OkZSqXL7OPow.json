@@ -1,0 +1,12 @@
+{
+    "EUN1_3720835351": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Fish, TFT13_Shooter, TFT13_Camille, TFT13_Gremlin, TFT13_Silco, TFT13_Ekko, TFT13_Caitlyn"
+    },
+    "EUN1_3714794189": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Red, TFT13_Trundle, TFT13_Prime, TFT13_Ziggs, TFT13_Ekko, TFT13_Ekko, TFT13_Corki"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "EUN1_3717850807": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_Irelia, TFT13_Vex, TFT13_Rell, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Heimerdinger, TFT13_Illaoi"
+    },
+    "EUN1_3718290315": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Lux, TFT13_Singed, TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_Nami, TFT13_Beardy, TFT13_Viktor"
+    }
+}

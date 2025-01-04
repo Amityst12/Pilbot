@@ -1,0 +1,17 @@
+{
+    "EUN1_3718610423": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Vladimir, TFT13_Rell, TFT13_Zeri, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Garen, TFT13_Malzahar, TFT13_Mordekaiser"
+    },
+    "EUN1_3718573272": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_Cassiopeia, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Malzahar"
+    },
+    "EUN1_3718063730": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Malzahar, TFT13_Mordekaiser, TFT13_Rumble"
+    }
+}

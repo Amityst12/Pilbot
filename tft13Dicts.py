@@ -64,3 +64,11 @@ Champions_dict_tft13 = {
     "TFT13_Zoe" : "Zoe",
     "TFT13_Zyra" : "Zyra"
 }
+
+Items_dict_tft13 = {
+    "TFT_Item_WarmogsArmor" : "Warmog's Armor",
+    "TFT_Item_GargoyleStoneplate" : "Gargoyle Stoneplate",
+    "TFT_Item_RedBuff" : "Sunfire Cape",
+    "TFT_Item_DragonsClaw" : "Dragon's Claw",
+    "TFT_Item_IonicSpark" : "Ionic Spark"
+}

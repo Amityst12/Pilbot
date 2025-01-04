@@ -1,0 +1,17 @@
+{
+    "EUN1_3718261035": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_NunuWillump, tft13_elise, TFT13_Ambessa, TFT13_DrMundo, TFT13_Twitch, TFT13_Vi, TFT13_Mordekaiser, TFT13_Caitlyn"
+    },
+    "EUN1_3720250738": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Tristana, TFT13_Urgot, TFT13_NunuWillump, TFT13_Gangplank, TFT13_DrMundo, TFT13_Twitch, TFT13_MissMage"
+    },
+    "EUN1_3720373471": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Twitch, TFT13_Twitch, TFT13_Twitch, TFT13_Twitch"
+    }
+}

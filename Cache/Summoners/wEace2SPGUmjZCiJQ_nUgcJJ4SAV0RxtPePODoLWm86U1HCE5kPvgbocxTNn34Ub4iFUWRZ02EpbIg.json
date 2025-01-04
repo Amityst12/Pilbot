@@ -1,0 +1,12 @@
+{
+    "EUN1_3712277999": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Fish, TFT13_Shooter, TFT13_Camille, TFT13_Blitzcrank, TFT13_Beardy, TFT13_TwistedFate, TFT13_Vi, TFT13_Caitlyn, TFT13_Viktor"
+    },
+    "EUN1_3712250135": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Trundle, TFT13_Fish, TFT13_Sett, TFT13_Chainsaw, TFT13_NunuWillump, TFT13_Gangplank, TFT13_Heimerdinger, tft13_elise, TFT13_Malzahar, TFT13_Viktor"
+    }
+}

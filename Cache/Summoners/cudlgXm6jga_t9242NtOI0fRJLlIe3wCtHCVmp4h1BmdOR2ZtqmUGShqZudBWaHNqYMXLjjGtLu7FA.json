@@ -1,0 +1,12 @@
+{
+    "EUN1_3720001378": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Leona, TFT13_Camille, TFT13_Gremlin, TFT13_Beardy, TFT13_Ekko, TFT13_Ekko, TFT13_Vi, TFT13_Lieutenant"
+    },
+    "EUN1_3720028828": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Tristana, TFT13_Urgot, TFT13_Ezreal, TFT13_Nami, TFT13_Elise, TFT13_Ambessa, TFT13_Garen, TFT13_Corki, TFT13_MissMage"
+    }
+}

@@ -3,5 +3,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Elise, TFT13_Ambessa, TFT13_Garen, TFT13_DrMundo, TFT13_Illaoi, TFT13_Zoe, TFT13_Corki, TFT13_Vi"
+    },
+    "EUN1_3720001378": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Vladimir, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_Garen, TFT13_DrMundo, TFT13_Jayce, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion, TFT13_JayceSummon"
     }
 }

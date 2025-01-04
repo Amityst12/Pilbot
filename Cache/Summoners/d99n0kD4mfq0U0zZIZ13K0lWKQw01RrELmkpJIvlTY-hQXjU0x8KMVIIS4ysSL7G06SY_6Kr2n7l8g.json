@@ -3,5 +3,50 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Trundle, TFT13_Tristana, TFT13_Gangplank, tft13_elise, TFT13_Ekko, TFT13_Corki, TFT13_Jayce, TFT13_Rumble, TFT13_Viktor, TFT13_JayceSummon"
+    },
+    "EUN1_3719742157": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Red, TFT13_Tristana, TFT13_Urgot, tft13_swain, TFT13_Gangplank, TFT13_Vi"
+    },
+    "EUN1_3719563609": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Vladimir, TFT13_Rell, tft13_swain, TFT13_Ambessa, TFT13_Jayce, TFT13_Mordekaiser, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUN1_3717389107": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Trundle, TFT13_Tristana, TFT13_Gangplank, tft13_elise, TFT13_Ekko, TFT13_Corki, TFT13_Rumble, TFT13_Warwick"
+    },
+    "EUN1_3720259905": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, TFT13_Silco, TFT13_Mordekaiser, TFT13_Lieutenant, TFT13_Viktor"
+    },
+    "EUN1_3720019786": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Elise, TFT13_Elise, TFT13_Twitch, TFT13_Illaoi, TFT13_Corki, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Lieutenant"
+    },
+    "EUN1_3719990529": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Tristana, TFT13_Urgot, TFT13_Ezreal, TFT13_NunuWillump, TFT13_Gangplank, tft13_elise, TFT13_Corki"
+    },
+    "EUN1_3720837023": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Blitzcrank, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_Garen, TFT13_DrMundo, TFT13_Jayce, TFT13_Sion, TFT13_JayceSummon"
+    },
+    "EUN1_3718874683": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Tristana, TFT13_Nami, tft13_elise, TFT13_Ambessa, TFT13_Garen, TFT13_Corki, TFT13_Rumble"
+    },
+    "EUN1_3717226319": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Trundle, TFT13_Tristana, TFT13_Gangplank, TFT13_Elise, TFT13_Ekko, TFT13_Corki, TFT13_Rumble, TFT13_Viktor"
     }
 }
