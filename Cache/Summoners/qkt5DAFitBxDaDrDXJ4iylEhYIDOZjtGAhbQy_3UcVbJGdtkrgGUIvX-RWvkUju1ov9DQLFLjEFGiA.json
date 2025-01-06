@@ -18,5 +18,10 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Rell, TFT13_Prime, tft13_swain, TFT13_Ambessa"
+    },
+    "EUN1_3717085088": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_Garen, TFT13_Ekko, TFT13_Illaoi, TFT13_Zoe, TFT13_Rumble"
     }
 }

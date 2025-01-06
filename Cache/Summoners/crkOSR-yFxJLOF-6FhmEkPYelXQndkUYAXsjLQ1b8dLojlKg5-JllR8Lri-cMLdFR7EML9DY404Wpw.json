@@ -3,5 +3,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Morgana, TFT13_Vladimir, TFT13_Blitzcrank, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion"
+    },
+    "EUN1_3718365223": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Nocturne, TFT13_Rell, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_Cassiopeia, TFT13_Garen, TFT13_DrMundo, TFT13_Mordekaiser, TFT13_Caitlyn"
     }
 }

@@ -1,0 +1,32 @@
+{
+    "EUW1_7225834989": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Rell, TFT13_Ambessa, TFT13_Ekko, TFT13_Illaoi, TFT13_Mordekaiser, TFT13_Rumble, TFT13_Caitlyn, TFT13_MissMage"
+    },
+    "EUW1_7229541038": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Ambessa, TFT13_DrMundo, TFT13_Malzahar, TFT13_MissMage"
+    },
+    "EUW1_7228120313": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_Garen, TFT13_DrMundo, TFT13_Malzahar, TFT13_Rumble, TFT13_Caitlyn, TFT13_MissMage"
+    },
+    "EUW1_7224359922": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Urgot, TFT13_Chainsaw, TFT13_NunuWillump, tft13_elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Caitlyn, TFT13_Viktor, TFT13_MissMage"
+    },
+    "EUW1_7222923002": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Ziggs, TFT13_Blitzcrank, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion"
+    },
+    "EUW1_7213113538": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Vladimir, TFT13_Cassiopeia, TFT13_NunuWillump, TFT13_Heimerdinger, tft13_elise, TFT13_Garen, TFT13_Malzahar, TFT13_LeBlanc, TFT13_Sion"
+    }
+}

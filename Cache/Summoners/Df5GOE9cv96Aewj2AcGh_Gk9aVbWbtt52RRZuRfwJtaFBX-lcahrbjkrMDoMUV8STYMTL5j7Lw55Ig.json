@@ -1,0 +1,52 @@
+{
+    "EUW1_7231336731": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, TFT13_Silco, TFT13_DrMundo, TFT13_Lieutenant, tft13_jinx"
+    },
+    "EUW1_7229956771": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Trundle, TFT13_Gangplank, TFT13_Elise, TFT13_Ekko, TFT13_Illaoi, TFT13_Corki, TFT13_Lieutenant, TFT13_Rumble, TFT13_Jinx"
+    },
+    "EUW1_7226676199": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Nocturne, TFT13_Vladimir, TFT13_Rell, TFT13_Tristana, TFT13_Nami, TFT13_Ambessa, TFT13_Garen, TFT13_Corki"
+    },
+    "EUW1_7226612798": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Vex, TFT13_Akali, TFT13_Sett, TFT13_Ezreal, TFT13_Ambessa, TFT13_Illaoi, TFT13_Zoe"
+    },
+    "EUW1_7218390565": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Fish, TFT13_Sett, TFT13_Chainsaw, TFT13_NunuWillump, tft13_elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Malzahar"
+    },
+    "EUW1_7237691951": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Ziggs, TFT13_Blitzcrank, TFT13_Cassiopeia, TFT13_Silco, TFT13_Garen, TFT13_DrMundo, TFT13_Mordekaiser, TFT13_MissMage"
+    },
+    "EUW1_7215689443": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Akali, TFT13_Sett, TFT13_Ezreal, TFT13_Illaoi, TFT13_Zoe, TFT13_Vi, TFT13_Jinx"
+    },
+    "EUW1_7211135142": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Akali, TFT13_Sett, TFT13_Ezreal, TFT13_Gremlin, TFT13_Elise, TFT13_Illaoi, TFT13_Zoe, TFT13_Rumble, TFT13_Jinx"
+    },
+    "EUW1_7250539347": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Morgana, TFT13_Zyra, TFT13_Vladimir, TFT13_Urgot, TFT13_NunuWillump, TFT13_Gangplank, TFT13_Elise, TFT13_Garen, TFT13_Corki, TFT13_Viktor, TFT13_Sion"
+    },
+    "EUW1_7250510708": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Trundle, TFT13_Fish, TFT13_NunuWillump, tft13_elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Caitlyn, TFT13_Viktor"
+    }
+}

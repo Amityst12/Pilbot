@@ -1,0 +1,12 @@
+{
+    "EUW1_7208001585": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Trundle, TFT13_Tristana, TFT13_Ziggs, TFT13_Gangplank, tft13_elise, TFT13_Ekko, TFT13_Corki"
+    },
+    "EUW1_7204555154": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Trundle, TFT13_Tristana, TFT13_Gangplank, TFT13_Elise, TFT13_Ekko, TFT13_Corki, TFT13_Jayce, TFT13_Rumble, TFT13_JayceSummon"
+    }
+}

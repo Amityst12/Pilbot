@@ -1,0 +1,17 @@
+{
+    "EUN1_3684651183": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Elise, TFT12_Ashe, TFT12_Nilah, TFT12_Syndra, TFT12_Mordekaiser, TFT12_TahmKench, TFT12_Nami, TFT12_Briar"
+    },
+    "EUN1_3684630868": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Elise, TFT12_Nilah, TFT12_Syndra, TFT12_Hecarim, TFT12_Mordekaiser, TFT12_TahmKench, TFT12_Nami, TFT12_Briar, TFT12_Xerath"
+    },
+    "EUN1_3684280232": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT12_Zoe, TFT12_Poppy, TFT12_Neeko, TFT12_Fiora, TFT12_Gwen, TFT12_Ryze, TFT12_Taric, TFT12_Morgana"
+    }
+}

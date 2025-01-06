@@ -1,0 +1,12 @@
+{
+    "EUN1_3718685775": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Irelia, TFT13_Sett, TFT13_Ezreal, TFT13_Nami, TFT13_Ekko, TFT13_Illaoi, TFT13_Zoe, tft13_jinx, TFT13_Viktor"
+    },
+    "EUN1_3684237543": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT12_Zilean, TFT12_Bard, TFT12_Karma, TFT12_Fiora, TFT12_Gwen, TFT12_Rakan, TFT12_Briar, TFT12_Morgana, TFT12_Milio"
+    }
+}

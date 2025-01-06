@@ -8,5 +8,15 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Draven, TFT13_Rell, tft13_swain, TFT13_Gangplank, tft13_elise, TFT13_Ambessa, TFT13_Jayce, TFT13_Mordekaiser, TFT13_Rumble, TFT13_Viktor, TFT13_JayceSummon"
+    },
+    "EUN1_3715604490": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Trundle, TFT13_Fish, TFT13_Tristana, TFT13_Sett, TFT13_Chainsaw, TFT13_NunuWillump, tft13_elise, TFT13_Corki"
+    },
+    "EUN1_3684221001": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Lillia, TFT12_Hecarim, TFT12_Bard, TFT12_Rakan, TFT12_Kalista, TFT12_Camille, TFT12_Morgana, TFT12_Milio"
     }
 }

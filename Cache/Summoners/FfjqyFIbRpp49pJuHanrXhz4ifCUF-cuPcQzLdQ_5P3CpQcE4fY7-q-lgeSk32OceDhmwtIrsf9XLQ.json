@@ -1,0 +1,12 @@
+{
+    "EUW1_7224874661": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Prime, TFT13_Gangplank, TFT13_Vi, TFT13_Lieutenant, TFT13_Warwick"
+    },
+    "EUW1_7254319510": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Tristana, TFT13_Urgot, TFT13_NunuWillump, TFT13_Gangplank, tft13_elise"
+    }
+}

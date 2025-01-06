@@ -1,0 +1,17 @@
+{
+    "EUW1_7238361567": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Tristana, TFT13_Nami, TFT13_Ambessa, TFT13_Garen, TFT13_Corki, TFT13_Corki, TFT13_Rumble"
+    },
+    "EUW1_7238288542": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Trundle, TFT13_Tristana, TFT13_Sett, TFT13_Ezreal, TFT13_Chainsaw, TFT13_NunuWillump, tft13_elise, TFT13_Warwick, TFT13_Viktor"
+    },
+    "EUW1_7249503673": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Malzahar, TFT13_Viktor"
+    }
+}

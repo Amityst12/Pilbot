@@ -1,0 +1,17 @@
+{
+    "EUW1_7254592034": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Urgot, tft13_swain, TFT13_Gangplank, tft13_elise, TFT13_Vi, TFT13_Jayce, TFT13_Lieutenant, TFT13_Caitlyn, TFT13_Viktor, TFT13_JayceSummon"
+    },
+    "EUW1_7247024054": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Rell, TFT13_Tristana, TFT13_Ezreal, TFT13_Beardy, TFT13_Corki, TFT13_Rumble"
+    },
+    "EUW1_7241967617": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_TwistedFate, TFT13_Ambessa, TFT13_DrMundo, TFT13_Malzahar"
+    }
+}

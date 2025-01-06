@@ -8,5 +8,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Prime, TFT13_Gangplank, TFT13_Vi, TFT13_Lieutenant, TFT13_Warwick"
+    },
+    "EUN1_3711864340": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Tristana, TFT13_Urgot, TFT13_Prime, TFT13_Gangplank, TFT13_Vi, TFT13_Lieutenant, TFT13_Warwick"
     }
 }

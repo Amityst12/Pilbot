@@ -1,0 +1,12 @@
+{
+    "EUW1_7253421400": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Urgot, TFT13_NunuWillump, TFT13_Gangplank, TFT13_Elise, TFT13_Twitch, TFT13_Corki"
+    },
+    "EUW1_7235189254": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Leona, TFT13_Rell, TFT13_Ezreal, TFT13_Heimerdinger, TFT13_Illaoi, TFT13_Corki, TFT13_Jayce, TFT13_Rumble, TFT13_MissMage, TFT13_JayceSummon"
+    }
+}

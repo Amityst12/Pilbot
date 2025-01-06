@@ -1,0 +1,12 @@
+{
+    "EUW1_7253780458": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Singed, TFT13_Irelia, TFT13_Vex, TFT13_Rell, TFT13_RenataGlasc, TFT13_Beardy, TFT13_Illaoi, TFT13_Rumble"
+    },
+    "EUW1_7204727226": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Fish, TFT13_Shooter, TFT13_Shooter, TFT13_Camille, TFT13_Beardy, TFT13_TwistedFate, TFT13_Illaoi, TFT13_Vi"
+    }
+}

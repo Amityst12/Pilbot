@@ -1,0 +1,17 @@
+{
+    "EUW1_7229541038": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Darius, TFT13_Vladimir, TFT13_Prime, TFT13_Zeri, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Garen"
+    },
+    "EUW1_7253030785": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Ambessa"
+    },
+    "EUW1_7249503673": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Urgot, TFT13_Blitzcrank, TFT13_NunuWillump, TFT13_Gangplank, TFT13_Elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Corki, TFT13_Malzahar"
+    }
+}

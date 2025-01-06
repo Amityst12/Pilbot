@@ -13,5 +13,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Singed, TFT13_Irelia, TFT13_Vex, TFT13_Leona, TFT13_Rell, TFT13_RenataGlasc, TFT13_Ezreal, TFT13_Heimerdinger, TFT13_Illaoi"
+    },
+    "EUN1_3712193620": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Viktor, TFT13_Sion"
     }
 }

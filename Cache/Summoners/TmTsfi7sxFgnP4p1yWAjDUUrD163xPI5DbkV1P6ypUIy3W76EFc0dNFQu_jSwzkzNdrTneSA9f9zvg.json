@@ -13,5 +13,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Urgot, TFT13_Prime, TFT13_Gangplank, TFT13_Ambessa"
+    },
+    "EUN1_3720473374": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Trundle, TFT13_Ziggs, TFT13_Blitzcrank, TFT13_Gangplank, tft13_elise, TFT13_Ekko, TFT13_Corki"
     }
 }

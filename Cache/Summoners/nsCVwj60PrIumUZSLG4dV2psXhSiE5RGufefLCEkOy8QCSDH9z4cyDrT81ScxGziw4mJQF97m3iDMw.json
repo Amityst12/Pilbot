@@ -1,0 +1,17 @@
+{
+    "EUW1_7248412118": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_TwistedFate, tft13_elise, TFT13_Ambessa, TFT13_Jayce, TFT13_Malzahar, TFT13_JayceSummon"
+    },
+    "EUW1_7248365870": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Rell, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Garen, TFT13_Malzahar, TFT13_Caitlyn, TFT13_MissMage"
+    },
+    "EUW1_7246963270": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Ziggs, TFT13_Blitzcrank, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_Garen, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion"
+    }
+}

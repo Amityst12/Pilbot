@@ -1,0 +1,17 @@
+{
+    "EUN1_3717553316": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Singed, TFT13_Irelia, TFT13_Vex, TFT13_Leona, TFT13_Rell, TFT13_RenataGlasc, TFT13_Illaoi, TFT13_Rumble"
+    },
+    "EUN1_3716937943": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Singed, TFT13_Irelia, TFT13_Vex, TFT13_Leona, TFT13_Rell, TFT13_RenataGlasc, TFT13_Illaoi"
+    },
+    "EUN1_3716401631": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Singed, TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_RenataGlasc, TFT13_Heimerdinger"
+    }
+}

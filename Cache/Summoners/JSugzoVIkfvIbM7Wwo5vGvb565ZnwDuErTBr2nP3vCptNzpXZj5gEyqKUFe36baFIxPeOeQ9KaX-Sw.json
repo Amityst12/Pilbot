@@ -3,5 +3,10 @@
         "top4": true,
         "top1": true,
         "units": "TFT13_Zyra, TFT13_Rell, TFT13_Tristana, TFT13_Urgot, tft13_swain, TFT13_NunuWillump, TFT13_Gangplank, tft13_elise, TFT13_Rumble"
+    },
+    "EUN1_3718467686": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Ambessa"
     }
 }

@@ -8,5 +8,15 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Morgana, TFT13_Singed, TFT13_Irelia, TFT13_Rell, TFT13_RenataGlasc, TFT13_Illaoi, TFT13_Rumble"
+    },
+    "EUN1_3720924780": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, TFT13_Silco, TFT13_DrMundo, TFT13_Lieutenant, TFT13_Rumble"
+    },
+    "EUN1_3718815938": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_Rell, TFT13_RenataGlasc, TFT13_Ziggs, TFT13_Chainsaw, TFT13_Gremlin, TFT13_Silco"
     }
 }

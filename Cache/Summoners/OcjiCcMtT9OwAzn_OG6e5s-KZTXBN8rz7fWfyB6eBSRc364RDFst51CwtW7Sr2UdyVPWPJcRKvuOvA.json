@@ -3,5 +3,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Malzahar, TFT13_Viktor"
+    },
+    "EUN1_3714238607": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Lux, TFT13_Zyra, TFT13_Vladimir, tft13_swain, TFT13_Nami, tft13_elise, TFT13_Zoe, TFT13_LeBlanc, TFT13_Sion"
     }
 }

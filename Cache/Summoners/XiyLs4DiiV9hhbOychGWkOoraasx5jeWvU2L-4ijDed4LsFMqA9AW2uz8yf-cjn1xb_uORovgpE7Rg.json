@@ -8,5 +8,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Singed, TFT13_Irelia, TFT13_Vex, TFT13_Leona, TFT13_Rell, TFT13_RenataGlasc, TFT13_Warwick"
+    },
+    "EUN1_3717293418": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Vladimir, TFT13_Cassiopeia, TFT13_Elise, TFT13_Silco, TFT13_Garen, TFT13_DrMundo, TFT13_Jayce, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion, TFT13_JayceSummon"
     }
 }

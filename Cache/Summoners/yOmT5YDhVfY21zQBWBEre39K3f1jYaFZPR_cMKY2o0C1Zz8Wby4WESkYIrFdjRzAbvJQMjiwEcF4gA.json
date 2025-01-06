@@ -8,5 +8,10 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Vladimir, tft13_swain, TFT13_Blitzcrank, TFT13_Cassiopeia, TFT13_Chainsaw, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_Lieutenant, TFT13_MissMage, TFT13_Sion"
+    },
+    "EUN1_3718961012": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Fish, TFT13_Urgot, TFT13_Chainsaw, TFT13_NunuWillump, tft13_elise, TFT13_DrMundo, TFT13_Twitch"
     }
 }

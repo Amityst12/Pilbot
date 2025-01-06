@@ -3,5 +3,15 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Irelia, TFT13_Akali, TFT13_Sett, TFT13_Ezreal, TFT13_Illaoi, TFT13_Zoe, TFT13_Rumble, TFT13_Jinx"
+    },
+    "EUN1_3715915263": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Urgot, TFT13_Prime, TFT13_Gangplank, TFT13_Vi, TFT13_Lieutenant"
+    },
+    "EUN1_3684269153": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Elise, TFT12_Ashe, TFT12_Nilah, TFT12_Syndra, TFT12_Mordekaiser, TFT12_Mordekaiser, TFT12_TahmKench, TFT12_Nami"
     }
 }

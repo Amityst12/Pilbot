@@ -18,5 +18,35 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Zeri, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_Cassiopeia, TFT13_Garen, TFT13_Warwick"
+    },
+    "EUN1_3721079963": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Leona, TFT13_Tristana, TFT13_Urgot, TFT13_Ezreal, TFT13_Gangplank, TFT13_Beardy"
+    },
+    "EUN1_3720102205": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_Ezreal, TFT13_Heimerdinger, TFT13_Illaoi, TFT13_Corki, TFT13_Jayce, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUN1_3719858702": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Tristana, TFT13_Urgot, TFT13_Ezreal, TFT13_NunuWillump, TFT13_Gangplank, TFT13_Corki, TFT13_Jayce, TFT13_JayceSummon"
+    },
+    "EUN1_3714358686": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Lux, TFT13_Irelia, TFT13_Leona, TFT13_Ezreal, TFT13_Heimerdinger, TFT13_Illaoi, TFT13_Corki, TFT13_Jayce, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUN1_3714208162": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Prime, TFT13_Zeri, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Garen, TFT13_Ekko, TFT13_Caitlyn"
+    },
+    "EUN1_3684269153": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT12_Nomsy, TFT12_Blitzcrank, TFT12_Ziggs, TFT12_KogMaw, TFT12_Nunu, TFT12_Ahri, TFT12_Hecarim, TFT12_TahmKench"
     }
 }

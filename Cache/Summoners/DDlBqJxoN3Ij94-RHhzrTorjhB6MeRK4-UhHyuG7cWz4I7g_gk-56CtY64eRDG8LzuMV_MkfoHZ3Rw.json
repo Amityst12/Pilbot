@@ -158,5 +158,20 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Singed, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, TFT13_Silco, TFT13_Garen, TFT13_DrMundo, TFT13_Lieutenant, TFT13_Jinx"
+    },
+    "EUN1_3719800268": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_Cassiopeia, TFT13_TwistedFate, TFT13_Garen"
+    },
+    "EUN1_3719661546": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Urgot, TFT13_NunuWillump, tft13_elise, TFT13_Garen, TFT13_DrMundo, TFT13_Twitch, TFT13_Caitlyn, TFT13_Warwick, TFT13_Viktor, TFT13_MissMage"
+    },
+    "EUN1_3718991816": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Fish, TFT13_Shooter, TFT13_Camille, TFT13_Beardy, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Vi, TFT13_Lieutenant, TFT13_Caitlyn"
     }
 }

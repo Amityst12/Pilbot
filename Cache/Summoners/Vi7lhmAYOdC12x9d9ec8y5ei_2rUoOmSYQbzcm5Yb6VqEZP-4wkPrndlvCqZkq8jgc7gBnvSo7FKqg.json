@@ -28,5 +28,15 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Zeri, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Garen"
+    },
+    "EUN1_3719359028": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Tristana, TFT13_Nami, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Garen, TFT13_Illaoi, TFT13_Corki, TFT13_Rumble"
+    },
+    "EUN1_3683518360": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Elise, TFT12_Ashe, TFT12_Nilah, TFT12_Syndra, TFT12_Galio, TFT12_Vex, TFT12_Mordekaiser, TFT12_Nami, TFT12_Briar"
     }
 }

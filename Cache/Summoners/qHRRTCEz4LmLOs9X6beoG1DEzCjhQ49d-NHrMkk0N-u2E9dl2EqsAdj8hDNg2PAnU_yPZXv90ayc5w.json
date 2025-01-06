@@ -8,5 +8,15 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Zyra, TFT13_Tristana, TFT13_Urgot, TFT13_Ezreal, TFT13_NunuWillump, TFT13_Gangplank, tft13_elise, TFT13_Corki"
+    },
+    "EUN1_3719777983": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Trundle, TFT13_Fish, TFT13_Sett, TFT13_Chainsaw, TFT13_NunuWillump, tft13_elise, TFT13_DrMundo, TFT13_Twitch"
+    },
+    "EUN1_3719743949": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Fish, TFT13_Shooter, TFT13_Beardy, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Vi, TFT13_Lieutenant, TFT13_Caitlyn"
     }
 }

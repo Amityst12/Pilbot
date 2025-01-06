@@ -43,5 +43,15 @@
         "top4": true,
         "top1": true,
         "units": "TFT13_Zeri, TFT13_Camille, TFT13_Gremlin, TFT13_FlyGuy, TFT13_Beardy, TFT13_Garen, TFT13_Ekko, TFT13_Rumble, TFT13_Jinx, TFT13_Viktor"
+    },
+    "EUN1_3720527722": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Shooter, TFT13_Camille, TFT13_Beardy, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Vi, TFT13_Lieutenant, TFT13_Rumble, TFT13_Caitlyn"
+    },
+    "EUN1_3712259796": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Urgot, TFT13_NunuWillump, tft13_elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Vi, TFT13_Jayce, TFT13_Caitlyn, TFT13_MissMage, TFT13_JayceSummon"
     }
 }

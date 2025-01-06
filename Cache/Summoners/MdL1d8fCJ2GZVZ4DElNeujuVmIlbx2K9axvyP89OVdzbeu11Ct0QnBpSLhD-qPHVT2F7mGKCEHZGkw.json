@@ -1,0 +1,12 @@
+{
+    "EUW1_7237468927": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_Ezreal, TFT13_Heimerdinger, TFT13_Illaoi, TFT13_Corki, TFT13_Jayce, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUW1_7244277219": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Mordekaiser, TFT13_Lieutenant, TFT13_Lieutenant, TFT13_Lieutenant, TFT13_Lieutenant, TFT13_Rumble"
+    }
+}

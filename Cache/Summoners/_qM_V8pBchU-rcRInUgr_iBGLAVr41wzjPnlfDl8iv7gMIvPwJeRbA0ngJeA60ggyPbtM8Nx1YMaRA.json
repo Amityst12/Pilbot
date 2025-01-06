@@ -1,0 +1,12 @@
+{
+    "EUW1_7235494666": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Tristana, tft13_swain, TFT13_Nami, TFT13_Gangplank, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Garen, TFT13_Vi, TFT13_Rumble"
+    },
+    "EUW1_7220482803": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Blue, TFT13_Zeri, TFT13_Camille, TFT13_Gremlin, TFT13_FlyGuy, TFT13_Beardy, TFT13_Garen, TFT13_Ekko"
+    }
+}

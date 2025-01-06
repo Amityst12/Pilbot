@@ -13,5 +13,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Darius, TFT13_Draven, TFT13_Rell, tft13_swain, TFT13_Ambessa, TFT13_Mordekaiser, TFT13_Lieutenant, TFT13_Rumble, tft13_jinx"
+    },
+    "EUN1_3715838098": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_Ambessa, TFT13_Vi, TFT13_Malzahar, TFT13_Rumble"
     }
 }

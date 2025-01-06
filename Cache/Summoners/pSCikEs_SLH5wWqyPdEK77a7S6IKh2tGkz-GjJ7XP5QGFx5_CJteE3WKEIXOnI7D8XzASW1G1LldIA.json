@@ -13,5 +13,15 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Irelia, TFT13_Akali, TFT13_Sett, TFT13_Ezreal, TFT13_Illaoi, TFT13_Zoe, TFT13_LeBlanc, TFT13_Rumble"
+    },
+    "EUN1_3717381946": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Zeri, TFT13_NunuWillump, TFT13_Elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Mordekaiser, TFT13_Warwick"
+    },
+    "EUN1_3717293418": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Prime, TFT13_Zeri, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Garen"
     }
 }

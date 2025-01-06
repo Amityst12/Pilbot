@@ -1,0 +1,17 @@
+{
+    "EUW1_7248412118": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_Tristana, TFT13_Beardy, TFT13_Illaoi, TFT13_Corki"
+    },
+    "EUW1_7248365870": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Ziggs, TFT13_Blitzcrank, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Rumble, TFT13_Sion"
+    },
+    "EUW1_7241237118": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Morgana, TFT13_Darius, TFT13_Vladimir, TFT13_Prime, TFT13_Zeri, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Garen, TFT13_Sion"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "EUN1_3721045438": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Ziggs, tft13_swain, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Rumble, TFT13_Sion"
+    },
+    "EUN1_3721016303": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Lux, TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_Ezreal, TFT13_Beardy, TFT13_Illaoi, TFT13_Jayce, TFT13_Rumble, TFT13_JayceSummon"
+    }
+}

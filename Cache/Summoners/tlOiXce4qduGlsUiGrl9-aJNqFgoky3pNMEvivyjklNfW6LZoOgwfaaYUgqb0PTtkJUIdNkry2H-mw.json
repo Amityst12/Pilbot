@@ -1,0 +1,47 @@
+{
+    "EUW1_7227737451": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Irelia, TFT13_Vex, TFT13_Akali, TFT13_Sett, TFT13_Ezreal, TFT13_Ekko, TFT13_Illaoi, TFT13_Zoe, tft13_jinx"
+    },
+    "EUW1_7226335394": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Darius, TFT13_Prime, TFT13_Zeri, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Garen, TFT13_Twitch"
+    },
+    "EUW1_7226282027": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Leona, TFT13_Ziggs, TFT13_Blitzcrank, TFT13_Cassiopeia, TFT13_Elise, TFT13_Silco, TFT13_Garen, TFT13_DrMundo, TFT13_Mordekaiser, TFT13_Warwick"
+    },
+    "EUW1_7223287258": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Tristana, TFT13_Gangplank, tft13_elise, TFT13_Ekko, TFT13_Corki, TFT13_Lieutenant, TFT13_Rumble, TFT13_Warwick"
+    },
+    "EUW1_7206823970": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Vladimir, TFT13_Rell, TFT13_Cassiopeia, TFT13_NunuWillump, tft13_elise, TFT13_Jayce, TFT13_Malzahar, TFT13_LeBlanc, TFT13_Sion, TFT13_JayceSummon"
+    },
+    "EUW1_7205358649": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Shooter, TFT13_Urgot, TFT13_NunuWillump, tft13_elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Vi"
+    },
+    "EUW1_7248412118": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Urgot, TFT13_Prime, TFT13_Gangplank, TFT13_Vi, TFT13_Lieutenant, TFT13_Lieutenant"
+    },
+    "EUW1_7248365870": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Vladimir, TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_Ambessa, TFT13_Illaoi, TFT13_Mordekaiser, TFT13_Viktor"
+    },
+    "EUW1_7246963270": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Tristana, tft13_swain, TFT13_Nami, TFT13_Gangplank, TFT13_Ambessa, TFT13_Garen, TFT13_Illaoi, TFT13_Corki, TFT13_Vi"
+    }
+}

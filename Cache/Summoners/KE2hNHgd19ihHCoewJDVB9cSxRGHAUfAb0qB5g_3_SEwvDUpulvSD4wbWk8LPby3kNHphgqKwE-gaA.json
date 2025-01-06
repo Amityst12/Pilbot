@@ -1,0 +1,17 @@
+{
+    "EUN1_3688244344": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Zoe, TFT12_Poppy, TFT12_Zilean, TFT12_Cassiopeia, TFT12_Neeko, TFT12_Bard, TFT12_Fiora, TFT12_Ryze, TFT12_Taric"
+    },
+    "EUN1_3688225215": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Twitch, TFT12_Zilean, TFT12_KogMaw, TFT12_Jinx, TFT12_Bard, TFT12_Wukong, TFT12_Olaf"
+    },
+    "EUN1_3688197009": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT12_Seraphine, TFT12_Soraka, TFT12_Zilean, TFT12_Galio, TFT12_Vex, TFT12_Veigar, TFT12_Nami"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "EUW1_7226977100": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Darius, TFT13_Vladimir, TFT13_Prime, TFT13_FlyGuy, tft13_elise, TFT13_Garen, TFT13_LeBlanc, TFT13_MissMage, TFT13_Sion"
+    },
+    "EUW1_7226948410": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Lux, TFT13_Zyra, TFT13_Vladimir, tft13_swain, TFT13_Nami, tft13_elise, TFT13_Zoe, TFT13_LeBlanc, TFT13_Sion"
+    },
+    "EUW1_7226918217": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Zyra, TFT13_Red, TFT13_Tristana, TFT13_Urgot, TFT13_NunuWillump, TFT13_Gangplank, TFT13_Vi, TFT13_Lieutenant"
+    }
+}

@@ -3,5 +3,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Draven, TFT13_Zyra, TFT13_Red, TFT13_Tristana, TFT13_Urgot, TFT13_NunuWillump, TFT13_Gangplank, tft13_elise, TFT13_Vi"
+    },
+    "EUN1_3715615690": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Akali, TFT13_Sett, TFT13_Ekko, TFT13_Illaoi, TFT13_Zoe, TFT13_LeBlanc, TFT13_Rumble, tft13_jinx"
     }
 }

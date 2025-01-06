@@ -1,0 +1,27 @@
+{
+    "EUW1_7235226510": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zeri, TFT13_Camille, TFT13_NunuWillump, TFT13_Beardy, TFT13_DrMundo, TFT13_Twitch, TFT13_Ekko, TFT13_Rumble"
+    },
+    "EUW1_7222007938": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Zeri, TFT13_Camille, TFT13_Gremlin, TFT13_FlyGuy, TFT13_Beardy, TFT13_Garen, TFT13_Ekko"
+    },
+    "EUW1_7211855720": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Amumu, TFT13_Darius, TFT13_Vladimir, TFT13_Prime, TFT13_Zeri, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Garen"
+    },
+    "EUW1_7208545029": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Blue, TFT13_Trundle, TFT13_Camille, TFT13_Gangplank, tft13_elise, TFT13_Ekko, TFT13_Corki, TFT13_Rumble, TFT13_Jinx"
+    },
+    "EUW1_7205285726": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Trundle, TFT13_Ziggs, TFT13_Gangplank, tft13_elise, TFT13_Ekko, TFT13_Corki, TFT13_Mordekaiser, TFT13_Lieutenant, TFT13_Rumble, TFT13_Jinx"
+    }
+}

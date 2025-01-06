@@ -8,5 +8,15 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Prime, TFT13_Gangplank, TFT13_Vi"
+    },
+    "EUN1_3712905671": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Prime, TFT13_Zeri, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Garen, TFT13_Malzahar, TFT13_Viktor"
+    },
+    "EUN1_3712887201": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Vladimir, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Garen, TFT13_Viktor"
     }
 }

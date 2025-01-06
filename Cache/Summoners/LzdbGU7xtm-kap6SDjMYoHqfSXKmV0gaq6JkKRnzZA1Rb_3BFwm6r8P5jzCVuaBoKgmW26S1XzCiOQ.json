@@ -1,0 +1,22 @@
+{
+    "EUW1_7226556927": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Vex, TFT13_Akali, TFT13_Sett, TFT13_Ezreal, TFT13_Nami, TFT13_Illaoi, TFT13_Zoe"
+    },
+    "EUW1_7226749041": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Zeri, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_Garen, TFT13_Mordekaiser, TFT13_Viktor"
+    },
+    "EUW1_7226619314": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Blue, TFT13_Red, TFT13_Prime, TFT13_Ziggs, TFT13_Blitzcrank, TFT13_Gangplank, TFT13_Corki"
+    },
+    "EUW1_7224874661": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Tristana, TFT13_Akali, TFT13_Blitzcrank, TFT13_Nami, TFT13_Ambessa, TFT13_Garen, TFT13_Malzahar"
+    }
+}

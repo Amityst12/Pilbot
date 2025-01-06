@@ -23,5 +23,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Urgot, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_Ambessa"
+    },
+    "EUN1_3688197009": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT12_Rumble, TFT12_Hwei, TFT12_Hecarim, TFT12_Ezreal, TFT12_Shen, TFT12_TahmKench, TFT12_Nasus, TFT12_Varus, TFT12_Smolder"
     }
 }

@@ -1,0 +1,17 @@
+{
+    "EUN1_3717253547": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Singed, TFT13_Irelia, TFT13_Vex, TFT13_Rell, TFT13_RenataGlasc, TFT13_Beardy, TFT13_Illaoi, TFT13_Rumble"
+    },
+    "EUN1_3717225536": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_Lieutenant"
+    },
+    "EUN1_3716984244": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Trundle, TFT13_Urgot, tft13_swain, TFT13_Gangplank, TFT13_Ekko, TFT13_Corki, TFT13_Vi, TFT13_Jinx"
+    }
+}

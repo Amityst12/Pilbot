@@ -1,0 +1,12 @@
+{
+    "EUW1_7228392282": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_Irelia, TFT13_Rell, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_NunuWillump, TFT13_Heimerdinger, TFT13_Illaoi"
+    },
+    "EUW1_7222834911": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Trundle, TFT13_Sett, TFT13_Chainsaw, TFT13_NunuWillump, tft13_elise, TFT13_Ambessa, TFT13_DrMundo, TFT13_Twitch, TFT13_Caitlyn"
+    }
+}

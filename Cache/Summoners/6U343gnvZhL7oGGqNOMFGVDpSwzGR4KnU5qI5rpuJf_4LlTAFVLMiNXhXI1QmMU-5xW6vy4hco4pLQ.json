@@ -8,5 +8,25 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Vladimir, TFT13_Cassiopeia, TFT13_Elise, TFT13_Silco, TFT13_Garen, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Viktor, TFT13_Sion"
+    },
+    "EUN1_3714286930": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Ziggs, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_Jayce, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Viktor, TFT13_Sion, TFT13_JayceSummon"
+    },
+    "EUN1_3713961457": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Vladimir, TFT13_Ziggs, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_Mordekaiser, TFT13_Sion"
+    },
+    "EUN1_3710796882": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Fish, TFT13_Sett, TFT13_Chainsaw, TFT13_NunuWillump, tft13_elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Mordekaiser, TFT13_Caitlyn"
+    },
+    "EUN1_3686131262": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Elise, TFT12_Nilah, TFT12_Syndra, TFT12_Vex, TFT12_Mordekaiser, TFT12_Karma, TFT12_Nami, TFT12_Camille, TFT12_Norra, TFT12_Yuumi"
     }
 }

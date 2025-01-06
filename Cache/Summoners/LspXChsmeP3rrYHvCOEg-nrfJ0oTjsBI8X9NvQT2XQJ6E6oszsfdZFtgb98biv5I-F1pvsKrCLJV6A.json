@@ -8,5 +8,15 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Shooter, TFT13_Sett, TFT13_Chainsaw, TFT13_NunuWillump, tft13_elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Jayce, TFT13_JayceSummon"
+    },
+    "EUN1_3684280232": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Warwick, TFT12_Zilean, TFT12_Hwei, TFT12_Swain, TFT12_Olaf, TFT12_Taric, TFT12_Briar"
+    },
+    "EUN1_3684249845": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Elise, TFT12_Nilah, TFT12_Syndra, TFT12_Galio, TFT12_Vex, TFT12_Mordekaiser, TFT12_Karma, TFT12_Nami"
     }
 }

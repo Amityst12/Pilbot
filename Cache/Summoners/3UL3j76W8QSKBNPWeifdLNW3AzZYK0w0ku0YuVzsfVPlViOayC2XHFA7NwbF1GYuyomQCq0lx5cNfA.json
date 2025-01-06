@@ -1,0 +1,12 @@
+{
+    "EUW1_7225939704": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Prime, TFT13_Blitzcrank, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_Mordekaiser, TFT13_Sion"
+    },
+    "EUW1_7248159746": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Rell, tft13_swain, TFT13_Gangplank, tft13_elise, TFT13_Ambessa, TFT13_Jayce, TFT13_Mordekaiser, TFT13_Rumble, TFT13_JayceSummon"
+    }
+}

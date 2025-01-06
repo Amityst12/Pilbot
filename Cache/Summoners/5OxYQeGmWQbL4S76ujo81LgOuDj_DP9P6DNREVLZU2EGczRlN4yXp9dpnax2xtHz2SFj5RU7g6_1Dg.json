@@ -1,0 +1,27 @@
+{
+    "EUW1_7223321146": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Ziggs, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_Cassiopeia, TFT13_Silco, TFT13_DrMundo, TFT13_Mordekaiser"
+    },
+    "EUW1_7223226513": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zeri, tft13_swain, TFT13_Cassiopeia, TFT13_NunuWillump, TFT13_FlyGuy, tft13_elise, TFT13_Garen, TFT13_DrMundo, TFT13_Twitch, TFT13_Malzahar"
+    },
+    "EUW1_7223219505": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Tristana, TFT13_Prime, tft13_swain, TFT13_Nami, TFT13_Gangplank, TFT13_Ambessa, TFT13_Garen, TFT13_Corki, TFT13_Warwick"
+    },
+    "EUW1_7207966426": {
+        "top4": false,
+        "top1": false,
+        "units": "tft13_swain, TFT13_NunuWillump, TFT13_Gangplank, tft13_elise, TFT13_DrMundo, TFT13_Jayce, TFT13_Malzahar, TFT13_Mordekaiser, TFT13_Caitlyn, TFT13_JayceSummon"
+    },
+    "EUW1_7245375134": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Viktor"
+    }
+}

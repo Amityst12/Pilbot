@@ -3,5 +3,10 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Blue, TFT13_Red, TFT13_Prime, TFT13_Camille, TFT13_Gremlin, TFT13_Ekko, TFT13_Vi, TFT13_Viktor"
+    },
+    "EUN1_3717314214": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Vex, TFT13_Akali, TFT13_Sett, TFT13_Zoe, TFT13_Jayce, TFT13_Rumble, TFT13_Rumble, TFT13_Viktor, TFT13_JayceSummon"
     }
 }

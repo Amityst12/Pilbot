@@ -8,5 +8,10 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Fish, TFT13_Shooter, TFT13_Beardy, TFT13_TwistedFate, tft13_elise, TFT13_Vi, TFT13_Jayce, TFT13_Caitlyn, TFT13_Viktor, TFT13_JayceSummon"
+    },
+    "EUN1_3712905671": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_NunuWillump, TFT13_Elise, TFT13_Garen, TFT13_DrMundo, TFT13_Twitch, TFT13_Jayce, TFT13_LeBlanc, TFT13_Caitlyn, TFT13_Sion, TFT13_JayceSummon"
     }
 }

@@ -33,5 +33,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Draven, TFT13_Nocturne, TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_Ambessa, TFT13_Malzahar, TFT13_Rumble"
+    },
+    "EUN1_3721299303": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_RenataGlasc, TFT13_Cassiopeia, TFT13_Chainsaw, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_Jayce, TFT13_LeBlanc, TFT13_Rumble, TFT13_Sion, TFT13_JayceSummon"
     }
 }

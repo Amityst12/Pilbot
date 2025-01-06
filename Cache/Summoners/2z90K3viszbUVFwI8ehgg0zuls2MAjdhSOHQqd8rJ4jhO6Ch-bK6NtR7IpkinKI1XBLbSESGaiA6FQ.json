@@ -3,5 +3,15 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Blue, TFT13_Trundle, TFT13_Tristana, TFT13_Gangplank, TFT13_Elise, TFT13_Ekko, TFT13_Illaoi, TFT13_Corki"
+    },
+    "EUN1_3719854215": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Lux, TFT13_Leona, TFT13_Ezreal, TFT13_Beardy, TFT13_Heimerdinger, TFT13_Illaoi, TFT13_Corki, TFT13_Rumble"
+    },
+    "EUN1_3717650172": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Vex, TFT13_Tristana, TFT13_Urgot, TFT13_Ezreal, TFT13_NunuWillump, TFT13_Gangplank, tft13_elise, TFT13_Corki"
     }
 }

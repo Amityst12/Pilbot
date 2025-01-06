@@ -1,0 +1,12 @@
+{
+    "EUW1_7243623990": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Fish, TFT13_Shooter, TFT13_Camille, TFT13_Beardy, TFT13_TwistedFate, TFT13_Illaoi, TFT13_Vi, TFT13_Rumble, TFT13_Caitlyn, TFT13_MissMage"
+    },
+    "EUW1_7243563650": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Trundle, TFT13_Rell, tft13_swain, TFT13_NunuWillump, TFT13_Gangplank, TFT13_Ekko, TFT13_Corki"
+    }
+}

@@ -3,5 +3,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Rell, TFT13_Tristana, TFT13_Urgot, TFT13_Sett, tft13_elise, TFT13_Illaoi"
+    },
+    "EUN1_3719840203": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Viktor"
     }
 }

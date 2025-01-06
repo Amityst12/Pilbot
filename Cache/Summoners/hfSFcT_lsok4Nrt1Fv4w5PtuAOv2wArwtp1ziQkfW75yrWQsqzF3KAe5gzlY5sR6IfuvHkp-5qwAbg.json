@@ -3,5 +3,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Singed, TFT13_Trundle, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, TFT13_Silco, TFT13_Twitch, TFT13_Rumble"
+    },
+    "EUN1_3717381946": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_Ambessa, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Mordekaiser"
     }
 }

@@ -1,0 +1,22 @@
+{
+    "EUW1_7254187798": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Blitzcrank, TFT13_Cassiopeia, TFT13_Elise, TFT13_Silco, TFT13_Garen, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion"
+    },
+    "EUW1_7215689443": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_Blue, TFT13_Camille, TFT13_Gremlin, TFT13_FlyGuy, TFT13_Beardy, TFT13_Ekko, TFT13_Jinx"
+    },
+    "EUW1_7213113538": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Leona, TFT13_Camille, TFT13_Gremlin, TFT13_FlyGuy, TFT13_Beardy, TFT13_Ekko, TFT13_Rumble, TFT13_Jinx"
+    },
+    "EUW1_7248934900": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Vladimir, tft13_swain, TFT13_Blitzcrank, TFT13_Elise, TFT13_Garen, TFT13_Malzahar, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion"
+    }
+}

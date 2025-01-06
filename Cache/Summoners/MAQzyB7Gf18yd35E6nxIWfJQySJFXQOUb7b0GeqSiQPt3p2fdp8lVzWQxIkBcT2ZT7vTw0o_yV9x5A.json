@@ -1,0 +1,17 @@
+{
+    "EUN1_3717253547": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Malzahar, TFT13_Mordekaiser"
+    },
+    "EUN1_3717225536": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Lux, TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_Ezreal, TFT13_Heimerdinger, TFT13_Illaoi, TFT13_Jayce, TFT13_JayceSummon"
+    },
+    "EUN1_3716984244": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Rell, TFT13_Cassiopeia, TFT13_Chainsaw, TFT13_NunuWillump, TFT13_Heimerdinger, TFT13_Elise, TFT13_LeBlanc, TFT13_Sion"
+    }
+}

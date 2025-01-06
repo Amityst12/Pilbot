@@ -1,0 +1,17 @@
+{
+    "EUW1_7226977100": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_TwistedFate, TFT13_Ambessa, TFT13_DrMundo, TFT13_Malzahar"
+    },
+    "EUW1_7226749041": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Tristana, TFT13_Nami, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Garen, TFT13_Vi, TFT13_Lieutenant"
+    },
+    "EUW1_7226021190": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Vladimir, TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_Ambessa, TFT13_Mordekaiser, TFT13_Rumble"
+    }
+}

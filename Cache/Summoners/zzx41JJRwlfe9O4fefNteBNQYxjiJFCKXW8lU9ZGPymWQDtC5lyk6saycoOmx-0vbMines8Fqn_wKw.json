@@ -3,5 +3,50 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Irelia, TFT13_Sett, TFT13_Ezreal, TFT13_Nami, TFT13_Illaoi, TFT13_Zoe, TFT13_Rumble, TFT13_Jinx"
+    },
+    "EUN1_3720735307": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Trundle, TFT13_Fish, TFT13_Shooter, TFT13_Sett, TFT13_Chainsaw, TFT13_NunuWillump, TFT13_Beardy, TFT13_Elise, TFT13_Caitlyn"
+    },
+    "EUN1_3720722503": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Malzahar, TFT13_Caitlyn"
+    },
+    "EUN1_3720711438": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, TFT13_Ambessa, TFT13_Silco, TFT13_Mordekaiser, TFT13_Lieutenant, TFT13_MissMage"
+    },
+    "EUN1_3720691775": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_Elise, TFT13_Ambessa, TFT13_Jayce, TFT13_Mordekaiser, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUN1_3720667030": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Fish, TFT13_Shooter, TFT13_Camille, TFT13_Beardy, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Vi, TFT13_Lieutenant"
+    },
+    "EUN1_3720431029": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Rell, TFT13_Tristana, TFT13_Urgot, TFT13_Ezreal, TFT13_Nami, TFT13_Ambessa, TFT13_Garen, TFT13_Corki, TFT13_Rumble"
+    },
+    "EUN1_3717502337": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Sett, TFT13_Ezreal, TFT13_Nami, TFT13_Ekko, TFT13_Illaoi, TFT13_Zoe, TFT13_Rumble, tft13_jinx"
+    },
+    "EUN1_3717313071": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Fish, TFT13_Shooter, TFT13_Camille, TFT13_Beardy, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Twitch, TFT13_Illaoi, TFT13_Vi, TFT13_Caitlyn"
+    },
+    "EUN1_3717279441": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Rell, TFT13_Tristana, TFT13_Urgot, TFT13_Ezreal, TFT13_Nami, TFT13_Ambessa, TFT13_Garen, TFT13_Corki, TFT13_Rumble"
     }
 }

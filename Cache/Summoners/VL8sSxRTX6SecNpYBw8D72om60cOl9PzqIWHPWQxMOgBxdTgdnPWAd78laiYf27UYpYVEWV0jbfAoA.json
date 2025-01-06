@@ -1,0 +1,12 @@
+{
+    "EUW1_7248338869": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Darius, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Viktor"
+    },
+    "EUW1_7243460838": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Morgana, TFT13_Singed, TFT13_Irelia, TFT13_Vex, TFT13_Leona, TFT13_Rell, TFT13_RenataGlasc, TFT13_Illaoi, TFT13_Malzahar, TFT13_Rumble"
+    }
+}

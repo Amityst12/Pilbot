@@ -3,5 +3,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Darius, TFT13_Draven, TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_TwistedFate, TFT13_Ambessa"
+    },
+    "EUN1_3717699389": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Ziggs, tft13_swain, TFT13_Gangplank, TFT13_Elise, TFT13_Ekko, TFT13_Vi, TFT13_Jayce, TFT13_Rumble, TFT13_JayceSummon"
     }
 }

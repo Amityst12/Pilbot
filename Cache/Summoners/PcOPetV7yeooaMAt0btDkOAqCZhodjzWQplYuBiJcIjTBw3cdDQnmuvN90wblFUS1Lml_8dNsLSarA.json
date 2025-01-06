@@ -8,5 +8,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Lux, TFT13_Leona, TFT13_Ezreal, TFT13_Beardy, TFT13_Heimerdinger, TFT13_Illaoi, TFT13_Corki, TFT13_Rumble"
+    },
+    "EUN1_3717662199": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_RenataGlasc, TFT13_Tristana, TFT13_Urgot, TFT13_NunuWillump, TFT13_Gangplank, tft13_elise, TFT13_Zoe, TFT13_Corki"
     }
 }

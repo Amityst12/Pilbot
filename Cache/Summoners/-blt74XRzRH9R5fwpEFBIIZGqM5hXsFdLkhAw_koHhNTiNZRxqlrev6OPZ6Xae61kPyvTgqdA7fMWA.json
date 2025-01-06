@@ -8,5 +8,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_DrMundo"
+    },
+    "EUN1_3710594735": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Trundle, TFT13_Tristana, TFT13_Gangplank, tft13_elise, TFT13_Ekko, TFT13_Illaoi, TFT13_Corki, TFT13_Rumble"
     }
 }

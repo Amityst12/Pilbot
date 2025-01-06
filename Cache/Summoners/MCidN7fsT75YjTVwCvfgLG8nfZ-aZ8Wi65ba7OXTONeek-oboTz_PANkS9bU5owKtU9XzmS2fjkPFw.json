@@ -8,5 +8,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Urgot, TFT13_Prime, tft13_swain, TFT13_Gangplank"
+    },
+    "EUN1_3688244344": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Seraphine, TFT12_Lillia, TFT12_Zilean, TFT12_Katarina, TFT12_Bard, TFT12_Rakan, TFT12_Kalista, TFT12_Camille"
     }
 }

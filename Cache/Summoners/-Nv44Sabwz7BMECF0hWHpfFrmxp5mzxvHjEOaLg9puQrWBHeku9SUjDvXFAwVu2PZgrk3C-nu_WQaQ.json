@@ -1,0 +1,12 @@
+{
+    "EUW1_7243623990": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, TFT13_NunuWillump, TFT13_Silco, TFT13_DrMundo, TFT13_Lieutenant"
+    },
+    "EUW1_7243563650": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Singed, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, TFT13_NunuWillump, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_Lieutenant"
+    }
+}

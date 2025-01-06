@@ -8,5 +8,10 @@
         "top4": true,
         "top1": true,
         "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_Garen, TFT13_Malzahar, TFT13_Caitlyn, TFT13_Warwick, TFT13_MissMage"
+    },
+    "EUN1_3717767442": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Vladimir, TFT13_Rell, TFT13_Cassiopeia, TFT13_Silco, TFT13_Garen, TFT13_Malzahar, TFT13_LeBlanc, TFT13_Rumble, TFT13_Sion"
     }
 }

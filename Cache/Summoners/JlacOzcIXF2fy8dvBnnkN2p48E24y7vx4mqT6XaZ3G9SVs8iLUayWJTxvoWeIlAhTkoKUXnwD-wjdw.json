@@ -3,5 +3,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Draven, TFT13_Singed, TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_Elise, TFT13_Jayce, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUN1_3711392433": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Warwick"
     }
 }

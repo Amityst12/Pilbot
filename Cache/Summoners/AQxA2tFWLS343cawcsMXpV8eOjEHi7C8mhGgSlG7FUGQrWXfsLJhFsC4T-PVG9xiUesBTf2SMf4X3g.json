@@ -13,5 +13,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Amumu, TFT13_Morgana, TFT13_Vladimir, TFT13_Prime, TFT13_Cassiopeia, TFT13_FlyGuy, TFT13_Garen, TFT13_LeBlanc, TFT13_Sion"
+    },
+    "EUN1_3721299303": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_Beardy, TFT13_Illaoi"
     }
 }

@@ -1,0 +1,12 @@
+{
+    "EUN1_3718101641": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Tristana, TFT13_Urgot, TFT13_Ezreal, TFT13_NunuWillump, TFT13_Gangplank, TFT13_Corki"
+    },
+    "EUN1_3717425811": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Darius, TFT13_Vladimir, TFT13_Prime, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Garen, TFT13_MissMage"
+    }
+}

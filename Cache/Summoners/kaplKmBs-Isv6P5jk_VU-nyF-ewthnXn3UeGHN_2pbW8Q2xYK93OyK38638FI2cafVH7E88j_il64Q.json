@@ -13,5 +13,55 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Irelia, TFT13_Akali, TFT13_Sett, TFT13_Ezreal, TFT13_Ekko, TFT13_Illaoi, TFT13_Zoe, TFT13_LeBlanc, TFT13_Rumble, tft13_jinx"
+    },
+    "EUN1_3718267280": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_Akali, TFT13_Sett, TFT13_Illaoi, TFT13_Zoe, TFT13_Jinx"
+    },
+    "EUN1_3716434080": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_Vladimir, TFT13_Blitzcrank, TFT13_Cassiopeia, TFT13_Chainsaw, TFT13_Elise, TFT13_Silco, TFT13_DrMundo, TFT13_Sion"
+    },
+    "EUN1_3716416737": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Vex, TFT13_Akali, TFT13_Sett, TFT13_Ezreal, TFT13_Ambessa, TFT13_Illaoi, TFT13_Zoe"
+    },
+    "EUN1_3716401631": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Akali, TFT13_Sett, TFT13_Ezreal, TFT13_Ekko, TFT13_Illaoi, TFT13_Zoe, TFT13_Rumble, TFT13_Jinx"
+    },
+    "EUN1_3716368756": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_FlyGuy, TFT13_Ambessa, TFT13_Malzahar, TFT13_MissMage, TFT13_Amumu"
+    },
+    "EUN1_3716245387": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Sett, TFT13_Ezreal, TFT13_Silco, TFT13_DrMundo, TFT13_Illaoi, TFT13_Zoe, tft13_jinx"
+    },
+    "EUN1_3716213458": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Zeri, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Ekko, tft13_jinx"
+    },
+    "EUN1_3715917443": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Tristana, TFT13_Akali, TFT13_Sett, TFT13_Ezreal, TFT13_Illaoi, TFT13_Zoe, TFT13_Zoe, tft13_jinx"
+    },
+    "EUN1_3715915263": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Leona, TFT13_Rell, TFT13_Ezreal, TFT13_Heimerdinger, TFT13_Illaoi, TFT13_Illaoi, TFT13_Corki, TFT13_Jayce, TFT13_JayceSummon"
+    },
+    "EUN1_3715361565": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Cassiopeia, TFT13_Chainsaw, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_Jayce, TFT13_Mordekaiser, TFT13_Lieutenant, TFT13_Sion, TFT13_JayceSummon, TFT13_Jayce"
     }
 }

@@ -68,5 +68,35 @@
         "top4": true,
         "top1": true,
         "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Malzahar"
+    },
+    "EUN1_3718938802": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Tristana, TFT13_Nami, TFT13_Gangplank, TFT13_Ambessa, TFT13_Garen, TFT13_Corki, TFT13_Jayce, TFT13_Mordekaiser, TFT13_JayceSummon"
+    },
+    "EUN1_3718903685": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Akali, TFT13_Camille, TFT13_Ezreal, TFT13_Ambessa, TFT13_Ekko, TFT13_Illaoi, TFT13_Zoe, TFT13_Lieutenant, tft13_jinx"
+    },
+    "EUN1_3712753657": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Vladimir, TFT13_Rell, tft13_swain, TFT13_Ambessa, TFT13_DrMundo, TFT13_Jayce, TFT13_Mordekaiser, TFT13_JayceSummon"
+    },
+    "EUN1_3712243537": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Prime, TFT13_Zeri, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Garen, TFT13_Ekko, TFT13_Rumble, TFT13_Viktor"
+    },
+    "EUN1_3712193620": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zeri, TFT13_NunuWillump, TFT13_FlyGuy, tft13_elise, TFT13_Garen, TFT13_DrMundo, TFT13_Twitch, TFT13_Jayce, TFT13_JayceSummon"
+    },
+    "EUN1_3711124354": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_NunuWillump, tft13_elise, TFT13_Garen, TFT13_DrMundo, TFT13_Twitch, TFT13_Vi, TFT13_Jayce, TFT13_Mordekaiser, TFT13_Caitlyn, TFT13_JayceSummon"
     }
 }

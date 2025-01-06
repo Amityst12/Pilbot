@@ -1,0 +1,122 @@
+{
+    "EUW1_7254681518": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Vladimir, TFT13_Ziggs, TFT13_Blitzcrank, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_MissMage, TFT13_Sion"
+    },
+    "EUW1_7254621587": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Shooter, TFT13_Camille, TFT13_Gremlin, TFT13_Ambessa, TFT13_Ekko, TFT13_Vi, TFT13_Jayce, TFT13_Caitlyn, TFT13_JayceSummon"
+    },
+    "EUW1_7254569226": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Rell, TFT13_Zeri, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Beardy, TFT13_Garen"
+    },
+    "EUW1_7238501713": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Zyra, TFT13_Urgot, TFT13_NunuWillump, tft13_elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Vi, TFT13_Jayce, TFT13_Caitlyn, TFT13_Warwick, TFT13_JayceSummon"
+    },
+    "EUW1_7238430667": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Lux, TFT13_Irelia, TFT13_Leona, TFT13_Ezreal, TFT13_Heimerdinger, TFT13_Illaoi, TFT13_Corki, TFT13_Jayce, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUW1_7237116875": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Tristana, tft13_swain, TFT13_Beardy, TFT13_Corki, TFT13_Vi, TFT13_Jayce, TFT13_LeBlanc, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUW1_7237072459": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Tristana, tft13_swain, TFT13_Nami, TFT13_Gangplank, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Garen, TFT13_Vi, TFT13_Viktor"
+    },
+    "EUW1_7237016042": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Darius, TFT13_Rell, tft13_swain, TFT13_Gangplank, tft13_elise, TFT13_Ambessa, TFT13_Jayce, TFT13_Mordekaiser, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUW1_7236961527": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Tristana, TFT13_Prime, TFT13_Gangplank"
+    },
+    "EUW1_7236905147": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Tristana, TFT13_Prime, TFT13_Gangplank, TFT13_Vi"
+    },
+    "EUW1_7236848912": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Lux, TFT13_Irelia, TFT13_Leona, TFT13_Tristana, TFT13_Ezreal, TFT13_Heimerdinger, TFT13_Illaoi, TFT13_Corki, TFT13_Jayce, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUW1_7227962844": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Rell, TFT13_Tristana, tft13_swain, TFT13_Nami, TFT13_Ambessa, TFT13_Garen, TFT13_Vi, TFT13_Mordekaiser, TFT13_Rumble"
+    },
+    "EUW1_7227891310": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Tristana, TFT13_Akali, tft13_swain, TFT13_Nami, TFT13_Gangplank, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Garen, TFT13_Vi"
+    },
+    "EUW1_7227778802": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Draven, TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_Ambessa, TFT13_Jayce, TFT13_Jayce, TFT13_Mordekaiser, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUW1_7226419809": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Urgot, TFT13_Prime, TFT13_Gangplank, TFT13_Vi, TFT13_Lieutenant"
+    },
+    "EUW1_7226367865": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Camille, TFT13_Gremlin, TFT13_FlyGuy, TFT13_Garen, TFT13_Ekko, TFT13_Ekko, TFT13_Jinx"
+    },
+    "EUW1_7225834989": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_Garen, TFT13_Malzahar, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Caitlyn"
+    },
+    "EUW1_7224582284": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Chainsaw, TFT13_Gremlin, tft13_elise, TFT13_Silco, TFT13_Garen, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion"
+    },
+    "EUW1_7226021190": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Tristana, tft13_swain, TFT13_Nami, TFT13_Gangplank, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Garen, TFT13_Lieutenant, TFT13_Warwick, TFT13_MissMage"
+    },
+    "EUW1_7211739611": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Trundle, TFT13_Gangplank, TFT13_Heimerdinger, TFT13_Ambessa, TFT13_Ekko, TFT13_Jayce, TFT13_Lieutenant, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUW1_7207582682": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Trundle, TFT13_Tristana, TFT13_Urgot, TFT13_Gangplank, TFT13_Elise, TFT13_Ekko, TFT13_Corki, TFT13_Rumble"
+    },
+    "EUW1_7206705797": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Tristana, TFT13_Urgot, TFT13_Prime, TFT13_Gangplank, TFT13_Vi"
+    },
+    "EUW1_7206072150": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_NunuWillump, TFT13_Elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Vi, TFT13_Jayce, TFT13_Malzahar, TFT13_Caitlyn, TFT13_JayceSummon"
+    },
+    "EUW1_7244154137": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Urgot, TFT13_NunuWillump, TFT13_Elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Vi, TFT13_Jayce, TFT13_Caitlyn, TFT13_JayceSummon"
+    }
+}

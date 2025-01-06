@@ -4,7 +4,7 @@ import json
 from discord.ext import commands
 import os
 from dotenv import load_dotenv
-from tft13Dicts import Champions_dict_tft13, Items_dict_tft13
+from tft13Dicts import Champions_dict_tft13, Items_dict_tft13, Champions_dict_traits_tft13
 from collections import Counter
 
 # Load the .env file
@@ -167,6 +167,43 @@ def AnalyzeGameUnits(GameData):
         
         unitsOnPlayersJSON(player["puuid"], units_list, GameData["metadata"]["match_id"], player["placement"])
 
+# Anaylyze selected amount of games for a player
+def AnalyzeSelected(PUUID, games):
+    if games <= 0: return
+    Match = getTFTmatches(PUUID, games)
+    if Match == False:
+        print("getTFTmatches went wrong.")
+        return
+
+    if len(Match) == 0:
+        print(f"No matches found for {PUUID}")
+        return
+    
+    for matches in Match:
+        Match_info = getTFTmatchInfo(matches)
+    
+    if tft_game_type[Match_info["info"]["tft_game_type"]] != "Hyper Roll" and tft_game_type[Match_info["info"]["tft_game_type"]] != "PVE":
+        if updateGamesAnalyzed(matches):
+            AnalyzeGameUnits(Match_info)
+    
+    print(f"Analyzed {games} game for : {PUUID}")
+ 
+# returns player's most played unit
+def favouriteUnitPlayer(PUUID,amount):
+    AnalyzeSelected(PUUID, 5)  # Assuming this function works as intended
+    player_data = readJSON(f"/Summoners/{PUUID}")  # Load the JSON data
+    units_counter = Counter()
+
+    for game in player_data.values():  # Iterate over the game data
+        units = game["units"]
+        if isinstance(units, str) and units != "":  # If units is a string (single item)
+            units_counter.update(units.split(", "))
+        elif isinstance(units, list) and units:  # If units is a list (1+ items)
+            units_counter.update(units)
+
+    most_common_units = units_counter.most_common(amount)
+    return most_common_units
+
 
 
 
@@ -222,17 +259,32 @@ def getSummonerInfoFromPUUID(PUUID):
     if response.status_code == 200:
         Summoner_data = response.json()
         return Summoner_data
-    else:
-        print(f"Could not reach getSummonerIdFromPUUID")
-        return False
+    
+    url = f"https://euw1.api.riotgames.com/lol/summoner/v4/summoners/by-puuid/{PUUID}?api_key={RIOT_API_KEY}"
+    response = requests.get(url)
+    if response.status_code == 200:
+        Summoner_data = response.json()
+        return Summoner_data
+    
+    print(f"Could not reach getSummonerInfoFromPUUID")
+    return False
 
 # Returns all TFT info for player
 def getTFTinfoFromSummonerId(summonerId):
     url = f"https://eun1.api.riotgames.com/tft/league/v1/entries/by-summoner/{summonerId}?api_key={RIOT_API_KEY}"
     response = requests.get(url)
-    if response.status_code ==200:
+    if response.status_code == 200:
         Player_data = response.json()
+        if Player_data:
+            return Player_data
+    
+    url = f"https://euw1.api.riotgames.com/tft/league/v1/entries/by-summoner/{summonerId}?api_key={RIOT_API_KEY}"
+    response = requests.get(url)
+    if response.status_code == 200:
+        Player_data = response.json()
+        print(url)
         return Player_data
+    
     print(f"Could not reach getTFTinfoFromSummonerId")
     return False
 
@@ -240,10 +292,16 @@ def getTFTinfoFromSummonerId(summonerId):
 def getSpectatorTFTFromPUUID(PUUID):
     url = f"https://eun1.api.riotgames.com/lol/spectator/tft/v5/active-games/by-puuid/{PUUID}?api_key={RIOT_API_KEY}"
     response = requests.get(url)
-    print(url)
     if response.status_code == 200:
         Match_data = response.json()
         return Match_data
+    
+    url = f"https://euw1.api.riotgames.com/lol/spectator/tft/v5/active-games/by-puuid/{PUUID}?api_key={RIOT_API_KEY}"
+    response = requests.get(url)
+    if response.status_code == 200:
+        Match_data = response.json()
+        return Match_data
+    
     print("Could not reach getSpectatorTFTFromPUUID")
     return False
 
@@ -300,15 +358,14 @@ async def on_command_error(ctx, error):
         await ctx.send("An unexpected error occurred, maybe an unrecognized command")
 
      
-     
 ## APP COMMANDS SECTION ##     
-     
+
 # Menu command for APP
 @bot.command()
 async def help(ctx):
     embed = discord.Embed(
         title=f"Hi, I am Pilbot",
-        description="•Get started with Pilbot by using the commands below.\n• Currently featuring EU only.",
+        description="• Get started with Pilbot by using the commands below.\n• Currently featuring EU only.",
         color=discord.Color.pink() 
     )
     embed.set_author(name= "Pilbot", icon_url=BOT_PICTURE, url="" )
@@ -322,6 +379,11 @@ async def help(ctx):
         name="📸**TFT profile (playerID) (playerTAG)**",
         value="• Check a tft profile! \n• Ranked? Double up? we got eveything.",
         inline=False
+    )
+    embed.add_field(
+        name="👨‍🏫**TFT unit (Unit Name)**",
+        value="• Check stats for a desired unit.",
+        inline=False
     )    
     embed.add_field(
         name="🏆**TFT history (playerID) (playerTAG) (1-10)**",
@@ -334,7 +396,7 @@ async def help(ctx):
         inline =False
     )
     embed.add_field(
-        name="**🛍TFT Pool, TFT Odds**",
+        name="**🛍TFT pool, TFT odds**",
         value="• How many three costs exists? I got you.\n • Rolling for a 3 star? got you too!",
         inline = False
     )
@@ -343,7 +405,7 @@ async def help(ctx):
         value="• Don't use spacebar on playerID,\n• Don't use '#' on playerTAG",
         inline=False
     )
-    embed.set_footer(text="App created by: Amityst12, using Riot's API")
+    embed.set_footer(text="App created by: Amityst12, using Riot's API.")
     await ctx.send(embed=embed)
 
 
@@ -354,6 +416,7 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
     summonerDATA = getSummonerInfoFromPUUID(PUUID)
     summonerID = summonerDATA["id"]
     summonerName = getSummonerNameFromPUUID(PUUID)
+    fav_unit = favouriteUnitPlayer(PUUID, 3)
     profile_icon = f"https://ddragon.leagueoflegends.com/cdn/14.24.1/img/profileicon/{summonerDATA["profileIconId"]}.png"
     if not PUUID or not summonerID:
         await ctx.send("Sorry, I couldn't find that summoner.")
@@ -385,7 +448,7 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
                 if x["inactive"] == True:
                     value +=f"\n **{summonerName} is inactive😕.**"
                 embed.add_field(
-                    name="•Double Up",
+                    name="• Double Up",
                     value=value,
                     inline=False
                 )
@@ -405,7 +468,7 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
                 if x["inactive"] == True:
                     value +=f"\n **{summonerName} is inactive😕.**"
                 embed.add_field(
-                    name="•Ranked",
+                    name="• Ranked",
                     value=value,
                     inline=False
                 )
@@ -417,7 +480,7 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
                 hrWR = round(hrWR, 2)
                 value =f"{x['ratedTier']}, {x['ratedRating']} Rating\n Top 4 W/R: {hrWR}%"
                 embed.add_field(
-                    name="•HyperRoll",
+                    name="• HyperRoll",
                     value= value,
                     inline=False
                 )
@@ -425,6 +488,16 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
     if not found_game:
         embed.description = f"Sorry, {summoner_name} did not play any game recently."
     else:
+        response_commonly = ""
+        for unit, count in fav_unit:
+            mapped_unit = Champions_dict_tft13.get(unit, unit)
+            if mapped_unit == "tft13_elise": mapped_unit = "Elise"
+            response_commonly += f"-**{mapped_unit}**\n"
+        embed.add_field(
+            name="• **Ranked favourite units:**",
+            value= response_commonly,
+            inline=False
+        )
         embed.set_thumbnail(url=profile_icon)
         embed.set_footer(text="Data retrieved from Riot Games API")
         
@@ -432,7 +505,7 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
     await ctx.send(embed=embed)
 
 
-# Current match
+# Current match command
 @bot.command()
 async def ingame(ctx, summoner_name: str, summoner_tag:str ="eune"):
     PUUID = getPUUID(summoner_name, summoner_tag)
@@ -481,7 +554,7 @@ async def ingame(ctx, summoner_name: str, summoner_tag:str ="eune"):
 @bot.command()
 async def history(ctx, summoner_name: str, summoner_tag: str = "eune", games: int = 1):
     PUUID = getPUUID(summoner_name, summoner_tag)
-    if PUUID == False :
+    if PUUID == False and games <= 10:
         print("getPUUID went wrong.")
         await ctx.send("Sorry, something went wrong.")
         return
@@ -544,7 +617,7 @@ async def history(ctx, summoner_name: str, summoner_tag: str = "eune", games: in
         gamecounter += 1
 
 
-        #await ctx.send(embed=embed)
+        await ctx.send(embed=embed)
         if tft_game_type[Match_info["info"]["tft_game_type"]] != "Hyper Roll" and tft_game_type[Match_info["info"]["tft_game_type"]] != "PVE":
             if updateGamesAnalyzed(matches):
                 AnalyzeGameUnits(Match_info)
@@ -588,6 +661,7 @@ async def Unit(ctx, unit: str, unit_: str = ""):
         return
     
     json_filename = f"Units/{Champions_dict_tft13_reversed[unit]}"
+    unit_icon = f"https://ap.tft.tools/img/face/{Champions_dict_tft13_reversed[unit]}.jpg"
     data = readJSON(json_filename)    
     
     # Initialize counters and variables
@@ -620,20 +694,20 @@ async def Unit(ctx, unit: str, unit_: str = ""):
     most_common_items = items_counter.most_common(5)
     # Prepare the response
     response = (
+        f"- Traits: {Champions_dict_traits_tft13[Champions_dict_tft13_reversed[unit]]}\n"
         f"- Top-4 rate: {top4_rate:.2f}%\n"
         f"- Top-1 rate: {top1_rate:.2f}%\n"
     )
-    
     embed = discord.Embed(
         title=f" Analysis for **{unit}**:",
         description= response ,
-        color=discord.Color.green()
-    )#.set_thumbnail(url = profile_icon)
+        color=discord.Color.red()
+    ).set_thumbnail(url = unit_icon)
     
     response_commonly = ""
     for item, count in most_common_items:
         if item in Items_dict_tft13.keys(): item = Items_dict_tft13[item]
-        response_commonly += f"- **{item}**: {round((count/game_count) * 100, 2)}% play rate\n"
+        response_commonly += f"- **{item}**: {round((count/game_count) * 100, 2)}% P/R\n"
         
     embed.add_field(
         name="•Most commonly used items:",

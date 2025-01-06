@@ -13,5 +13,25 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Tristana, tft13_swain, TFT13_Nami, TFT13_Gangplank, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Garen, TFT13_Corki"
+    },
+    "EUN1_3721401428": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Urgot, TFT13_Prime, TFT13_Gangplank, TFT13_Vi, TFT13_Lieutenant"
+    },
+    "EUN1_3719800268": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Blitzcrank, TFT13_Cassiopeia, TFT13_Silco, TFT13_Garen, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion"
+    },
+    "EUN1_3717314214": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Tristana, TFT13_Urgot, TFT13_Ezreal, TFT13_Nami, TFT13_Gangplank, TFT13_Ambessa, TFT13_Garen, TFT13_Corki"
+    },
+    "EUN1_3717428477": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Vladimir, TFT13_Blitzcrank, TFT13_NunuWillump, tft13_elise, TFT13_Ambessa, TFT13_Jayce, TFT13_Malzahar, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_JayceSummon, TFT13_Sion"
     }
 }

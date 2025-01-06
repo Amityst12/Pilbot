@@ -3,5 +3,10 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Irelia, TFT13_Sett, TFT13_Camille, TFT13_Nami, TFT13_Ekko, TFT13_Illaoi, TFT13_Zoe, tft13_jinx"
+    },
+    "EUN1_3709709063": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Shooter, TFT13_Leona, TFT13_Camille, TFT13_Beardy, TFT13_TwistedFate, TFT13_Illaoi, TFT13_Vi, TFT13_Rumble, TFT13_Caitlyn, TFT13_Viktor"
     }
 }

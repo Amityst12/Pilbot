@@ -1,0 +1,12 @@
+{
+    "EUN1_3717396379": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Urgot, TFT13_Prime, TFT13_Gangplank, TFT13_Vi, TFT13_Lieutenant"
+    },
+    "EUN1_3684347122": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Nomsy, TFT12_Elise, TFT12_Shyvana, TFT12_Swain, TFT12_Neeko, TFT12_Nasus, TFT12_Varus, TFT12_Smolder, TFT12_Briar"
+    }
+}

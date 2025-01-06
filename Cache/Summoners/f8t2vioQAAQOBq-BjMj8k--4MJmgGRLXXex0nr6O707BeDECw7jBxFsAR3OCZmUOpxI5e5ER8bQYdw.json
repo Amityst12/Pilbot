@@ -58,5 +58,35 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Morgana, TFT13_Vladimir, TFT13_Blitzcrank, TFT13_Cassiopeia, TFT13_Elise, TFT13_Silco, TFT13_Garen, TFT13_DrMundo, TFT13_Sion"
+    },
+    "EUN1_3718938802": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Tristana, TFT13_Gangplank, TFT13_Ekko, TFT13_Illaoi, TFT13_Corki, TFT13_Jayce, TFT13_Rumble, tft13_jinx, TFT13_Viktor, TFT13_JayceSummon"
+    },
+    "EUN1_3712720704": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Tristana, TFT13_Urgot, TFT13_Prime, TFT13_Gangplank, TFT13_Vi"
+    },
+    "EUN1_3712695868": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Vladimir, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_Mordekaiser, TFT13_Viktor, TFT13_Sion"
+    },
+    "EUN1_3712184442": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Shooter, TFT13_Urgot, TFT13_NunuWillump, TFT13_Elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Caitlyn, TFT13_Viktor"
+    },
+    "EUN1_3712176413": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Vex, TFT13_Leona, TFT13_Rell, TFT13_RenataGlasc, TFT13_Illaoi, TFT13_Viktor"
+    },
+    "EUN1_3711176457": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_Draven, TFT13_Blue, TFT13_Red, TFT13_Prime, TFT13_Gangplank, TFT13_Ambessa, TFT13_Vi"
     }
 }

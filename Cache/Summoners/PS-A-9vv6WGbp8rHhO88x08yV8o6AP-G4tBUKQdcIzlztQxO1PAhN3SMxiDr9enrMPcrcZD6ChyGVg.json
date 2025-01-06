@@ -8,5 +8,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Morgana, TFT13_Zyra, TFT13_Fish, TFT13_Leona, TFT13_FlyGuy"
+    },
+    "EUN1_3717808442": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Rell, tft13_swain, TFT13_Ambessa, TFT13_Vi, TFT13_Malzahar, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Rumble"
     }
 }

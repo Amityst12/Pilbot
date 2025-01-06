@@ -13,5 +13,10 @@
         "top4": true,
         "top1": true,
         "units": "TFT13_Singed, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, TFT13_Elise, TFT13_Silco, TFT13_DrMundo, TFT13_Lieutenant, TFT13_Warwick, TFT13_Viktor"
+    },
+    "EUN1_3684651183": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT12_Zoe, TFT12_Poppy, TFT12_Cassiopeia, TFT12_Neeko, TFT12_Fiora, TFT12_Gwen, TFT12_Ryze, TFT12_Taric, TFT12_Morgana, TFT12_Milio"
     }
 }

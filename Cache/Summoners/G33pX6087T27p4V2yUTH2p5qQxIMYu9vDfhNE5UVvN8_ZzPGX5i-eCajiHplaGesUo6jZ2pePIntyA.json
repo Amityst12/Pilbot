@@ -8,5 +8,15 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Vladimir, TFT13_Tristana, TFT13_Cassiopeia, TFT13_Nami, tft13_elise, TFT13_Ambessa, TFT13_Garen, TFT13_Corki, TFT13_Mordekaiser, TFT13_Viktor, TFT13_Sion"
+    },
+    "EUN1_3717767442": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Shooter, TFT13_NunuWillump, TFT13_Elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Vi, TFT13_Rumble, TFT13_Jinx"
+    },
+    "EUN1_3716580344": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Morgana, TFT13_Vladimir, TFT13_Ziggs, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion"
     }
 }

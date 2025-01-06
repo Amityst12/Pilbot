@@ -3,5 +3,10 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Blue, TFT13_Zeri, TFT13_Camille, TFT13_FlyGuy, TFT13_Garen, TFT13_Ekko, TFT13_Jinx, TFT13_Caitlyn"
+    },
+    "EUN1_3714238607": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Rell, TFT13_Tristana, TFT13_Nami, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Garen, TFT13_Corki, TFT13_Vi, TFT13_Rumble"
     }
 }

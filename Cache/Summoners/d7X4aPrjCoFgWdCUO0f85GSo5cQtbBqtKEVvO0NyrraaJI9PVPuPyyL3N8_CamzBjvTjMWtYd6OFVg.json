@@ -3,5 +3,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Singed, TFT13_Vex, TFT13_Rell, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Malzahar, TFT13_Rumble"
+    },
+    "EUN1_3715838098": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Leona, TFT13_Rell, TFT13_Tristana, TFT13_Ezreal, TFT13_Nami, TFT13_Ambessa, TFT13_Garen, TFT13_Vi"
     }
 }

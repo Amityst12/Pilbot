@@ -3,5 +3,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Amumu, TFT13_Shooter, TFT13_Vladimir, TFT13_Prime, TFT13_Zeri, TFT13_FlyGuy"
+    },
+    "EUN1_3714329805": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Zyra, TFT13_Fish, TFT13_Sett, TFT13_Chainsaw, TFT13_NunuWillump, tft13_elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Jayce, TFT13_Caitlyn, TFT13_JayceSummon"
     }
 }

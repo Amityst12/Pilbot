@@ -13,5 +13,15 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Vladimir, tft13_swain, TFT13_Blitzcrank, TFT13_Gangplank, TFT13_Elise, TFT13_Garen, TFT13_Jayce, TFT13_Mordekaiser, TFT13_JayceSummon"
+    },
+    "EUN1_3719019025": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Shooter, TFT13_Prime, TFT13_Zeri, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_FlyGuy, TFT13_Garen, TFT13_Malzahar, TFT13_Caitlyn"
+    },
+    "EUN1_3711124354": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Morgana, TFT13_Vladimir, TFT13_Cassiopeia, tft13_elise, TFT13_Silco, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_MissMage, TFT13_Sion"
     }
 }

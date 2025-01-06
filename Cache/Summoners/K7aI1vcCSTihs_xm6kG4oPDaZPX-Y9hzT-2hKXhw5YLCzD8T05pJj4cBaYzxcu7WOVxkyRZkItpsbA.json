@@ -18,5 +18,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Rell, TFT13_Blitzcrank, TFT13_Gangplank, TFT13_Garen, TFT13_Vi, TFT13_Jayce, TFT13_Malzahar, TFT13_Mordekaiser, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUN1_3684297254": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Nomsy, TFT12_Elise, TFT12_Shyvana, TFT12_Swain, TFT12_Neeko, TFT12_Nasus, TFT12_Varus, TFT12_Olaf, TFT12_Smolder"
     }
 }

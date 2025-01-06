@@ -13,5 +13,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Draven, TFT13_Nocturne, TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_Ambessa, TFT13_Mordekaiser, TFT13_Lieutenant"
+    },
+    "EUN1_3719768098": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Tristana, TFT13_Tristana, TFT13_Prime, TFT13_Nami, TFT13_FlyGuy, TFT13_Garen"
     }
 }

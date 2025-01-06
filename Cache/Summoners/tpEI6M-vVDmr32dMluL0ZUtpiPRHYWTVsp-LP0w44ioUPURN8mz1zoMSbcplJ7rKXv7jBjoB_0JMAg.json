@@ -3,5 +3,15 @@
         "top4": true,
         "top1": true,
         "units": "TFT13_Singed, TFT13_RenataGlasc, TFT13_Chainsaw, tft13_elise, TFT13_Ambessa, TFT13_Silco, TFT13_Jayce, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Rumble, TFT13_JayceSummon"
+    },
+    "EUN1_3718267280": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_KogMaw, TFT13_Chainsaw, TFT13_Elise, TFT13_Silco, TFT13_Jayce, TFT13_Mordekaiser, TFT13_Rumble, TFT13_Warwick, TFT13_Viktor, TFT13_JayceSummon"
+    },
+    "EUN1_3717767442": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Vladimir, tft13_swain, TFT13_Elise, TFT13_Garen, TFT13_Illaoi, TFT13_Zoe, TFT13_Jayce, TFT13_LeBlanc, TFT13_Rumble, TFT13_Jinx, TFT13_Sion, TFT13_JayceSummon"
     }
 }

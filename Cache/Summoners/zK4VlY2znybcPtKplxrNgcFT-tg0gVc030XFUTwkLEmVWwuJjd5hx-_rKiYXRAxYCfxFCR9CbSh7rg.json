@@ -3,5 +3,10 @@
         "top4": true,
         "top1": true,
         "units": "TFT13_Fish, TFT13_Shooter, TFT13_Camille, TFT13_Beardy, TFT13_Vi, TFT13_Lieutenant, TFT13_Rumble, TFT13_Caitlyn, TFT13_MissMage"
+    },
+    "EUN1_3709739815": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Urgot, tft13_swain, TFT13_Gangplank, tft13_elise, TFT13_Ambessa, TFT13_Vi, TFT13_Lieutenant"
     }
 }

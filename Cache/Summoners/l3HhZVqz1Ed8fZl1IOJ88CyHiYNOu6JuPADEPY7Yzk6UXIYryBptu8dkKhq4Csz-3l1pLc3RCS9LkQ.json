@@ -3,5 +3,15 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Blue, TFT13_Ziggs, TFT13_Blitzcrank, TFT13_Gangplank, TFT13_Ambessa, TFT13_DrMundo, TFT13_Corki, TFT13_Mordekaiser, TFT13_Rumble"
+    },
+    "EUN1_3717381946": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Vladimir, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_DrMundo, TFT13_Malzahar, TFT13_LeBlanc, TFT13_Caitlyn, TFT13_Viktor, TFT13_Sion"
+    },
+    "EUN1_3715666976": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Fish, TFT13_Shooter, TFT13_Vladimir, TFT13_Camille, TFT13_Beardy, TFT13_TwistedFate, TFT13_Illaoi, TFT13_Vi, TFT13_Viktor"
     }
 }

@@ -3,5 +3,15 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Draven, TFT13_Rell, TFT13_Ziggs, tft13_swain, TFT13_Gangplank, TFT13_Ambessa, TFT13_Vi, TFT13_Mordekaiser"
+    },
+    "EUN1_3718079770": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Akali, TFT13_Blitzcrank, TFT13_Cassiopeia, TFT13_TwistedFate"
+    },
+    "EUN1_3717748458": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Fish, TFT13_Shooter, TFT13_Camille, TFT13_Gangplank, TFT13_Beardy, TFT13_TwistedFate, TFT13_Vi, TFT13_Rumble, TFT13_Caitlyn"
     }
 }

@@ -8,5 +8,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Darius, TFT13_Draven, TFT13_Rell, tft13_swain, TFT13_Gangplank, TFT13_Ambessa, TFT13_Mordekaiser, TFT13_Rumble, TFT13_Viktor"
+    },
+    "EUN1_3717361308": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Urgot, TFT13_Zeri, TFT13_NunuWillump, TFT13_Beardy, TFT13_DrMundo, TFT13_Twitch, TFT13_Rumble"
     }
 }

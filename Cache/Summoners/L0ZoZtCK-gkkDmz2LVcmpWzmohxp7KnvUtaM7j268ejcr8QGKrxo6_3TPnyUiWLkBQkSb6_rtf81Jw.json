@@ -1,0 +1,12 @@
+{
+    "EUN1_3684651183": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT12_Twitch, TFT12_Jax, TFT12_Zilean, TFT12_KogMaw, TFT12_Jinx, TFT12_Bard, TFT12_Wukong, TFT12_Olaf"
+    },
+    "EUN1_3684630868": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT12_Zoe, TFT12_Lillia, TFT12_Poppy, TFT12_Ahri, TFT12_Hecarim, TFT12_Shen, TFT12_Ryze, TFT12_Taric"
+    }
+}

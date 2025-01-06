@@ -13,5 +13,30 @@
         "top4": true,
         "top1": true,
         "units": "TFT13_Zeri, TFT13_Camille, TFT13_Gremlin, TFT13_FlyGuy, TFT13_Garen, TFT13_Ekko, TFT13_Vi, TFT13_Rumble, TFT13_Jinx"
+    },
+    "EUN1_3718922489": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Trundle, TFT13_Urgot, TFT13_NunuWillump, tft13_elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Jayce, TFT13_Caitlyn, TFT13_JayceSummon"
+    },
+    "EUN1_3719730243": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Zyra, TFT13_Shooter, TFT13_Urgot, TFT13_NunuWillump, tft13_elise, TFT13_Garen, TFT13_DrMundo, TFT13_Twitch"
+    },
+    "EUN1_3714916342": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Fish, TFT13_Shooter, TFT13_Zeri, TFT13_Camille, TFT13_Beardy, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Vi, TFT13_Caitlyn"
+    },
+    "EUN1_3684269153": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT12_Nomsy, TFT12_Elise, TFT12_Jayce, TFT12_Shyvana, TFT12_Swain, TFT12_Neeko, TFT12_Nasus, TFT12_Smolder, TFT12_Briar"
+    },
+    "EUN1_3684221001": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT12_Nomsy, TFT12_Elise, TFT12_Jayce, TFT12_Shyvana, TFT12_Swain, TFT12_Neeko, TFT12_Nasus, TFT12_Smolder, TFT12_Briar"
     }
 }

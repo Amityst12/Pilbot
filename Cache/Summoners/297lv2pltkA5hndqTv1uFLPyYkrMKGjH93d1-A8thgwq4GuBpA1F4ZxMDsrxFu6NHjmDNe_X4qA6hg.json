@@ -28,5 +28,15 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Irelia, TFT13_Sett, TFT13_Ezreal, TFT13_Nami, TFT13_Elise, TFT13_Ekko, TFT13_Illaoi, TFT13_Zoe, TFT13_Jinx"
+    },
+    "EUN1_3721053295": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Tristana, TFT13_Sett, TFT13_Chainsaw, TFT13_NunuWillump, tft13_elise, TFT13_DrMundo, TFT13_Twitch, TFT13_Corki"
+    },
+    "EUN1_3720892075": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Irelia, TFT13_Akali, TFT13_Sett, TFT13_Ezreal, TFT13_Ekko, TFT13_Illaoi, TFT13_Zoe, TFT13_Lieutenant, TFT13_Rumble, tft13_jinx"
     }
 }

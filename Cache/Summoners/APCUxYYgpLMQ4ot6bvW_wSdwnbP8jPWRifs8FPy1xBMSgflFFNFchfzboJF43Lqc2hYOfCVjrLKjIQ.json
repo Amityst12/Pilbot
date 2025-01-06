@@ -3,5 +3,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Trundle, TFT13_Fish, TFT13_Urgot, TFT13_Sett, TFT13_Chainsaw, TFT13_NunuWillump, TFT13_Twitch, TFT13_Caitlyn"
+    },
+    "EUN1_3718889312": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, tft13_elise, TFT13_Silco, TFT13_Mordekaiser, TFT13_Lieutenant, TFT13_Rumble, TFT13_MissMage"
     }
 }

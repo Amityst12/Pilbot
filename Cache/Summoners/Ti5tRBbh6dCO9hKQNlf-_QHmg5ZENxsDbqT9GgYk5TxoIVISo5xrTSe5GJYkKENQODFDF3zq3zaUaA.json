@@ -1,0 +1,12 @@
+{
+    "EUN1_3684269153": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT12_Rumble, TFT12_Galio, TFT12_Hwei, TFT12_Hecarim, TFT12_Ezreal, TFT12_Mordekaiser, TFT12_TahmKench, TFT12_Varus"
+    },
+    "EUN1_3684249845": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT12_Tristana, TFT12_Rumble, TFT12_Galio, TFT12_Hwei, TFT12_Ezreal, TFT12_Mordekaiser, TFT12_TahmKench"
+    }
+}
