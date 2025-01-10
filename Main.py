@@ -4,8 +4,9 @@ import json
 from discord.ext import commands
 import os
 from dotenv import load_dotenv
-from tft13Dicts import Champions_dict_tft13, Items_dict_tft13, Champions_dict_traits_tft13
+from tft13Dicts import Champions_dict_tft13, Items_dict_tft13, Champions_dict_traits_tft13, traits_list
 from collections import Counter
+import numpy
 
 # Load the .env file
 load_dotenv()
@@ -191,7 +192,7 @@ def AnalyzeSelected(PUUID, games):
 # returns player's most played unit
 def favouriteUnitPlayer(PUUID,amount):
     AnalyzeSelected(PUUID, 5)  # Assuming this function works as intended
-    player_data = readJSON(f"/Summoners/{PUUID}")  # Load the JSON data
+    player_data = readJSON(f"Summoners/{PUUID}")  # Load the JSON data
     units_counter = Counter()
 
     for game in player_data.values():  # Iterate over the game data
@@ -235,7 +236,6 @@ def getTFTmatches(PUUID, count = 1):
 def getTFTmatchInfo(matchId):
     url = f"{BASE_URL}/tft/match/v1/matches/{matchId}?api_key={RIOT_API_KEY}"
     response = requests.get(url)
-    print(url)
     if response.status_code == 200:
         Match_data = response.json()
         return Match_data
@@ -282,7 +282,6 @@ def getTFTinfoFromSummonerId(summonerId):
     response = requests.get(url)
     if response.status_code == 200:
         Player_data = response.json()
-        print(url)
         return Player_data
     
     print(f"Could not reach getTFTinfoFromSummonerId")
@@ -292,8 +291,8 @@ def getTFTinfoFromSummonerId(summonerId):
 def getSpectatorTFTFromPUUID(PUUID):
     url = f"https://eun1.api.riotgames.com/lol/spectator/tft/v5/active-games/by-puuid/{PUUID}?api_key={RIOT_API_KEY}"
     response = requests.get(url)
-    if response.status_code == 200:
-        Match_data = response.json()
+    Match_data = response.json()
+    if response.status_code == 200 and Match_data:
         return Match_data
     
     url = f"https://euw1.api.riotgames.com/lol/spectator/tft/v5/active-games/by-puuid/{PUUID}?api_key={RIOT_API_KEY}"
@@ -440,7 +439,7 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
                 doubleupWR = round(doubleupWR, 2)
                 if x['tier'] == "MASTER" or x['tier'] == "GRANDMASTER" or x['tier'] == "CHALLENGER" : ACCURATE = getAccurateRank(summonerID,"RANKED_TFT_DOUBLE_UP")
                 else : ACCURATE =""
-                value=f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP {ACCURATE} \n Top 2 W/R: {doubleupWR}%"
+                value=f"{x['tier'].lower().capitalize()} {x['rank']} - {x['leaguePoints']}LP {ACCURATE} \n Top 2 W/R: {doubleupWR}%"
                 if x["hotStreak"] == True:
                     value +=f"\n **{summonerName} is on a winstreak!**🔥"
                 if x["freshBlood"] == True:
@@ -460,7 +459,7 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
                 rankedWR = round(rankedWR, 2)
                 if x['tier'] == "MASTER" or x['tier'] == "GRANDMASTER" or x['tier'] == "CHALLENGER" : ACCURATE = getAccurateRank(summonerID,"RANKED_TFT")
                 else : ACCURATE =""
-                value = f"{x['tier']} {x['rank']} - {x['leaguePoints']}LP {ACCURATE}\n Top 4 W/R: {rankedWR}%"
+                value = f"{x['tier'].lower().capitalize()} {x['rank']} - {x['leaguePoints']}LP {ACCURATE}\n Top 4 W/R: {rankedWR}%"
                 if x["hotStreak"] == True:
                     value +=f"\n **{summonerName} is on a winstreak!**🔥"
                 if x["freshBlood"] == True:
@@ -478,7 +477,7 @@ async def profile(ctx, summoner_name: str, summoner_tag: str = "eune"):
             if (x["losses"] + x["wins"]) != 0:
                 hrWR = x["wins"] / (x["wins"] + x["losses"]) * 100
                 hrWR = round(hrWR, 2)
-                value =f"{x['ratedTier']}, {x['ratedRating']} Rating\n Top 4 W/R: {hrWR}%"
+                value =f"{x['ratedTier'].lower().capitalize()}, {x['ratedRating']} Rating\n Top 4 W/R: {hrWR}%"
                 embed.add_field(
                     name="• HyperRoll",
                     value= value,
@@ -523,8 +522,25 @@ async def ingame(ctx, summoner_name: str, summoner_tag:str ="eune"):
         await ctx.send("Could not retrieve summonerDATA")
         return
     
+    TFTSummonerinfo = getTFTinfoFromSummonerId(summonerDATA["id"])
+    if not TFTSummonerinfo:
+        await ctx.send("Could not reach TFT info")
+        return
+    
     profile_icon = f"https://ddragon.leagueoflegends.com/cdn/14.24.1/img/profileicon/{summonerDATA["profileIconId"]}.png"
-    gametime = f"{int(Match_info["gameLength"]/60)}:{Match_info["gameLength"]%60}"
+    gametime = f"**{int(Match_info["gameLength"]/60)}:{Match_info["gameLength"]%60}**"
+    gamerank = ""
+    queue = Match_info["gameQueueConfigId"] # 1160 = doubleup, 1100 = ranked
+    
+    if queue == 1160: queue = "RANKED_TFT_DOUBLE_UP"
+    if queue == 1100: queue = "RANKED_TFT"
+    for x in TFTSummonerinfo:
+        if x["queueType"] == queue:
+            gamerank = f"\nLobby's rank: **{x["tier"].lower().capitalize()}**"
+    if queue == "RANKED_TFT_DOUBLE_UP" or queue == "RANKED_TFT": 
+        queue =f"\nGame mode: **{tft_game_type[queue]}** "
+    else : queue = ""
+    
     
     Players = f""
     for player in Match_info["participants"]:
@@ -540,7 +556,7 @@ async def ingame(ctx, summoner_name: str, summoner_tag:str ="eune"):
     # Create the Embed match        
     embed = discord.Embed(
         title=f"{player_name}'s live game:",
-        description=f"Game time: {gametime}",
+        description=f"Game time: {gametime}{gamerank}{queue}",
         color=discord.Color.green()
     ).set_thumbnail(url = profile_icon)
         
@@ -548,6 +564,7 @@ async def ingame(ctx, summoner_name: str, summoner_tag:str ="eune"):
     embed.set_author(name= "Pilbot", icon_url=BOT_PICTURE, url="" )
     embed.set_footer(text=f"Match ID: {Match_info["gameId"]}")
     await ctx.send(embed=embed)
+    print(f"Sent ingame info")
     
         
 # Returns match history for {games} matches
@@ -566,7 +583,7 @@ async def history(ctx, summoner_name: str, summoner_tag: str = "eune", games: in
         return
 
     if len(Match) == 0:
-        await ctx.send(f"No matches found for {summoner_name}")
+        await ctx.send(f"No matches found for {summoner_name}.")
         print(f"No matches found for {summoner_name}")
         return
 
@@ -719,6 +736,11 @@ async def Unit(ctx, unit: str, unit_: str = ""):
     
     await ctx.send(embed=embed)
     
+
+# Returns random tarits
+@bot.command()
+async def random(ctx):
+    await ctx.send(f"{traits_list[numpy.random.randint(0,24)]} + {traits_list[numpy.random.randint(0,24)]}")
     
 # Run.
 bot.run(TOKEN)

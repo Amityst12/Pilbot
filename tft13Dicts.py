@@ -132,6 +132,9 @@ Champions_dict_traits_tft13 = {
     "TFT13_Zyra" : "Experiment, Sorcerer"
 }
 
+traits_list = ["Emissary", "Scrap", "Sorcerer", "Form Swapper", "Conqueror", "Sentinel", "Watcher", "Pit Fighter", "Bruiser", "Artillerist", "Visionary","Sniper","Rebel", "Enforcer",
+              "Dominator", "Ambusher","Quickstriker","Experiment","Automata","Black Rose","Academy","Firelight","Family","Chem-Baron"]
+
 Items_dict_tft13 = {
     # Items
     "TFT_Item_ArchangelsStaff": "Archangel's Staff",

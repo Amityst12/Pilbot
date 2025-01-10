@@ -13,5 +13,50 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Amumu, TFT13_Nocturne, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_TwistedFate, TFT13_Ambessa, TFT13_Twitch, TFT13_Malzahar"
+    },
+    "EUN1_3722145775": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Darius, TFT13_FlyGuy, TFT13_Gangplank, TFT13_Ekko, TFT13_Illaoi, TFT13_Vi, TFT13_Rumble, tft13_jinx"
+    },
+    "EUN1_3723928698": {
+        "top4": true,
+        "top1": true,
+        "units": "TFT13_Lux, TFT13_Zyra, TFT13_Vladimir, tft13_swain, TFT13_Cassiopeia, TFT13_Nami, tft13_elise, TFT13_Zoe, TFT13_LeBlanc, TFT13_Sion"
+    },
+    "EUN1_3723158768": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Red, TFT13_Urgot, tft13_swain, TFT13_Gangplank, tft13_elise, TFT13_Vi, TFT13_Jayce, TFT13_Lieutenant, tft13_jinx, TFT13_JayceSummon"
+    },
+    "EUN1_3722574236": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Lux, TFT13_Amumu, TFT13_Nocturne, TFT13_Vladimir, TFT13_Blitzcrank, TFT13_KogMaw, TFT13_Malzahar, TFT13_Caitlyn, TFT13_Lux"
+    },
+    "EUN1_3722210115": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Singed, TFT13_Nocturne, TFT13_Akali, TFT13_Ambessa, TFT13_Ambessa, TFT13_Ambessa, TFT13_Garen, TFT13_Garen, TFT13_Garen"
+    },
+    "EUN1_3721509270": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_RenataGlasc, TFT13_Chainsaw, TFT13_Gremlin, TFT13_Silco, TFT13_DrMundo, TFT13_Mordekaiser, TFT13_Rumble, TFT13_Viktor"
+    },
+    "EUN1_3721289033": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Draven, TFT13_Blue, TFT13_Red, tft13_swain, TFT13_Gangplank, tft13_elise, TFT13_Vi, TFT13_MissMage"
+    },
+    "EUN1_3720314184": {
+        "top4": false,
+        "top1": false,
+        "units": "TFT13_Blue, TFT13_Trundle, TFT13_Ziggs, TFT13_Camille, TFT13_Blitzcrank, TFT13_Gremlin, TFT13_Silco"
+    },
+    "EUN1_3720108203": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Vex, TFT13_Nocturne, TFT13_Rell, TFT13_RenataGlasc, TFT13_NunuWillump, TFT13_Heimerdinger, TFT13_Illaoi, TFT13_Malzahar"
     }
 }

@@ -5379,5 +5379,101 @@
             "top1": false,
             "items": ""
         }
+    },
+    "EUN1_3720376575": {
+        "bvhBclUPeaE-vy3u63jZoVpH2dFm9q0B3qDi0G7rOyIJUvZnbK5FBGVp8RxLwwkagj0PoK7gW3KZ3g": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3722955475": {
+        "NH0g5bMlPhsHsIfhCa5m7ds1cODXg7OIMal0rxKae5mOsRcui0rcD8t7qXiE3mqd_MWMPkIuL6cQgg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_MadredsBloodrazor, TFT_Item_SpearOfShojin, TFT4_Item_OrnnTheCollector"
+        }
+    },
+    "EUN1_3719413549": {
+        "qDo00BBjidY1KvbgEyE2AxSXUe49PYAL0clmwN5anMJHVX8f0cHOTGL55ENRyyvPR8ze1pfSLPs5bg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ForceOfNature"
+        }
+    },
+    "EUN1_3719388381": {
+        "ojGd3WtCJbJiaciF8nyfLtxV2wlkEKcCAVd_PqRvw9gUFZSLKPWsnyLPk6EJRfnMK9NVcBtnqBoVZw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_InfinityEdge, TFT_Item_RapidFireCannon, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3718389375": {
+        "t9RnN0jrZUvp-1qDEmDaqdSBHIKDaw15eUxCGIweTyhNKBMCYNEJGklkmCJ4z8svvtKrtlFx5Vl66Q": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3717201970": {
+        "BEIFL3Ugye7rWmABdYViWBnTqyyhfM0Wwa25ykZfnOWI0osRE4pJtMM-bXTIOfTAVdraAirf0T6n0Q": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_LastWhisper, TFT_Item_BFSword"
+        }
+    },
+    "EUN1_3722574236": {
+        "hbCbyn4LUogkEb7sO9_0mO9CWnIXA1n7B7fzBMnU8FREZCTJDD7hTD8evMRTB1zepyJBvi0EHjs6bw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_GuinsoosRageblade, TFT_Item_RecurveBow"
+        }
+    },
+    "EUN1_3722210115": {
+        "MCiFDZb9PTn20m8rlyZluLi3TrKk4UqkNGGyWfpuFoTn63lLSkma73gK9vLAKQcSnk7APntjZvaPYA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_LastWhisper, TFT_Item_RunaansHurricane, TFT_Item_PowerGauntlet"
+        }
+    },
+    "EUN1_3721509270": {
+        "T847yGd2bYSZ1FSVnmguzaCoYND2ZuUcPhOQpkfd8Ef1iU9qycJ26QPZpFQCnCyaRXOjPgQsUuEwMg": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_SpearOfShojin, TFT_Item_InfinityEdge, TFT_Item_GuinsoosRageblade"
+        }
+    },
+    "EUN1_3721289033": {
+        "TenkLvcz9gYIY0LO1hPa1pyRBrF4KHPQ6jDqWUz_Lh9mWmGg-liZ4qYtAC57kIbEmihGT3aXluGdcQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT7_Item_ShimmerscaleHeartOfGold"
+        }
+    },
+    "EUN1_3720314184": {
+        "O5_bwDxwZ0nhgdv-8AlGmY5ZyU2Ptk8DsIoWXIFnzK96itvcNLqvI8MiL6Mba4hKaZvppFeYNBCQzw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_RapidFireCannon, TFT_Item_UnstableConcoction"
+        }
+    },
+    "EUN1_3724105208": {
+        "Xn9JXfjojxuw5SdtPCNYjD-w-bCnhoLKBq2X7zRjTO7ycq3-3NUyuRdiMavk3UghXaor_ECU3WeiYA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_InfinityEdge, TFT_Item_GuinsoosRageblade"
+        },
+        "Z4Fx_MBsI5VgTkMoMLaBLZbK2WtvEON1TMsF2QWewOw-AhAq_Zv1KFWx-kQpr6p6MLZ6fevxuoofGA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3724623861": {
+        "oG9LRmc7U4o9-AMPZ9r5qeoY6-zFyy-XRZHjwJwCMbJEQsE5fa0mzyIafPCgR2tZJcJSJbiArZ8mfQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
     }
 }

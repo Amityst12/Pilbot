@@ -13,5 +13,10 @@
         "top4": true,
         "top1": false,
         "units": "TFT13_Morgana, TFT13_Vladimir, TFT13_Rell, TFT13_RenataGlasc, TFT13_NunuWillump, TFT13_Heimerdinger, TFT13_Elise, TFT13_Malzahar, TFT13_Rumble, TFT13_Sion"
+    },
+    "EUN1_3724636035": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Vladimir, TFT13_Ziggs, TFT13_Cassiopeia, TFT13_Elise, TFT13_Garen, TFT13_DrMundo, TFT13_LeBlanc, TFT13_Mordekaiser, TFT13_Sion"
     }
 }

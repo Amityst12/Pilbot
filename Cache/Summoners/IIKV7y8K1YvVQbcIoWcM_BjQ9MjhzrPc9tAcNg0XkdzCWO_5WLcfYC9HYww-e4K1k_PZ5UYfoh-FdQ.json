@@ -3,5 +3,10 @@
         "top4": false,
         "top1": false,
         "units": "TFT13_Zyra, TFT13_Red, TFT13_Red, TFT13_Blitzcrank, TFT13_Blitzcrank"
+    },
+    "EUN1_3717676797": {
+        "top4": true,
+        "top1": false,
+        "units": "TFT13_Lux, TFT13_Zyra, TFT13_Vladimir, tft13_swain, TFT13_Nami, TFT13_Elise, TFT13_Zoe, TFT13_Viktor"
     }
 }

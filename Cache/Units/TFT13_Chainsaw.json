@@ -8028,5 +8028,187 @@
             "top1": false,
             "items": "TFT_Item_ThiefsGloves, TFT_Item_RedBuff, TFT_Item_GargoyleStoneplate"
         }
+    },
+    "EUN1_3720357235": {
+        "HOtmOpJw34Jxt_rZmFKkJFwqNGpqrdnGupDtVj1XwHRbfcB6vjwnpMGZoFxiKpSHShiayH2Tzv6wiw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_WarmogsArmor, TFT_Item_GargoyleStoneplate, TFT_Item_DragonsClaw"
+        }
+    },
+    "EUN1_3718370308": {
+        "IolOQcD7X_V_dnD3fwARoa5LM3i0AZVq9U0uUT0EhKa2yhpAUaYcQNOYJXI01jepnZN_AQXb7_q79w": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_WarmogsArmor, TFT_Item_DragonsClaw"
+        },
+        "bp30TivqFnxD179ttdNiSOa8SMNCTyPATU__51g74baocfAtQMNqSt5Qtq4To4DrNzWZWShh_PRT_Q": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_BrambleVest, TFT13_Crime_Gold_PiltovenHexplating, TFT_Item_GargoyleStoneplate"
+        },
+        "W7d4jefR3PIw28-agNoUVZcFXamjTdKMBXyp33Jf-Ma9Ee_gE7OJ-mEFNsDsLi4KRwoNaCf4KfV-bA": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        },
+        "sib47fHBZLWhd4V-HUGZM2fVs2IebklSs7eJKPY5n6ox7Le_euh24ssz5jICKx7-ovcJrlS0Dy1Buw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RedBuff, TFT_Item_IonicSpark, TFT13_Crime_Gold_PiltovenHexplating"
+        }
+    },
+    "EUN1_3719413549": {
+        "uvZMdyOh2VqUJWRUHiakiUXAyf4X8LdOQ0Jn5IoN1B-Reu8AGEL8606GAZ_hMJG_yVW2ilw8QYM_9g": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_ThiefsGloves, TFT_Item_EmptyBag, TFT_Item_EmptyBag"
+        },
+        "omoFg-IzPm4uhg9RMIagt2n8hMqbsqGXk6roZoApnWT9bbuvUkc7lpizSKdkGuXBFtzQhZQKFSmQBA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3718408038": {
+        "pMIygOTgJ2FfjJndS-UNMZ0UNyANiWQriCW9GSBSMxgk4pr7ghPX5v9DP1NytDsCmFf4kxTuZKHccw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT13_Crime_Prismatic_DestabilizedChemtank, TFT_Item_InfinityEdge, TFT_Item_Bloodthirster"
+        },
+        "7TE_uDrSi8FGe1h7PUANdPGI-t07hkuy3F_z_WurrypxqEJc5KykGtcvJF0mlGA3jgKqEyrU4lx3lw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Bloodthirster, TFT_Item_Artifact_SilvermereDawn, TFT_Item_GiantsBelt"
+        }
+    },
+    "EUN1_3718389375": {
+        "ZuCHnWsj8TKpXMJawhMGO1E32rnepptdrtP89I2D1yb98JxQ8VAOBew9_7AbItHeNUbXERJ8VkIufA": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3717676797": {
+        "ShAL785_vlDxZL9RDuML-bzqHquWeWj2wOjFxbPj3etVwfcu40vzzE-ILzcrp9qh9E9Az_Liv_bOwQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_RedBuff, TFT_Item_DragonsClaw, TFT_Item_BrambleVest"
+        },
+        "OLtfpH8YwVzN_74NgKXFyDcI5wcKraLNyl4vyDmeSPcbihMtHM35soNtdRkSgP4hGmUc1eo4zu_Raw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Redemption, TFT_Item_FrozenHeart, TFT_Item_HextechGunblade"
+        }
+    },
+    "EUN1_3717257088": {
+        "1gy3kJsyuQN0LcU5uSxOVqEy4Lz0kIA6-j_JIdq6DCU_2WVs1nf5kNeB5--l_Vay0Dhr4f4RB81yjA": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_DragonsClaw, TFT13_Item_ExperimentEmblemItem, TFT_Item_GargoyleStoneplate"
+        }
+    },
+    "EUN1_3717201970": {
+        "ANwgAp3McR2bydRs4-jKFkJfF168sGKNcnbffvc4ySmmbygh4nc0DfayqJ6zzP26SIvKj5ApYzzbHw": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_RedBuff, TFT_Item_GargoyleStoneplate, TFT13_Crime_Prismatic_DestabilizedChemtank"
+        },
+        "bp30TivqFnxD179ttdNiSOa8SMNCTyPATU__51g74baocfAtQMNqSt5Qtq4To4DrNzWZWShh_PRT_Q": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3722145775": {
+        "dzaOssBkMgd5Vc_GlOfOPHWg-MQtTFDnmx_8cJzqXRfrTj_oLkP2US4ybT_xJkwBBKG9v8M2buJ4Ag": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_Redemption, TFT_Item_HextechGunblade, TFT_Item_Leviathan"
+        },
+        "uYPUtefvR1Vv_KCJCZgFlXIOkeOPPB38wOqEAHR_VxDEJIshDwGKpZnIv0YhVFRR0NKDL9AKkNsQeA": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT_Item_InfinityEdge, TFT_Item_RedBuff"
+        }
+    },
+    "EUN1_3723928698": {
+        "dCCUU2fdfd-HyYggGR1iSczcWqo0VTrSwKf0ibw61NvkIUdtcfuwHq6oXLuCr8kVWEU9zMEMfhpDZg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Crownguard"
+        }
+    },
+    "EUN1_3723158768": {
+        "AqwZbEcANbaw6GVbqzaIxVyI7v_MIkRLKJtlQrLJtUXqEImhQatQe8yWWGioqgdSyeUIhh4Lbl_lrA": {
+            "top4": true,
+            "top1": true,
+            "items": "TFT13_Crime_Silver_PiltovenHexplating, TFT_Item_GargoyleStoneplate, TFT13_Crime_Bronze_ChemGrips"
+        },
+        "hbVAJeCW5Q7LMTSjvbX09xSkA6JBBxjSUSlDWbDPECGDoM2pgG2YrAP23DbMaFYmw3qPjGKCrOrxMQ": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3722574236": {
+        "K4dAnCanYZo6gNOCMzJIRu62vEnZ4T_B1u-ricyY-gRIiY5Vxz9jFijw9RZzMoTjc-OmtTwnwWmRBA": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_WarmogsArmor, TFT13_Crime_Silver_ExecutionersVorpalblade"
+        }
+    },
+    "EUN1_3721509270": {
+        "h0T5wAeU7j8lutgQ0hecPSE4dlFOMKUzo7V7f80U_jy7a1h8PFHY1guoBIH6E8CrISgz5g8KEHNimg": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_Bloodthirster, TFT_Item_PowerGauntlet"
+        },
+        "OJSAgs2sUPHXXfrCvLRS2FTNMuHNyCcWb5xj1IrUAQ2FtoDDFjpdRf05rHSuPm5zCjI0xQJno7HHAw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_RedBuff, TFT_Item_Artifact_HorizonFocus"
+        },
+        "n0GgHRA_p6v33dAv0hJhLkj-tDUntmx1l-0zcSRuOKAXEDjHjUJV3uW0iOnTwhx3oeAcTJ2-wKqp4A": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_GargoyleStoneplate, TFT13_Crime_Silver_PiltovenHexplating, TFT_Item_RedBuff"
+        },
+        "xIKln3MRSa6R3MKS1CU5DNaIrGHEUj8C-7INO5NhhSN6rFnwP9Z_q9H66BEeJYHJMEdo8RLi8vxtCw": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT13_Crime_Gold_ShimmerBloom, TFT_Item_TitansResolve, TFT_Item_RedBuff"
+        }
+    },
+    "EUN1_3721289033": {
+        "OaRbXuiTfpUjikHKv5Fx6GUgYust2Y23jdx1OjcSmiHwjNZEpIWp_B9DveuOmQ9l3y1IdfCrUTcHhQ": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT4_Item_OrnnInfinityForce, TFT13_Crime_Bronze_MiningGauntlet, TFT_Item_InfinityEdge"
+        },
+        "IjCUboqKqXgY_hmUHA9OoB037LCE96pkw_KVt9mGZLUUIq8xkhBKJ3bUdzkmjMoOhM3eIi9zggM0uw": {
+            "top4": false,
+            "top1": false,
+            "items": "TFT_Item_WarmogsArmor, TFT_Item_GargoyleStoneplate, TFT_Item_NegatronCloak"
+        }
+    },
+    "EUN1_3724105208": {
+        "RRK-VLEi6vnUbTEoq78mJi-V9_ZslIVVcOn9cserxUyWo1hCtygjhDUznTtXyVIl-M7Os9XhhG3NHg": {
+            "top4": false,
+            "top1": false,
+            "items": ""
+        },
+        "UHW99NvR0WfBTrj5BsQI5u9u3L7mEtGjbE_I98VRm-t7UzWTli5Oj1Tj8PmAnxS-C6-AYII9ZjG3rQ": {
+            "top4": true,
+            "top1": false,
+            "items": ""
+        }
+    },
+    "EUN1_3724623861": {
+        "l8jY_btlqFAIaqO_Kozp-Sod31J0vG8LKKVQJNhP_r-7Wd_UmITXmsBeX3YdZ0XamRP-d4zR1wyLxg": {
+            "top4": true,
+            "top1": false,
+            "items": "TFT_Item_SpectralGauntlet, TFT_Item_RedBuff, TFT_Item_NightHarvester"
+        }
     }
 }
