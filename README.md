@@ -97,14 +97,10 @@ Contributions are welcome! To contribute:
 
 This project is licensed under the MIT License file.
 
----
-
 ## Acknowledgments
 
 Pilbot was created by Amityst12 using Riot's API.
 Special thanks to the TFT community for their feedback and support.
-
----
 
 ## Contact
 
